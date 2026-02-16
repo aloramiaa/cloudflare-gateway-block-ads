@@ -13,8 +13,10 @@ function error() {
 
 # Delete files
 echo "Deleting files..."
-rm oisd_small_domainswild2.txt
-rm oisd_small_domainswild2.txt.*
+rm -f oisd_small_domainswild2.txt
+rm -f oisd_small_domainswild2.txt.*
+rm -f oisd_big_domainswild2.txt
+rm -f oisd_big_domainswild2.txt.*
 
 # Get current lists from Cloudflare
 current_lists=$(curl -sSfL --retry "$MAX_RETRIES" --retry-all-errors -X GET "https://api.cloudflare.com/client/v4/accounts/${ACCOUNT_ID}/gateway/lists" \
