@@ -1,16 +1,19 @@
 #!/bin/bash
 
-# Setup basic variables
+# 1. Setup Timestamps and Folder Structure
+# We define START_TIME to exactly 1 hour ago
 START_TIME=$(date -u -d "1 hour ago" +"%Y-%m-%dT%H:%M:%SZ")
 END_TIME=$(date -u +"%Y-%m-%dT%H:%M:%SZ")
 YEAR_MONTH=$(date -u -d "1 hour ago" +"%Y/%m")
 FILE_NAME=$(date -u -d "1 hour ago" +"%Y%m%d_%H%M%S.json")
+
 ALL_LOGS="[]"
 TOTAL_FETCHED=0
 
 echo "Fetching logs from $START_TIME to $END_TIME..."
 
-# Begin Pagination Loop
+# 2. Begin Pagination Loop
+# This loop keeps asking for data until it runs out of logs
 while true; do
     echo "Querying batch (Current total: $TOTAL_FETCHED)..."
     
@@ -34,6 +37,7 @@ while true; do
       }
     }'
 
+    # Fetch from Cloudflare
     RESPONSE=$(curl -s -X POST "https://api.cloudflare.com/client/v4/graphql" \
          -H "Authorization: Bearer ${API_TOKEN}" \
          -H "Content-Type: application/json" \
@@ -51,12 +55,12 @@ while true; do
     ALL_LOGS=$(echo "$ALL_LOGS $BATCH" | jq -s 'add')
     TOTAL_FETCHED=$((TOTAL_FETCHED + BATCH_COUNT))
 
-    # If we got exactly 1000, there is probably more data. 
-    # Update the START_TIME to the timestamp of the very last log in this batch.
+    # If we got exactly 1000, there is more data waiting. 
+    # Update START_TIME to the exact timestamp of the very last log.
     if [[ $BATCH_COUNT -eq 1000 ]]; then
         START_TIME=$(echo "$BATCH" | jq -r '.[-1].datetime')
     else
-        break # We got less than 1000, meaning we hit the end of the data.
+        break # We hit the end of the data
     fi
 done
 
@@ -67,22 +71,27 @@ if [[ $TOTAL_FETCHED -eq 0 ]]; then
     exit 0
 fi
 
-# HOT STORAGE: Push ALL logs to Axiom
+# 3. COLD STORAGE: Save to GitHub FIRST
+# We must create the file first so curl can read it directly from disk
+echo "Archiving to GitHub..."
+mkdir -p "logs/$YEAR_MONTH"
+FILE_PATH="logs/$YEAR_MONTH/$FILE_NAME"
+echo "$ALL_LOGS" > "$FILE_PATH"
+
+# 4. HOT STORAGE: Push the FILE to Axiom
+# The '@' symbol tells curl to upload the file contents directly, 
+# bypassing the Linux character limit completely.
 echo "Pushing $TOTAL_FETCHED logs to Axiom..."
 curl -s -X POST "https://api.axiom.co/v1/datasets/cloudflare-dns/ingest" \
   -H "Authorization: Bearer $AXIOM_TOKEN" \
   -H "Content-Type: application/json" \
-  -d "$ALL_LOGS"
+  -d @"$FILE_PATH"
 
-# COLD STORAGE: Save to GitHub
-echo "Archiving to GitHub..."
-mkdir -p "logs/$YEAR_MONTH"
-echo "$ALL_LOGS" > "logs/$YEAR_MONTH/$FILE_NAME"
-
+# 5. Commit to GitHub Archive
 git config --global user.email "github-actions[bot]@users.noreply.github.com"
 git config --global user.name "github-actions[bot]"
 
-git add "logs/$YEAR_MONTH/$FILE_NAME"
+git add "$FILE_PATH"
 git commit -m "Auto-archive $TOTAL_FETCHED logs for $FILE_NAME"
 git push origin main
 
