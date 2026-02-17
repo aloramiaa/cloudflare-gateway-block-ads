@@ -1,0 +1,854 @@
+[
+  {
+    "datetime": "2026-02-17T15:56:15Z",
+    "locationName": "Oppo",
+    "queryName": "play.googleapis.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T15:56:20Z",
+    "locationName": "Oppo",
+    "queryName": "gateway.discord.gg",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T15:56:29Z",
+    "locationName": "Oppo",
+    "queryName": "incoming.telemetry.mozilla.org",
+    "resolverDecision": 9
+  },
+  {
+    "datetime": "2026-02-17T15:56:31Z",
+    "locationName": "Oppo",
+    "queryName": "versioncheck-bg.addons.mozilla.org",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T15:56:36Z",
+    "locationName": "Oppo",
+    "queryName": "cdn.discordapp.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T15:57:04Z",
+    "locationName": "Oppo",
+    "queryName": "graph.instagram.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T15:57:04Z",
+    "locationName": "Oppo",
+    "queryName": "i-fallback.instagram.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T15:57:04Z",
+    "locationName": "Oppo",
+    "queryName": "i.instagram.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T15:57:04Z",
+    "locationName": "Oppo",
+    "queryName": "graph-fallback.facebook.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T15:57:06Z",
+    "locationName": "Oppo",
+    "queryName": "g.whatsapp.net",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T15:57:13Z",
+    "locationName": "Oppo",
+    "queryName": "android.clients.google.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T15:57:13Z",
+    "locationName": "Oppo",
+    "queryName": "play-fe.googleapis.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T15:57:14Z",
+    "locationName": "Oppo",
+    "queryName": "playstoregatewayadapter-pa.googleapis.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T15:57:21Z",
+    "locationName": "Oppo",
+    "queryName": "connectivitycheck.gstatic.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T15:57:56Z",
+    "locationName": "Oppo",
+    "queryName": "9e130401-9205-472b-bc9f-68ffb5155cb2-netseer-ipaddr-assoc.xz.fbcdn.net",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T15:58:00Z",
+    "locationName": "Oppo",
+    "queryName": "gateway.discord.gg",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T15:58:11Z",
+    "locationName": "Oppo",
+    "queryName": "media3.giphy.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T15:58:11Z",
+    "locationName": "Oppo",
+    "queryName": "media2.giphy.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T15:58:11Z",
+    "locationName": "Oppo",
+    "queryName": "media0.giphy.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T15:58:15Z",
+    "locationName": "Oppo",
+    "queryName": "media4.giphy.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T16:00:44Z",
+    "locationName": "Oppo",
+    "queryName": "g.whatsapp.net",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T16:00:46Z",
+    "locationName": "Oppo",
+    "queryName": "pool.ntp.org",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T16:00:46Z",
+    "locationName": "Oppo",
+    "queryName": "graph.whatsapp.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T16:01:04Z",
+    "locationName": "Oppo",
+    "queryName": "android.googleapis.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T16:01:05Z",
+    "locationName": "Oppo",
+    "queryName": "www.googleapis.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T16:02:04Z",
+    "locationName": "Oppo",
+    "queryName": "graph-fallback.facebook.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T16:02:04Z",
+    "locationName": "Oppo",
+    "queryName": "graph-fallback.instagram.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T16:02:04Z",
+    "locationName": "Oppo",
+    "queryName": "graph.facebook.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T16:02:04Z",
+    "locationName": "Oppo",
+    "queryName": "graph.instagram.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T16:02:04Z",
+    "locationName": "Oppo",
+    "queryName": "i-fallback.instagram.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T16:02:24Z",
+    "locationName": "Oppo",
+    "queryName": "pro.openweathermap.org",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T16:02:32Z",
+    "locationName": "Oppo",
+    "queryName": "play.googleapis.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T16:02:37Z",
+    "locationName": "Oppo",
+    "queryName": "people-pa.googleapis.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T16:02:45Z",
+    "locationName": "Oppo",
+    "queryName": "meetings.googleapis.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T16:02:59Z",
+    "locationName": "Oppo",
+    "queryName": "dialercallinfolookup-pa.googleapis.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T16:03:04Z",
+    "locationName": "Oppo",
+    "queryName": "icosa-service-in.allawnos.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T16:03:24Z",
+    "locationName": "Oppo",
+    "queryName": "github.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T16:03:28Z",
+    "locationName": "Oppo",
+    "queryName": "gateway.discord.gg",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T16:03:36Z",
+    "locationName": "Oppo",
+    "queryName": "discord.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T16:03:40Z",
+    "locationName": "Oppo",
+    "queryName": "api.spotify.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T16:03:42Z",
+    "locationName": "Oppo",
+    "queryName": "dealer.spotify.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T16:03:43Z",
+    "locationName": "Oppo",
+    "queryName": "litterbox.catbox.moe",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T16:03:47Z",
+    "locationName": "Oppo",
+    "queryName": "cdn.discordapp.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T16:03:48Z",
+    "locationName": "Oppo",
+    "queryName": "play-fe.googleapis.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T16:04:03Z",
+    "locationName": "Oppo",
+    "queryName": "latency.discord.media",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T16:04:34Z",
+    "locationName": "Oppo",
+    "queryName": "app-measurement.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T16:04:34Z",
+    "locationName": "Oppo",
+    "queryName": "connectivitycheck.android.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T16:04:58Z",
+    "locationName": "Oppo",
+    "queryName": "youtubei.googleapis.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T16:04:59Z",
+    "locationName": "Oppo",
+    "queryName": "i.ytimg.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T16:05:01Z",
+    "locationName": "Oppo",
+    "queryName": "gateway.discord.gg",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T16:05:26Z",
+    "locationName": "Oppo",
+    "queryName": "media1.giphy.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T16:06:01Z",
+    "locationName": "Oppo",
+    "queryName": "g.whatsapp.net",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T16:06:02Z",
+    "locationName": "Oppo",
+    "queryName": "graph.whatsapp.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T16:06:08Z",
+    "locationName": "Oppo",
+    "queryName": "pool.ntp.org",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T16:06:18Z",
+    "locationName": "Oppo",
+    "queryName": "885588a5-2ab0-4649-9079-63f86a13eb21-netseer-ipaddr-assoc.xz.fbcdn.net",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T16:06:55Z",
+    "locationName": "Oppo",
+    "queryName": "api.spotify.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T16:06:56Z",
+    "locationName": "Oppo",
+    "queryName": "www.google.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T16:06:57Z",
+    "locationName": "Oppo",
+    "queryName": "gateway.discord.gg",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T16:06:57Z",
+    "locationName": "Oppo",
+    "queryName": "www.google.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T16:07:04Z",
+    "locationName": "Oppo",
+    "queryName": "i-fallback.instagram.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T16:07:04Z",
+    "locationName": "Oppo",
+    "queryName": "graph.facebook.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T16:07:04Z",
+    "locationName": "Oppo",
+    "queryName": "graph-fallback.facebook.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T16:07:16Z",
+    "locationName": "Oppo",
+    "queryName": "external.fixm4-3.fna.fbcdn.net",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T16:07:24Z",
+    "locationName": "Oppo",
+    "queryName": "gateway.discord.gg",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T16:07:30Z",
+    "locationName": "Oppo",
+    "queryName": "firebase-settings.crashlytics.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T16:07:30Z",
+    "locationName": "Oppo",
+    "queryName": "firebaseinstallations.googleapis.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T16:07:30Z",
+    "locationName": "Oppo",
+    "queryName": "geller-pa.googleapis.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T16:07:37Z",
+    "locationName": "Oppo",
+    "queryName": "g.whatsapp.net",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T16:07:38Z",
+    "locationName": "Oppo",
+    "queryName": "firebaseremoteconfig.googleapis.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T16:07:40Z",
+    "locationName": "Oppo",
+    "queryName": "g-fallback.whatsapp.net",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T16:07:41Z",
+    "locationName": "Oppo",
+    "queryName": "fundingchoicesmessages.google.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T16:07:42Z",
+    "locationName": "Oppo",
+    "queryName": "fundingchoicesmessages.google.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T16:07:45Z",
+    "locationName": "Oppo",
+    "queryName": "e14.whatsapp.net",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T16:08:24Z",
+    "locationName": "Oppo",
+    "queryName": "graph.facebook.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T16:08:24Z",
+    "locationName": "Oppo",
+    "queryName": "firebaselogging-pa.googleapis.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T16:08:29Z",
+    "locationName": "Oppo",
+    "queryName": "mdp-appconf-in.heytapdl.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T16:09:03Z",
+    "locationName": "Oppo",
+    "queryName": "spot-pa.googleapis.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T16:09:59Z",
+    "locationName": "Oppo",
+    "queryName": "test-gateway.instagram.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T16:10:12Z",
+    "locationName": "Oppo",
+    "queryName": "firebaselogging.googleapis.com",
+    "resolverDecision": 9
+  },
+  {
+    "datetime": "2026-02-17T16:11:22Z",
+    "locationName": "Oppo",
+    "queryName": "test-gateway.instagram.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T16:11:24Z",
+    "locationName": "Oppo",
+    "queryName": "mail-api.proton.me",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T16:11:34Z",
+    "locationName": "Oppo",
+    "queryName": "android.googleapis.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T16:11:35Z",
+    "locationName": "Oppo",
+    "queryName": "play.googleapis.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T16:13:17Z",
+    "locationName": "Oppo",
+    "queryName": "test-gateway.instagram.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T16:13:31Z",
+    "locationName": "Oppo",
+    "queryName": "config.edge.skype.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T16:13:32Z",
+    "locationName": "Oppo",
+    "queryName": "mobile.events.data.microsoft.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T16:14:10Z",
+    "locationName": "Oppo",
+    "queryName": "mobile.events.data.microsoft.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T16:14:11Z",
+    "locationName": "Oppo",
+    "queryName": "g.whatsapp.net",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T16:14:13Z",
+    "locationName": "Oppo",
+    "queryName": "graph.whatsapp.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T16:14:34Z",
+    "locationName": "Oppo",
+    "queryName": "mobileconfiguration-pa.googleapis.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T16:14:34Z",
+    "locationName": "Oppo",
+    "queryName": "test-gateway.instagram.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T16:14:45Z",
+    "locationName": "Oppo",
+    "queryName": "mobile.events.data.microsoft.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T16:15:28Z",
+    "locationName": "Oppo",
+    "queryName": "mobile.events.data.microsoft.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T16:15:54Z",
+    "locationName": "Oppo",
+    "queryName": "mobile.events.data.microsoft.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T16:16:04Z",
+    "locationName": "Oppo",
+    "queryName": "i.instagram.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T16:16:04Z",
+    "locationName": "Oppo",
+    "queryName": "i-fallback.instagram.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T16:16:05Z",
+    "locationName": "Oppo",
+    "queryName": "graph-fallback.instagram.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T16:16:05Z",
+    "locationName": "Oppo",
+    "queryName": "graph.instagram.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T16:16:57Z",
+    "locationName": "Oppo",
+    "queryName": "mobile.events.data.microsoft.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T16:17:02Z",
+    "locationName": "Oppo",
+    "queryName": "test-gateway.instagram.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T16:17:45Z",
+    "locationName": "Oppo",
+    "queryName": "mobile.events.data.microsoft.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T16:18:31Z",
+    "locationName": "Oppo",
+    "queryName": "time.android.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T16:18:31Z",
+    "locationName": "Oppo",
+    "queryName": "mail-api.proton.me",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T16:18:57Z",
+    "locationName": "Oppo",
+    "queryName": "dns.quad9.net",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T16:19:08Z",
+    "locationName": "Oppo",
+    "queryName": "graph.instagram.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T16:19:09Z",
+    "locationName": "Oppo",
+    "queryName": "dns.google",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T16:19:10Z",
+    "locationName": "Oppo",
+    "queryName": "test-gateway.instagram.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T16:21:34Z",
+    "locationName": "Oppo",
+    "queryName": "mobile.events.data.microsoft.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T16:21:36Z",
+    "locationName": "Oppo",
+    "queryName": "test-gateway.instagram.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T16:22:52Z",
+    "locationName": "Oppo",
+    "queryName": "i.instagram.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T16:23:16Z",
+    "locationName": "Oppo",
+    "queryName": "mobile.events.data.microsoft.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T16:23:17Z",
+    "locationName": "Oppo",
+    "queryName": "test-gateway.instagram.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T16:24:35Z",
+    "locationName": "Oppo",
+    "queryName": "firebaseremoteconfig.googleapis.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T16:24:47Z",
+    "locationName": "Oppo",
+    "queryName": "mobile.events.data.microsoft.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T16:24:54Z",
+    "locationName": "Oppo",
+    "queryName": "test-gateway.instagram.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T16:25:12Z",
+    "locationName": "Oppo",
+    "queryName": "instagram.fixm4-3.fna.fbcdn.net",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T16:25:35Z",
+    "locationName": "Oppo",
+    "queryName": "3bd6bd2d-6037-463b-a8a9-9baa20da95e3-netseer-ipaddr-assoc.xy.fbcdn.net",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T16:26:05Z",
+    "locationName": "Oppo",
+    "queryName": "test-gateway.instagram.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T16:26:38Z",
+    "locationName": "Oppo",
+    "queryName": "dns.google.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T16:26:47Z",
+    "locationName": "Oppo",
+    "queryName": "mobile.events.data.microsoft.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T16:27:24Z",
+    "locationName": "Oppo",
+    "queryName": "mobile.events.data.microsoft.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T16:27:45Z",
+    "locationName": "Oppo",
+    "queryName": "test-gateway.instagram.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T16:28:05Z",
+    "locationName": "Oppo",
+    "queryName": "mobile.events.data.microsoft.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T16:28:42Z",
+    "locationName": "Oppo",
+    "queryName": "spot-pa.googleapis.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T16:28:42Z",
+    "locationName": "Oppo",
+    "queryName": "graph.facebook.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T16:28:47Z",
+    "locationName": "Oppo",
+    "queryName": "mobile.events.data.microsoft.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T16:29:09Z",
+    "locationName": "Oppo",
+    "queryName": "test-gateway.instagram.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T16:30:02Z",
+    "locationName": "Oppo",
+    "queryName": "mobile.events.data.microsoft.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T16:30:49Z",
+    "locationName": "Oppo",
+    "queryName": "test-gateway.instagram.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T16:30:59Z",
+    "locationName": "Oppo",
+    "queryName": "i.instagram.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T16:30:59Z",
+    "locationName": "Oppo",
+    "queryName": "graph-fallback.facebook.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T16:31:00Z",
+    "locationName": "Oppo",
+    "queryName": "graph.instagram.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T16:31:00Z",
+    "locationName": "Oppo",
+    "queryName": "i-fallback.instagram.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T16:31:00Z",
+    "locationName": "Oppo",
+    "queryName": "i.instagram.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T16:31:39Z",
+    "locationName": "Oppo",
+    "queryName": "mobile.events.data.microsoft.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T16:32:01Z",
+    "locationName": "Oppo",
+    "queryName": "test-gateway.instagram.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T16:32:22Z",
+    "locationName": "Oppo",
+    "queryName": "play.googleapis.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T16:33:32Z",
+    "locationName": "Oppo",
+    "queryName": "time.android.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T16:33:56Z",
+    "locationName": "Oppo",
+    "queryName": "test-gateway.instagram.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T16:37:39Z",
+    "locationName": "Oppo",
+    "queryName": "test-gateway.instagram.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T16:38:07Z",
+    "locationName": "Oppo",
+    "queryName": "g.whatsapp.net",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T16:38:09Z",
+    "locationName": "Oppo",
+    "queryName": "media-maa5-1.cdn.whatsapp.net",
+    "resolverDecision": 5
+  }
+]
