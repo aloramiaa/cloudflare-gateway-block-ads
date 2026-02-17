@@ -6,7 +6,7 @@ END_TIME=$(date -u +"%Y-%m-%dT%H:%M:%SZ")
 
 echo "Querying Gateway Analytics for logs from $START_TIME..."
 
-# The GraphQL Query using the correct field for Free/Pro accounts
+# The GraphQL Query with corrected field names for Free/Pro plans
 QUERY='{
   viewer {
     accounts(filter: {accountTag: "'$ACCOUNT_ID'"}) {
@@ -17,7 +17,7 @@ QUERY='{
       ) {
         dimensions {
           datetime
-          deviceName
+          userDeviceName
           queryName
           queryType
           resolverDecision
@@ -41,7 +41,7 @@ if echo "$RESPONSE" | jq -e '.errors' > /dev/null; then
     exit 1
 fi
 
-# Extract the dimensions into a flat array for the Google Sheet
+# Extract and clean data
 LOGS=$(echo "$RESPONSE" | jq -c '.data.viewer.accounts[0].gatewayResolverQueriesAdaptiveGroups | map(.dimensions)')
 
 if [[ "$LOGS" == "null" ]] || [[ $(echo "$LOGS" | jq 'length') -eq 0 ]]; then
@@ -51,7 +51,7 @@ fi
 
 echo "Found $(echo "$LOGS" | jq 'length') logs. Sending to Google Sheets..."
 
-# Send to Google Sheets Web App
+# Send to Google Sheets
 curl -L -X POST "$GOOGLE_SCRIPT_URL" \
      -H "Content-Type: application/json" \
      -d "$LOGS"
