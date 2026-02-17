@@ -4,9 +4,9 @@
 START_TIME=$(date -u -d "1 hour ago" +"%Y-%m-%dT%H:%M:%SZ")
 END_TIME=$(date -u +"%Y-%m-%dT%H:%M:%SZ")
 
-echo "Querying verified Gateway fields from $START_TIME..."
+echo "Querying Gateway fields from $START_TIME..."
 
-# 2. The GraphQL Query using ONLY verified fields from your schema
+# 2. GraphQL Query using ONLY verified fields from your terminal output
 QUERY='{
   viewer {
     accounts(filter: {accountTag: "'$ACCOUNT_ID'"}) {
@@ -19,7 +19,6 @@ QUERY='{
           datetime
           locationName
           queryName
-          queryType
           resolverDecision
         }
       }
