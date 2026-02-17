@@ -1,0 +1,2144 @@
+[
+  {
+    "datetime": "2026-02-17T14:52:16Z",
+    "locationName": "Samsung A30",
+    "queryName": "www.youtube.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T14:52:16Z",
+    "locationName": "Samsung A30",
+    "queryName": "s.youtube.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T14:52:21Z",
+    "locationName": "Samsung A30",
+    "queryName": "www.google.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T14:52:25Z",
+    "locationName": "Oppo",
+    "queryName": "test-gateway.instagram.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T14:52:30Z",
+    "locationName": "Warp",
+    "queryName": "www.google.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T14:52:54Z",
+    "locationName": "Warp",
+    "queryName": "oth.eve.mdt.qq.com",
+    "resolverDecision": 9
+  },
+  {
+    "datetime": "2026-02-17T14:52:57Z",
+    "locationName": "Samsung A30",
+    "queryName": "android.apis.google.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T14:53:00Z",
+    "locationName": "Warp",
+    "queryName": "kkb-production.jupyter-proxy.kaggle.net",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T14:53:08Z",
+    "locationName": "Oppo",
+    "queryName": "g.whatsapp.net",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T14:53:13Z",
+    "locationName": "Warp",
+    "queryName": "chatgpt.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T14:53:35Z",
+    "locationName": "Warp",
+    "queryName": "time.cloudflare.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T14:53:48Z",
+    "locationName": "Samsung A30",
+    "queryName": "youtubei.googleapis.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T14:53:48Z",
+    "locationName": "Samsung A30",
+    "queryName": "play.googleapis.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T14:53:54Z",
+    "locationName": "Warp",
+    "queryName": "kkb-production.jupyter-proxy.kaggle.net",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T14:53:55Z",
+    "locationName": "Warp",
+    "queryName": "oth.eve.mdt.qq.com",
+    "resolverDecision": 9
+  },
+  {
+    "datetime": "2026-02-17T14:54:03Z",
+    "locationName": "Warp",
+    "queryName": "www.cloudflarestatus.com",
+    "resolverDecision": 10
+  },
+  {
+    "datetime": "2026-02-17T14:54:09Z",
+    "locationName": "Oppo",
+    "queryName": "g.whatsapp.net",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T14:54:15Z",
+    "locationName": "Warp",
+    "queryName": "assets.msn.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T14:54:19Z",
+    "locationName": "Oppo",
+    "queryName": "graph.facebook.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T14:54:34Z",
+    "locationName": "Warp",
+    "queryName": "accounts.google.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T14:54:49Z",
+    "locationName": "Warp",
+    "queryName": "kkb-production.jupyter-proxy.kaggle.net",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T14:54:56Z",
+    "locationName": "Oppo",
+    "queryName": "www.google.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T14:54:57Z",
+    "locationName": "Warp",
+    "queryName": "oth.eve.mdt.qq.com",
+    "resolverDecision": 9
+  },
+  {
+    "datetime": "2026-02-17T14:55:14Z",
+    "locationName": "Warp",
+    "queryName": "chatgpt.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T14:55:15Z",
+    "locationName": "Warp",
+    "queryName": "ptb.discord.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T14:55:18Z",
+    "locationName": "Warp",
+    "queryName": "web.whatsapp.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T14:55:35Z",
+    "locationName": "Warp",
+    "queryName": "time.cloudflare.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T14:56:01Z",
+    "locationName": "Warp",
+    "queryName": "kkb-production.jupyter-proxy.kaggle.net",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T14:56:03Z",
+    "locationName": "Warp",
+    "queryName": "oth.eve.mdt.qq.com",
+    "resolverDecision": 9
+  },
+  {
+    "datetime": "2026-02-17T14:56:29Z",
+    "locationName": "Warp",
+    "queryName": "www.kaggle.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T14:56:31Z",
+    "locationName": "Oppo",
+    "queryName": "graph.facebook.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T14:56:31Z",
+    "locationName": "Oppo",
+    "queryName": "graph-fallback.instagram.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T14:56:31Z",
+    "locationName": "Oppo",
+    "queryName": "i-fallback.instagram.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T14:56:31Z",
+    "locationName": "Oppo",
+    "queryName": "i.instagram.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T14:57:02Z",
+    "locationName": "Warp",
+    "queryName": "kkb-production.jupyter-proxy.kaggle.net",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T14:57:04Z",
+    "locationName": "Warp",
+    "queryName": "oth.eve.mdt.qq.com",
+    "resolverDecision": 9
+  },
+  {
+    "datetime": "2026-02-17T14:57:23Z",
+    "locationName": "Warp",
+    "queryName": "analytics.falais.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T14:57:40Z",
+    "locationName": "Oppo",
+    "queryName": "test-gateway.instagram.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T14:58:03Z",
+    "locationName": "Warp",
+    "queryName": "kkb-production.jupyter-proxy.kaggle.net",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T14:58:06Z",
+    "locationName": "Warp",
+    "queryName": "oth.eve.mdt.qq.com",
+    "resolverDecision": 9
+  },
+  {
+    "datetime": "2026-02-17T14:58:20Z",
+    "locationName": "Warp",
+    "queryName": "cdn.discordapp.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T14:58:25Z",
+    "locationName": "Warp",
+    "queryName": "r3---sn-gwpa-pmhe.gvt1.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T14:58:25Z",
+    "locationName": "Warp",
+    "queryName": "redirector.gvt1.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T14:58:50Z",
+    "locationName": "Warp",
+    "queryName": "consumer.cloud.gist.build",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T14:58:51Z",
+    "locationName": "Warp",
+    "queryName": "consumer.cloud.gist.build",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T14:58:56Z",
+    "locationName": "Warp",
+    "queryName": "www.google.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T14:58:56Z",
+    "locationName": "Warp",
+    "queryName": "kkb-production.jupyter-proxy.kaggle.net",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T14:59:02Z",
+    "locationName": "Warp",
+    "queryName": "settings-win.data.microsoft.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T14:59:03Z",
+    "locationName": "Warp",
+    "queryName": "www.cloudflarestatus.com",
+    "resolverDecision": 10
+  },
+  {
+    "datetime": "2026-02-17T14:59:09Z",
+    "locationName": "Oppo",
+    "queryName": "g.whatsapp.net",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T14:59:09Z",
+    "locationName": "Oppo",
+    "queryName": "graph.whatsapp.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T14:59:12Z",
+    "locationName": "Warp",
+    "queryName": "oth.eve.mdt.qq.com",
+    "resolverDecision": 9
+  },
+  {
+    "datetime": "2026-02-17T14:59:15Z",
+    "locationName": "Oppo",
+    "queryName": "pool.ntp.org",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T14:59:16Z",
+    "locationName": "Warp",
+    "queryName": "chatgpt.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T14:59:35Z",
+    "locationName": "Warp",
+    "queryName": "ecs.office.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T14:59:43Z",
+    "locationName": "Oppo",
+    "queryName": "dialercallinfolookup-pa.googleapis.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T14:59:47Z",
+    "locationName": "Oppo",
+    "queryName": "mdp-appconf-in.heytapdl.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T15:00:03Z",
+    "locationName": "Warp",
+    "queryName": "crl4.digicert.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T15:00:06Z",
+    "locationName": "Warp",
+    "queryName": "kkb-production.jupyter-proxy.kaggle.net",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T15:00:14Z",
+    "locationName": "Warp",
+    "queryName": "oth.eve.mdt.qq.com",
+    "resolverDecision": 9
+  },
+  {
+    "datetime": "2026-02-17T15:00:20Z",
+    "locationName": "Oppo",
+    "queryName": "g.whatsapp.net",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T15:00:23Z",
+    "locationName": "Warp",
+    "queryName": "cdn.discordapp.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T15:00:27Z",
+    "locationName": "Warp",
+    "queryName": "go-updater.brave.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T15:00:28Z",
+    "locationName": "Warp",
+    "queryName": "extensionupdater.brave.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T15:00:29Z",
+    "locationName": "Samsung A30",
+    "queryName": "graph.facebook.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T15:00:35Z",
+    "locationName": "Warp",
+    "queryName": "time.cloudflare.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T15:01:09Z",
+    "locationName": "Warp",
+    "queryName": "kkb-production.jupyter-proxy.kaggle.net",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T15:01:15Z",
+    "locationName": "Warp",
+    "queryName": "oth.eve.mdt.qq.com",
+    "resolverDecision": 9
+  },
+  {
+    "datetime": "2026-02-17T15:01:26Z",
+    "locationName": "Oppo",
+    "queryName": "g.whatsapp.net",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T15:01:31Z",
+    "locationName": "Oppo",
+    "queryName": "i-fallback.instagram.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T15:01:31Z",
+    "locationName": "Oppo",
+    "queryName": "graph-fallback.facebook.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T15:01:31Z",
+    "locationName": "Oppo",
+    "queryName": "graph-fallback.instagram.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T15:01:31Z",
+    "locationName": "Oppo",
+    "queryName": "graph.facebook.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T15:01:51Z",
+    "locationName": "Samsung A30",
+    "queryName": "inwal.samsungpay.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T15:01:55Z",
+    "locationName": "Warp",
+    "queryName": "ptb.discord.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T15:02:10Z",
+    "locationName": "Warp",
+    "queryName": "kkb-production.jupyter-proxy.kaggle.net",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T15:02:11Z",
+    "locationName": "Warp",
+    "queryName": "usage-ping.brave.com",
+    "resolverDecision": 9
+  },
+  {
+    "datetime": "2026-02-17T15:02:13Z",
+    "locationName": "Warp",
+    "queryName": "mail.proton.me",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T15:02:16Z",
+    "locationName": "Warp",
+    "queryName": "oth.eve.mdt.qq.com",
+    "resolverDecision": 9
+  },
+  {
+    "datetime": "2026-02-17T15:02:19Z",
+    "locationName": "Warp",
+    "queryName": "accounts.google.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T15:02:32Z",
+    "locationName": "Samsung A30",
+    "queryName": "z-m-gateway.facebook.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T15:02:46Z",
+    "locationName": "Oppo",
+    "queryName": "g.whatsapp.net",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T15:02:54Z",
+    "locationName": "Oppo",
+    "queryName": "test-gateway.instagram.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T15:02:55Z",
+    "locationName": "Oppo",
+    "queryName": "test-gateway.instagram.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T15:02:59Z",
+    "locationName": "Oppo",
+    "queryName": "0.datadog.pool.ntp.org",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T15:03:00Z",
+    "locationName": "Oppo",
+    "queryName": "cloudflare-dns.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T15:03:02Z",
+    "locationName": "Oppo",
+    "queryName": "android.chat.openai.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T15:03:12Z",
+    "locationName": "Warp",
+    "queryName": "kkb-production.jupyter-proxy.kaggle.net",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T15:03:28Z",
+    "locationName": "Warp",
+    "queryName": "oth.eve.mdt.qq.com",
+    "resolverDecision": 9
+  },
+  {
+    "datetime": "2026-02-17T15:03:49Z",
+    "locationName": "Oppo",
+    "queryName": "youtubei.googleapis.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T15:03:55Z",
+    "locationName": "Oppo",
+    "queryName": "app-measurement.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T15:03:56Z",
+    "locationName": "Warp",
+    "queryName": "www.google.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T15:04:03Z",
+    "locationName": "Warp",
+    "queryName": "www.cloudflarestatus.com",
+    "resolverDecision": 10
+  },
+  {
+    "datetime": "2026-02-17T15:04:03Z",
+    "locationName": "Warp",
+    "queryName": "ecs.office.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T15:04:21Z",
+    "locationName": "Warp",
+    "queryName": "kkb-production.jupyter-proxy.kaggle.net",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T15:04:29Z",
+    "locationName": "Warp",
+    "queryName": "oth.eve.mdt.qq.com",
+    "resolverDecision": 9
+  },
+  {
+    "datetime": "2026-02-17T15:04:30Z",
+    "locationName": "Oppo",
+    "queryName": "play-fe.googleapis.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T15:04:34Z",
+    "locationName": "Warp",
+    "queryName": "unifiedaccess.gameloop.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T15:04:34Z",
+    "locationName": "Oppo",
+    "queryName": "obus-in.dc.heytapmobile.com",
+    "resolverDecision": 9
+  },
+  {
+    "datetime": "2026-02-17T15:04:34Z",
+    "locationName": "Oppo",
+    "queryName": "time.android.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T15:04:48Z",
+    "locationName": "Oppo",
+    "queryName": "connectivitycheck.android.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T15:04:51Z",
+    "locationName": "Oppo",
+    "queryName": "play.googleapis.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T15:05:11Z",
+    "locationName": "Oppo",
+    "queryName": "graph.facebook.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T15:05:15Z",
+    "locationName": "Warp",
+    "queryName": "ptb.discord.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T15:05:22Z",
+    "locationName": "Warp",
+    "queryName": "kkb-production.jupyter-proxy.kaggle.net",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T15:05:35Z",
+    "locationName": "Warp",
+    "queryName": "time.cloudflare.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T15:05:36Z",
+    "locationName": "Warp",
+    "queryName": "oth.eve.mdt.qq.com",
+    "resolverDecision": 9
+  },
+  {
+    "datetime": "2026-02-17T15:06:03Z",
+    "locationName": "Warp",
+    "queryName": "5f59-35-201-248-165.ngrok-free.app",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T15:06:04Z",
+    "locationName": "Warp",
+    "queryName": "5f59-35-201-248-165.ngrok-free.app",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T15:06:04Z",
+    "locationName": "Warp",
+    "queryName": "cdn.ngrok.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T15:06:06Z",
+    "locationName": "Warp",
+    "queryName": "anti-phishing-protection-toolbar.falais.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T15:06:07Z",
+    "locationName": "Warp",
+    "queryName": "analytics-toolbar.falais.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T15:06:09Z",
+    "locationName": "Warp",
+    "queryName": "fonts.googleapis.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T15:06:10Z",
+    "locationName": "Warp",
+    "queryName": "fonts.gstatic.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T15:06:15Z",
+    "locationName": "Warp",
+    "queryName": "static.sdkassets.chime.aws",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T15:06:20Z",
+    "locationName": "Warp",
+    "queryName": "msedge.api.cdp.microsoft.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T15:06:22Z",
+    "locationName": "Warp",
+    "queryName": "config.edge.skype.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T15:06:23Z",
+    "locationName": "Warp",
+    "queryName": "kkb-production.jupyter-proxy.kaggle.net",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T15:06:31Z",
+    "locationName": "Oppo",
+    "queryName": "i-fallback.instagram.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T15:06:31Z",
+    "locationName": "Oppo",
+    "queryName": "graph.facebook.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T15:06:34Z",
+    "locationName": "Oppo",
+    "queryName": "g.whatsapp.net",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T15:06:37Z",
+    "locationName": "Warp",
+    "queryName": "oth.eve.mdt.qq.com",
+    "resolverDecision": 9
+  },
+  {
+    "datetime": "2026-02-17T15:06:38Z",
+    "locationName": "Oppo",
+    "queryName": "pool.ntp.org",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T15:06:50Z",
+    "locationName": "Warp",
+    "queryName": "consumer.cloud.gist.build",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T15:06:58Z",
+    "locationName": "Warp",
+    "queryName": "www.bing.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T15:07:07Z",
+    "locationName": "Warp",
+    "queryName": "discord-attachments-uploads-prd.storage.googleapis.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T15:07:11Z",
+    "locationName": "Warp",
+    "queryName": "go-updater.brave.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T15:07:11Z",
+    "locationName": "Warp",
+    "queryName": "variations.brave.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T15:07:35Z",
+    "locationName": "Warp",
+    "queryName": "5f59-35-201-248-165.ngrok-free.app",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T15:07:38Z",
+    "locationName": "Warp",
+    "queryName": "oth.eve.mdt.qq.com",
+    "resolverDecision": 9
+  },
+  {
+    "datetime": "2026-02-17T15:07:58Z",
+    "locationName": "Warp",
+    "queryName": "www.bing.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T15:08:03Z",
+    "locationName": "Oppo",
+    "queryName": "g.whatsapp.net",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T15:08:04Z",
+    "locationName": "Oppo",
+    "queryName": "instantmessaging-pa.googleapis.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T15:08:06Z",
+    "locationName": "Oppo",
+    "queryName": "g-fallback.whatsapp.net",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T15:08:09Z",
+    "locationName": "Oppo",
+    "queryName": "test-gateway.instagram.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T15:08:12Z",
+    "locationName": "Oppo",
+    "queryName": "e11.whatsapp.net",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T15:08:14Z",
+    "locationName": "Oppo",
+    "queryName": "e13.whatsapp.net",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T15:08:21Z",
+    "locationName": "Warp",
+    "queryName": "kkb-production.jupyter-proxy.kaggle.net",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T15:08:25Z",
+    "locationName": "Samsung A30",
+    "queryName": "optimizationguide-pa.googleapis.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T15:08:40Z",
+    "locationName": "Warp",
+    "queryName": "oth.eve.mdt.qq.com",
+    "resolverDecision": 9
+  },
+  {
+    "datetime": "2026-02-17T15:08:52Z",
+    "locationName": "Warp",
+    "queryName": "5f59-35-201-248-165.ngrok-free.app",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T15:08:59Z",
+    "locationName": "Warp",
+    "queryName": "www.bing.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T15:09:03Z",
+    "locationName": "Warp",
+    "queryName": "www.cloudflarestatus.com",
+    "resolverDecision": 10
+  },
+  {
+    "datetime": "2026-02-17T15:09:20Z",
+    "locationName": "Oppo",
+    "queryName": "usc1-gcp-v61.api.snapchat.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T15:09:20Z",
+    "locationName": "Oppo",
+    "queryName": "gcp.api.snapchat.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T15:09:23Z",
+    "locationName": "Warp",
+    "queryName": "kkb-production.jupyter-proxy.kaggle.net",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T15:09:24Z",
+    "locationName": "Oppo",
+    "queryName": "g.whatsapp.net",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T15:09:25Z",
+    "locationName": "Oppo",
+    "queryName": "bolt-gcdn.sc-cdn.net",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T15:09:26Z",
+    "locationName": "Oppo",
+    "queryName": "aws-proxy-gcp.api.snapchat.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T15:09:26Z",
+    "locationName": "Oppo",
+    "queryName": "cf-st.sc-cdn.net",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T15:09:33Z",
+    "locationName": "Warp",
+    "queryName": "safebrowsing.brave.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T15:09:41Z",
+    "locationName": "Warp",
+    "queryName": "oth.eve.mdt.qq.com",
+    "resolverDecision": 9
+  },
+  {
+    "datetime": "2026-02-17T15:09:50Z",
+    "locationName": "Warp",
+    "queryName": "www.google.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T15:10:05Z",
+    "locationName": "Warp",
+    "queryName": "accounts.google.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T15:10:24Z",
+    "locationName": "Warp",
+    "queryName": "kkb-production.jupyter-proxy.kaggle.net",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T15:10:35Z",
+    "locationName": "Warp",
+    "queryName": "time.cloudflare.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T15:10:38Z",
+    "locationName": "Oppo",
+    "queryName": "g.whatsapp.net",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T15:10:46Z",
+    "locationName": "Warp",
+    "queryName": "ptb.discord.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T15:10:48Z",
+    "locationName": "Warp",
+    "queryName": "oth.eve.mdt.qq.com",
+    "resolverDecision": 9
+  },
+  {
+    "datetime": "2026-02-17T15:10:50Z",
+    "locationName": "Warp",
+    "queryName": "consumer.cloud.gist.build",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T15:11:03Z",
+    "locationName": "Warp",
+    "queryName": "cdn.discordapp.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T15:11:04Z",
+    "locationName": "Warp",
+    "queryName": "5f59-35-201-248-165.ngrok-free.app",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T15:11:04Z",
+    "locationName": "Warp",
+    "queryName": "media.discordapp.net",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T15:11:17Z",
+    "locationName": "Warp",
+    "queryName": "www.bing.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T15:11:23Z",
+    "locationName": "Warp",
+    "queryName": "discord-attachments-uploads-prd.storage.googleapis.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T15:11:23Z",
+    "locationName": "Warp",
+    "queryName": "dit.whatsapp.net",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T15:11:25Z",
+    "locationName": "Oppo",
+    "queryName": "connectivitycheck.android.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T15:11:29Z",
+    "locationName": "Warp",
+    "queryName": "kkb-production.jupyter-proxy.kaggle.net",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T15:11:31Z",
+    "locationName": "Oppo",
+    "queryName": "i.instagram.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T15:11:31Z",
+    "locationName": "Oppo",
+    "queryName": "i-fallback.instagram.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T15:11:31Z",
+    "locationName": "Oppo",
+    "queryName": "graph-fallback.instagram.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T15:11:54Z",
+    "locationName": "Warp",
+    "queryName": "oth.eve.mdt.qq.com",
+    "resolverDecision": 9
+  },
+  {
+    "datetime": "2026-02-17T15:11:54Z",
+    "locationName": "Warp",
+    "queryName": "search.yahoo.co.jp",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T15:12:05Z",
+    "locationName": "Warp",
+    "queryName": "5f59-35-201-248-165.ngrok-free.app",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T15:12:09Z",
+    "locationName": "Oppo",
+    "queryName": "g.whatsapp.net",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T15:12:11Z",
+    "locationName": "Warp",
+    "queryName": "usage-ping.brave.com",
+    "resolverDecision": 9
+  },
+  {
+    "datetime": "2026-02-17T15:12:12Z",
+    "locationName": "Warp",
+    "queryName": "notify.bugsnag.com",
+    "resolverDecision": 9
+  },
+  {
+    "datetime": "2026-02-17T15:12:18Z",
+    "locationName": "Warp",
+    "queryName": "login.live.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T15:12:19Z",
+    "locationName": "Warp",
+    "queryName": "graph.microsoft.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T15:12:19Z",
+    "locationName": "Warp",
+    "queryName": "substrate.office.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T15:12:20Z",
+    "locationName": "Warp",
+    "queryName": "settings-win.data.microsoft.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T15:12:32Z",
+    "locationName": "Oppo",
+    "queryName": "pro.openweathermap.org",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T15:12:48Z",
+    "locationName": "Oppo",
+    "queryName": "instagram.fixm4-3.fna.fbcdn.net",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T15:12:51Z",
+    "locationName": "Oppo",
+    "queryName": "instagram.fixm4-2.fna.fbcdn.net",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T15:12:51Z",
+    "locationName": "Oppo",
+    "queryName": "instagram.fixm4-1.fna.fbcdn.net",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T15:12:58Z",
+    "locationName": "Oppo",
+    "queryName": "web.facebook.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T15:12:59Z",
+    "locationName": "Oppo",
+    "queryName": "play.googleapis.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T15:12:59Z",
+    "locationName": "Oppo",
+    "queryName": "play-fe.googleapis.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T15:12:59Z",
+    "locationName": "Oppo",
+    "queryName": "android.clients.google.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T15:13:00Z",
+    "locationName": "Oppo",
+    "queryName": "prod-lt-playstoregatewayadapter-pa.googleapis.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T15:13:05Z",
+    "locationName": "Oppo",
+    "queryName": "connectivitycheck.gstatic.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T15:13:10Z",
+    "locationName": "Oppo",
+    "queryName": "2d766509-eb18-440e-aa18-336089ff0901-netseer-ipaddr-assoc.xz.fbcdn.net",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T15:13:21Z",
+    "locationName": "Samsung A30",
+    "queryName": "dc.dqa.samsung.com",
+    "resolverDecision": 9
+  },
+  {
+    "datetime": "2026-02-17T15:13:21Z",
+    "locationName": "Samsung A30",
+    "queryName": "inwal.samsungpay.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T15:13:39Z",
+    "locationName": "Oppo",
+    "queryName": "firebaseinstallations.googleapis.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T15:14:14Z",
+    "locationName": "Oppo",
+    "queryName": "gateway.discord.gg",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T15:14:16Z",
+    "locationName": "Oppo",
+    "queryName": "bn-plugins.github.io",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T15:14:17Z",
+    "locationName": "Oppo",
+    "queryName": "rico040.github.io",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T15:14:17Z",
+    "locationName": "Oppo",
+    "queryName": "redstonekasi.github.io",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T15:14:17Z",
+    "locationName": "Oppo",
+    "queryName": "angelix1.github.io",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T15:14:17Z",
+    "locationName": "Oppo",
+    "queryName": "fres621.github.io",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T15:14:17Z",
+    "locationName": "Oppo",
+    "queryName": "shipwr3ckd.github.io",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T15:14:18Z",
+    "locationName": "Samsung A30",
+    "queryName": "z-m-gateway.facebook.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T15:14:23Z",
+    "locationName": "Oppo",
+    "queryName": "catbox.moe",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T15:14:29Z",
+    "locationName": "Oppo",
+    "queryName": "g.whatsapp.net",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T15:14:30Z",
+    "locationName": "Oppo",
+    "queryName": "0.datadog.pool.ntp.org",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T15:14:30Z",
+    "locationName": "Oppo",
+    "queryName": "1.datadog.pool.ntp.org",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T15:14:31Z",
+    "locationName": "Oppo",
+    "queryName": "taskassist-pa.googleapis.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T15:14:31Z",
+    "locationName": "Oppo",
+    "queryName": "1.datadog.pool.ntp.org",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T15:14:31Z",
+    "locationName": "Oppo",
+    "queryName": "3.datadog.pool.ntp.org",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T15:14:33Z",
+    "locationName": "Oppo",
+    "queryName": "martinz64.github.io",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T15:14:33Z",
+    "locationName": "Oppo",
+    "queryName": "purple-eyez.github.io",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T15:14:41Z",
+    "locationName": "Oppo",
+    "queryName": "android.chat.openai.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T15:14:43Z",
+    "locationName": "Oppo",
+    "queryName": "dealer.spotify.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T15:14:43Z",
+    "locationName": "Oppo",
+    "queryName": "cdn.discordapp.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T15:14:46Z",
+    "locationName": "Oppo",
+    "queryName": "litterbox.catbox.moe",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T15:14:48Z",
+    "locationName": "Oppo",
+    "queryName": "i.instagram.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T15:14:52Z",
+    "locationName": "Oppo",
+    "queryName": "edge-mqtt.facebook.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T15:14:52Z",
+    "locationName": "Oppo",
+    "queryName": "test-gateway.instagram.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T15:14:54Z",
+    "locationName": "Oppo",
+    "queryName": "media.discordapp.net",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T15:15:03Z",
+    "locationName": "Oppo",
+    "queryName": "firebaselogging.googleapis.com",
+    "resolverDecision": 9
+  },
+  {
+    "datetime": "2026-02-17T15:15:04Z",
+    "locationName": "Oppo",
+    "queryName": "discord.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T15:15:05Z",
+    "locationName": "Oppo",
+    "queryName": "graph.facebook.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T15:15:23Z",
+    "locationName": "Oppo",
+    "queryName": "api.segment.io",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T15:15:23Z",
+    "locationName": "Oppo",
+    "queryName": "latency.discord.media",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T15:15:32Z",
+    "locationName": "Oppo",
+    "queryName": "g.whatsapp.net",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T15:15:53Z",
+    "locationName": "Oppo",
+    "queryName": "graph.instagram.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T15:16:04Z",
+    "locationName": "Oppo",
+    "queryName": "incoming.telemetry.mozilla.org",
+    "resolverDecision": 9
+  },
+  {
+    "datetime": "2026-02-17T15:16:04Z",
+    "locationName": "Oppo",
+    "queryName": "firefox.settings.services.mozilla.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T15:16:05Z",
+    "locationName": "Oppo",
+    "queryName": "content-signature-2.cdn.mozilla.net",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T15:16:37Z",
+    "locationName": "Oppo",
+    "queryName": "g.whatsapp.net",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T15:16:37Z",
+    "locationName": "Oppo",
+    "queryName": "firebaselogging.googleapis.com",
+    "resolverDecision": 9
+  },
+  {
+    "datetime": "2026-02-17T15:17:43Z",
+    "locationName": "Oppo",
+    "queryName": "g.whatsapp.net",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T15:18:09Z",
+    "locationName": "Oppo",
+    "queryName": "graph.facebook.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T15:18:15Z",
+    "locationName": "Oppo",
+    "queryName": "wimt-pa.googleapis.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T15:18:16Z",
+    "locationName": "Oppo",
+    "queryName": "wimt-pa.googleapis.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T15:18:49Z",
+    "locationName": "Oppo",
+    "queryName": "time.android.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T15:18:49Z",
+    "locationName": "Oppo",
+    "queryName": "obus-dc20123-in.heytapmobile.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T15:18:54Z",
+    "locationName": "Oppo",
+    "queryName": "g.whatsapp.net",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T15:19:21Z",
+    "locationName": "Oppo",
+    "queryName": "play.googleapis.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T15:19:32Z",
+    "locationName": "Oppo",
+    "queryName": "pool.ntp.org",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T15:19:32Z",
+    "locationName": "Oppo",
+    "queryName": "static.whatsapp.net",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T15:19:36Z",
+    "locationName": "Oppo",
+    "queryName": "g-fallback.whatsapp.net",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T15:19:41Z",
+    "locationName": "Oppo",
+    "queryName": "e2.whatsapp.net",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T15:19:43Z",
+    "locationName": "Oppo",
+    "queryName": "e1.whatsapp.net",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T15:19:48Z",
+    "locationName": "Oppo",
+    "queryName": "graph-fallback.facebook.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T15:19:48Z",
+    "locationName": "Oppo",
+    "queryName": "graph.instagram.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T15:19:49Z",
+    "locationName": "Oppo",
+    "queryName": "graph-fallback.instagram.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T15:20:13Z",
+    "locationName": "Oppo",
+    "queryName": "test-gateway.instagram.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T15:20:26Z",
+    "locationName": "Oppo",
+    "queryName": "appsgrowthpromo-pa.googleapis.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T15:20:26Z",
+    "locationName": "Oppo",
+    "queryName": "taskassist-pa.googleapis.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T15:20:27Z",
+    "locationName": "Oppo",
+    "queryName": "appsgenaiserver-pa.googleapis.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T15:21:01Z",
+    "locationName": "Oppo",
+    "queryName": "g.whatsapp.net",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T15:21:20Z",
+    "locationName": "Oppo",
+    "queryName": "firebaselogging.googleapis.com",
+    "resolverDecision": 9
+  },
+  {
+    "datetime": "2026-02-17T15:22:34Z",
+    "locationName": "Oppo",
+    "queryName": "g.whatsapp.net",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T15:22:49Z",
+    "locationName": "Oppo",
+    "queryName": "cryptauthdevicesync.googleapis.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T15:23:40Z",
+    "locationName": "Oppo",
+    "queryName": "g.whatsapp.net",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T15:24:16Z",
+    "locationName": "Oppo",
+    "queryName": "media-maa5-1.cdn.whatsapp.net",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T15:24:46Z",
+    "locationName": "Oppo",
+    "queryName": "g.whatsapp.net",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T15:24:52Z",
+    "locationName": "Oppo",
+    "queryName": "graph.instagram.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T15:24:52Z",
+    "locationName": "Oppo",
+    "queryName": "graph.facebook.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T15:24:52Z",
+    "locationName": "Oppo",
+    "queryName": "graph-fallback.instagram.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T15:24:52Z",
+    "locationName": "Oppo",
+    "queryName": "i-fallback.instagram.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T15:25:31Z",
+    "locationName": "Oppo",
+    "queryName": "test-gateway.instagram.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T15:25:52Z",
+    "locationName": "Oppo",
+    "queryName": "g.whatsapp.net",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T15:26:33Z",
+    "locationName": "Oppo",
+    "queryName": "cdn.discordapp.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T15:26:53Z",
+    "locationName": "Oppo",
+    "queryName": "g.whatsapp.net",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T15:27:25Z",
+    "locationName": "Oppo",
+    "queryName": "spot-pa.googleapis.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T15:27:40Z",
+    "locationName": "Oppo",
+    "queryName": "connectivitycheck.android.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T15:28:19Z",
+    "locationName": "Oppo",
+    "queryName": "g.whatsapp.net",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T15:28:33Z",
+    "locationName": "Oppo",
+    "queryName": "firebaseinstallations.googleapis.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T15:28:40Z",
+    "locationName": "Oppo",
+    "queryName": "mdp-appconf-in.heytapdl.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T15:28:46Z",
+    "locationName": "Oppo",
+    "queryName": "aws.api.snapchat.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T15:28:46Z",
+    "locationName": "Oppo",
+    "queryName": "us-east1-aws.api.snapchat.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T15:28:46Z",
+    "locationName": "Oppo",
+    "queryName": "app-analytics-v2.snapchat.com",
+    "resolverDecision": 9
+  },
+  {
+    "datetime": "2026-02-17T15:28:53Z",
+    "locationName": "Oppo",
+    "queryName": "aws-proxy-gcp.api.snapchat.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T15:28:55Z",
+    "locationName": "Oppo",
+    "queryName": "cf-st.sc-cdn.net",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T15:29:37Z",
+    "locationName": "Oppo",
+    "queryName": "g.whatsapp.net",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T15:30:01Z",
+    "locationName": "Oppo",
+    "queryName": "graph-fallback.facebook.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T15:30:01Z",
+    "locationName": "Oppo",
+    "queryName": "i-fallback.instagram.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T15:30:01Z",
+    "locationName": "Oppo",
+    "queryName": "graph-fallback.instagram.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T15:30:01Z",
+    "locationName": "Oppo",
+    "queryName": "graph.facebook.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T15:30:43Z",
+    "locationName": "Oppo",
+    "queryName": "g.whatsapp.net",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T15:30:55Z",
+    "locationName": "Oppo",
+    "queryName": "test-gateway.instagram.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T15:30:56Z",
+    "locationName": "Oppo",
+    "queryName": "www.google.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T15:31:49Z",
+    "locationName": "Oppo",
+    "queryName": "g.whatsapp.net",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T15:32:25Z",
+    "locationName": "Oppo",
+    "queryName": "xgapromomanager-pa.googleapis.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T15:32:41Z",
+    "locationName": "Oppo",
+    "queryName": "pool.ntp.org",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T15:32:41Z",
+    "locationName": "Oppo",
+    "queryName": "graph.facebook.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T15:33:01Z",
+    "locationName": "Oppo",
+    "queryName": "g.whatsapp.net",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T15:33:04Z",
+    "locationName": "Oppo",
+    "queryName": "time.android.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T15:33:50Z",
+    "locationName": "Oppo",
+    "queryName": "instagram.fixm4-4.fna.fbcdn.net",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T15:34:07Z",
+    "locationName": "Oppo",
+    "queryName": "g.whatsapp.net",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T15:34:51Z",
+    "locationName": "Oppo",
+    "queryName": "firebaselogging.googleapis.com",
+    "resolverDecision": 9
+  },
+  {
+    "datetime": "2026-02-17T15:34:53Z",
+    "locationName": "Oppo",
+    "queryName": "youtubei.googleapis.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T15:34:58Z",
+    "locationName": "Oppo",
+    "queryName": "appsgrowthpromo-pa.googleapis.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T15:34:58Z",
+    "locationName": "Oppo",
+    "queryName": "instantmessaging-pa-jms-ap.googleapis.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T15:34:59Z",
+    "locationName": "Oppo",
+    "queryName": "appsgenaiserver-pa.googleapis.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T15:35:01Z",
+    "locationName": "Oppo",
+    "queryName": "graph.instagram.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T15:35:01Z",
+    "locationName": "Oppo",
+    "queryName": "i.instagram.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T15:35:01Z",
+    "locationName": "Oppo",
+    "queryName": "i-fallback.instagram.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T15:35:01Z",
+    "locationName": "Oppo",
+    "queryName": "graph-fallback.facebook.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T15:35:01Z",
+    "locationName": "Oppo",
+    "queryName": "graph.facebook.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T15:35:19Z",
+    "locationName": "Oppo",
+    "queryName": "g.whatsapp.net",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T15:35:20Z",
+    "locationName": "Oppo",
+    "queryName": "g.whatsapp.net",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T15:36:10Z",
+    "locationName": "Oppo",
+    "queryName": "test-gateway.instagram.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T15:36:25Z",
+    "locationName": "Oppo",
+    "queryName": "g.whatsapp.net",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T15:36:27Z",
+    "locationName": "Oppo",
+    "queryName": "cdn.discordapp.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T15:37:13Z",
+    "locationName": "Oppo",
+    "queryName": "mail-api.proton.me",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T15:37:26Z",
+    "locationName": "Oppo",
+    "queryName": "g.whatsapp.net",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T15:38:31Z",
+    "locationName": "Oppo",
+    "queryName": "g.whatsapp.net",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T15:39:43Z",
+    "locationName": "Oppo",
+    "queryName": "g.whatsapp.net",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T15:39:50Z",
+    "locationName": "Oppo",
+    "queryName": "pro.openweathermap.org",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T15:39:53Z",
+    "locationName": "Oppo",
+    "queryName": "prod-lt-playstoregatewayadapter-pa.googleapis.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T15:39:53Z",
+    "locationName": "Oppo",
+    "queryName": "playstoregatewayadapter-pa.googleapis.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T15:39:53Z",
+    "locationName": "Oppo",
+    "queryName": "i.ytimg.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T15:39:57Z",
+    "locationName": "Oppo",
+    "queryName": "connectivitycheck.gstatic.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T15:40:02Z",
+    "locationName": "Oppo",
+    "queryName": "graph.instagram.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T15:40:02Z",
+    "locationName": "Oppo",
+    "queryName": "graph-fallback.instagram.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T15:40:28Z",
+    "locationName": "Oppo",
+    "queryName": "gateway.discord.gg",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T15:40:29Z",
+    "locationName": "Oppo",
+    "queryName": "api.spotify.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T15:40:31Z",
+    "locationName": "Oppo",
+    "queryName": "dealer.spotify.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T15:40:33Z",
+    "locationName": "Oppo",
+    "queryName": "connectivitycheck.android.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T15:41:56Z",
+    "locationName": "Oppo",
+    "queryName": "g.whatsapp.net",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T15:41:56Z",
+    "locationName": "Oppo",
+    "queryName": "test-gateway.instagram.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T15:42:04Z",
+    "locationName": "Oppo",
+    "queryName": "pool.ntp.org",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T15:42:05Z",
+    "locationName": "Oppo",
+    "queryName": "gateway.discord.gg",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T15:42:08Z",
+    "locationName": "Oppo",
+    "queryName": "e15.whatsapp.net",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T15:44:19Z",
+    "locationName": "Oppo",
+    "queryName": "i.instagram.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T15:44:24Z",
+    "locationName": "Oppo",
+    "queryName": "test-gateway.instagram.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T15:45:23Z",
+    "locationName": "Oppo",
+    "queryName": "firebaseremoteconfig.googleapis.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T15:45:37Z",
+    "locationName": "Oppo",
+    "queryName": "graph.facebook.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T15:46:19Z",
+    "locationName": "Oppo",
+    "queryName": "test-gateway.instagram.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T15:47:28Z",
+    "locationName": "Oppo",
+    "queryName": "spot-pa.googleapis.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T15:48:01Z",
+    "locationName": "Oppo",
+    "queryName": "test-gateway.instagram.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T15:48:15Z",
+    "locationName": "Oppo",
+    "queryName": "dns.google.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T15:48:46Z",
+    "locationName": "Oppo",
+    "queryName": "time.android.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T15:48:51Z",
+    "locationName": "Oppo",
+    "queryName": "inbox.google.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T15:48:54Z",
+    "locationName": "Oppo",
+    "queryName": "play-fe.googleapis.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T15:48:55Z",
+    "locationName": "Oppo",
+    "queryName": "i.ytimg.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T15:48:55Z",
+    "locationName": "Oppo",
+    "queryName": "prod-lt-playstoregatewayadapter-pa.googleapis.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T15:48:55Z",
+    "locationName": "Oppo",
+    "queryName": "play-lh.googleusercontent.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T15:49:16Z",
+    "locationName": "Oppo",
+    "queryName": "taskassist-pa.googleapis.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T15:49:16Z",
+    "locationName": "Oppo",
+    "queryName": "appsgrowthpromo-pa.googleapis.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T15:49:17Z",
+    "locationName": "Oppo",
+    "queryName": "appsgenaiserver-pa.googleapis.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T15:49:24Z",
+    "locationName": "Oppo",
+    "queryName": "graph-fallback.facebook.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T15:49:24Z",
+    "locationName": "Oppo",
+    "queryName": "i-fallback.instagram.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T15:49:24Z",
+    "locationName": "Oppo",
+    "queryName": "graph.facebook.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T15:49:24Z",
+    "locationName": "Oppo",
+    "queryName": "i.instagram.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T15:49:25Z",
+    "locationName": "Oppo",
+    "queryName": "graph.instagram.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T15:49:32Z",
+    "locationName": "Oppo",
+    "queryName": "github.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T15:49:35Z",
+    "locationName": "Oppo",
+    "queryName": "gateway.discord.gg",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T15:49:44Z",
+    "locationName": "Oppo",
+    "queryName": "discord.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T15:49:47Z",
+    "locationName": "Oppo",
+    "queryName": "api.spotify.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T15:49:58Z",
+    "locationName": "Oppo",
+    "queryName": "geomobileservices-pa.googleapis.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T15:51:15Z",
+    "locationName": "Oppo",
+    "queryName": "graph.whatsapp.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T15:51:22Z",
+    "locationName": "Oppo",
+    "queryName": "pool.ntp.org",
+    "resolverDecision": 5
+  }
+]
