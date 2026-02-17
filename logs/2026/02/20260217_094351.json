@@ -1,0 +1,5582 @@
+[
+  {
+    "datetime": "2026-02-17T09:44:21Z",
+    "locationName": "Samsung A30",
+    "queryName": "youtubei.googleapis.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T09:44:28Z",
+    "locationName": "Samsung A30",
+    "queryName": "android.apis.google.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T09:44:48Z",
+    "locationName": "Oppo",
+    "queryName": "play.googleapis.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T09:45:17Z",
+    "locationName": "Oppo",
+    "queryName": "config.edge.skype.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T09:45:18Z",
+    "locationName": "Oppo",
+    "queryName": "mobile.events.data.microsoft.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T09:45:29Z",
+    "locationName": "Oppo",
+    "queryName": "graph.facebook.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T09:45:32Z",
+    "locationName": "Warp",
+    "queryName": "assets.msn.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T09:45:33Z",
+    "locationName": "Oppo",
+    "queryName": "aws.api.snapchat.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T09:45:33Z",
+    "locationName": "Oppo",
+    "queryName": "gcp.api.snapchat.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T09:45:39Z",
+    "locationName": "Oppo",
+    "queryName": "firebase-settings.crashlytics.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T09:45:41Z",
+    "locationName": "Oppo",
+    "queryName": "android.clients.google.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T09:45:41Z",
+    "locationName": "Oppo",
+    "queryName": "prod-lt-playstoregatewayadapter-pa.googleapis.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T09:45:41Z",
+    "locationName": "Oppo",
+    "queryName": "play-fe.googleapis.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T09:45:41Z",
+    "locationName": "Oppo",
+    "queryName": "playstoregatewayadapter-pa.googleapis.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T09:45:41Z",
+    "locationName": "Oppo",
+    "queryName": "play-lh.googleusercontent.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T09:45:42Z",
+    "locationName": "Oppo",
+    "queryName": "i.ytimg.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T09:45:43Z",
+    "locationName": "Warp",
+    "queryName": "oth.eve.mdt.qq.com",
+    "resolverDecision": 9
+  },
+  {
+    "datetime": "2026-02-17T09:45:44Z",
+    "locationName": "Warp",
+    "queryName": "clientservices.googleapis.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T09:45:44Z",
+    "locationName": "Warp",
+    "queryName": "substrate.office.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T09:45:45Z",
+    "locationName": "Warp",
+    "queryName": "fd.api.iris.microsoft.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T09:45:45Z",
+    "locationName": "Warp",
+    "queryName": "oauthaccountmanager.googleapis.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T09:45:45Z",
+    "locationName": "Warp",
+    "queryName": "www.google.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T09:45:45Z",
+    "locationName": "Warp",
+    "queryName": "accounts.google.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T09:45:46Z",
+    "locationName": "Warp",
+    "queryName": "ogads-pa.clients6.google.com",
+    "resolverDecision": 9
+  },
+  {
+    "datetime": "2026-02-17T09:45:46Z",
+    "locationName": "Warp",
+    "queryName": "fp-afd-nocache-ccp.azureedge.net",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T09:45:47Z",
+    "locationName": "Warp",
+    "queryName": "mtalk.google.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T09:45:47Z",
+    "locationName": "Warp",
+    "queryName": "android.clients.google.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T09:45:47Z",
+    "locationName": "Warp",
+    "queryName": "update.googleapis.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T09:45:47Z",
+    "locationName": "Warp",
+    "queryName": "graph.microsoft.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T09:45:47Z",
+    "locationName": "Warp",
+    "queryName": "rum8.perf.linkedin.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T09:45:47Z",
+    "locationName": "Oppo",
+    "queryName": "i.instagram.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T09:45:47Z",
+    "locationName": "Warp",
+    "queryName": "static.whatsapp.net",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T09:45:47Z",
+    "locationName": "Warp",
+    "queryName": "play.google.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T09:45:49Z",
+    "locationName": "Warp",
+    "queryName": "collections.mp.microsoft.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T09:45:51Z",
+    "locationName": "Warp",
+    "queryName": "ogs.google.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T09:45:52Z",
+    "locationName": "Warp",
+    "queryName": "api.spotify.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T09:45:52Z",
+    "locationName": "Warp",
+    "queryName": "ln-ring.msedge.net",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T09:45:52Z",
+    "locationName": "Oppo",
+    "queryName": "test-gateway.instagram.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T09:45:53Z",
+    "locationName": "Oppo",
+    "queryName": "edge-mqtt.facebook.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T09:45:53Z",
+    "locationName": "Warp",
+    "queryName": "ln-ring.msedge.net",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T09:45:54Z",
+    "locationName": "Warp",
+    "queryName": "www.gstatic.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T09:45:54Z",
+    "locationName": "Warp",
+    "queryName": "tas02.sls.update.microsoft.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T09:45:54Z",
+    "locationName": "Oppo",
+    "queryName": "pro.openweathermap.org",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T09:45:55Z",
+    "locationName": "Warp",
+    "queryName": "optimizationguide-pa.googleapis.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T09:45:55Z",
+    "locationName": "Warp",
+    "queryName": "dealer.spotify.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T09:45:55Z",
+    "locationName": "Warp",
+    "queryName": "lh3.googleusercontent.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T09:45:55Z",
+    "locationName": "Warp",
+    "queryName": "fonts.gstatic.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T09:45:56Z",
+    "locationName": "Warp",
+    "queryName": "log.tailscale.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T09:45:56Z",
+    "locationName": "Warp",
+    "queryName": "lh3.googleusercontent.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T09:45:57Z",
+    "locationName": "Oppo",
+    "queryName": "instagram.fmaa2-2.fna.fbcdn.net",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T09:45:57Z",
+    "locationName": "Warp",
+    "queryName": "log.tailscale.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T09:45:59Z",
+    "locationName": "Warp",
+    "queryName": "clients4.google.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T09:46:00Z",
+    "locationName": "Warp",
+    "queryName": "fe3cr.delivery.mp.microsoft.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T09:46:07Z",
+    "locationName": "Oppo",
+    "queryName": "g.whatsapp.net",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T09:46:08Z",
+    "locationName": "Oppo",
+    "queryName": "g.whatsapp.net",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T09:46:12Z",
+    "locationName": "Oppo",
+    "queryName": "graph.whatsapp.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T09:46:13Z",
+    "locationName": "Oppo",
+    "queryName": "graph.whatsapp.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T09:46:16Z",
+    "locationName": "Oppo",
+    "queryName": "pool.ntp.org",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T09:46:17Z",
+    "locationName": "Warp",
+    "queryName": "gateway.discord.gg",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T09:46:21Z",
+    "locationName": "Warp",
+    "queryName": "ptb.discord.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T09:46:21Z",
+    "locationName": "Warp",
+    "queryName": "status.discord.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T09:46:23Z",
+    "locationName": "Warp",
+    "queryName": "github.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T09:46:24Z",
+    "locationName": "Warp",
+    "queryName": "cdn.discordapp.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T09:46:24Z",
+    "locationName": "Warp",
+    "queryName": "github.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T09:46:24Z",
+    "locationName": "Warp",
+    "queryName": "updates.discord.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T09:46:27Z",
+    "locationName": "Warp",
+    "queryName": "crl4.digicert.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T09:46:35Z",
+    "locationName": "Warp",
+    "queryName": "assets.msn.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T09:46:39Z",
+    "locationName": "Warp",
+    "queryName": "flows.whatsapp.net",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T09:46:39Z",
+    "locationName": "Warp",
+    "queryName": "api.cloudflareclient.com",
+    "resolverDecision": 10
+  },
+  {
+    "datetime": "2026-02-17T09:46:39Z",
+    "locationName": "Warp",
+    "queryName": "help.teams.cloudflare.com",
+    "resolverDecision": 10
+  },
+  {
+    "datetime": "2026-02-17T09:46:40Z",
+    "locationName": "Warp",
+    "queryName": "help.one.cloudflare.com",
+    "resolverDecision": 10
+  },
+  {
+    "datetime": "2026-02-17T09:46:45Z",
+    "locationName": "Warp",
+    "queryName": "oth.eve.mdt.qq.com",
+    "resolverDecision": 9
+  },
+  {
+    "datetime": "2026-02-17T09:46:46Z",
+    "locationName": "Warp",
+    "queryName": "oneocsp.microsoft.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T09:46:50Z",
+    "locationName": "Oppo",
+    "queryName": "geomobileservices-pa.googleapis.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T09:46:50Z",
+    "locationName": "Warp",
+    "queryName": "edgedl.me.gvt1.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T09:46:51Z",
+    "locationName": "Oppo",
+    "queryName": "graph.instagram.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T09:46:53Z",
+    "locationName": "Oppo",
+    "queryName": "app-analytics-v2.snapchat.com",
+    "resolverDecision": 9
+  },
+  {
+    "datetime": "2026-02-17T09:46:54Z",
+    "locationName": "Oppo",
+    "queryName": "us-east1-aws.api.snapchat.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T09:46:54Z",
+    "locationName": "Oppo",
+    "queryName": "aws.api.snapchat.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T09:46:59Z",
+    "locationName": "Warp",
+    "queryName": "beacons.gcp.gvt2.com",
+    "resolverDecision": 9
+  },
+  {
+    "datetime": "2026-02-17T09:46:59Z",
+    "locationName": "Warp",
+    "queryName": "google.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T09:47:00Z",
+    "locationName": "Warp",
+    "queryName": "beacons2.gvt2.com",
+    "resolverDecision": 9
+  },
+  {
+    "datetime": "2026-02-17T09:47:00Z",
+    "locationName": "Warp",
+    "queryName": "meet.google.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T09:47:00Z",
+    "locationName": "Warp",
+    "queryName": "beacons3.gvt2.com",
+    "resolverDecision": 9
+  },
+  {
+    "datetime": "2026-02-17T09:47:00Z",
+    "locationName": "Warp",
+    "queryName": "clients2.google.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T09:47:00Z",
+    "locationName": "Warp",
+    "queryName": "beacons5.gvt2.com",
+    "resolverDecision": 9
+  },
+  {
+    "datetime": "2026-02-17T09:47:00Z",
+    "locationName": "Warp",
+    "queryName": "e2c49.gcp.gvt2.com",
+    "resolverDecision": 9
+  },
+  {
+    "datetime": "2026-02-17T09:47:02Z",
+    "locationName": "Warp",
+    "queryName": "hangouts.clients6.google.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T09:47:02Z",
+    "locationName": "Warp",
+    "queryName": "meetings.googleapis.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T09:47:02Z",
+    "locationName": "Warp",
+    "queryName": "clients6.google.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T09:47:13Z",
+    "locationName": "Warp",
+    "queryName": "content-autofill.googleapis.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T09:47:14Z",
+    "locationName": "Warp",
+    "queryName": "play.google.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T09:47:15Z",
+    "locationName": "Warp",
+    "queryName": "apis.google.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T09:47:16Z",
+    "locationName": "Oppo",
+    "queryName": "spot-pa.googleapis.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T09:47:24Z",
+    "locationName": "Warp",
+    "queryName": "boot.net.anydesk.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T09:47:29Z",
+    "locationName": "Warp",
+    "queryName": "dns.google",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T09:47:29Z",
+    "locationName": "Warp",
+    "queryName": "analytics-toolbar.urban-vpn.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T09:47:29Z",
+    "locationName": "Warp",
+    "queryName": "client.wns.windows.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T09:47:29Z",
+    "locationName": "Warp",
+    "queryName": "dns.alidns.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T09:47:29Z",
+    "locationName": "Warp",
+    "queryName": "cloudflare-dns.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T09:47:30Z",
+    "locationName": "Warp",
+    "queryName": "relay-4b890fae.net.anydesk.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T09:47:30Z",
+    "locationName": "Warp",
+    "queryName": "cloudflare-dns.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T09:47:30Z",
+    "locationName": "Warp",
+    "queryName": "authentication.falais.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T09:47:30Z",
+    "locationName": "Warp",
+    "queryName": "analytics-toolbar.urban-vpn.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T09:47:30Z",
+    "locationName": "Warp",
+    "queryName": "relay-f4f34eaa.net.anydesk.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T09:47:32Z",
+    "locationName": "Warp",
+    "queryName": "anti-phishing-protection.falais.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T09:47:33Z",
+    "locationName": "Warp",
+    "queryName": "analytics.falais.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T09:47:33Z",
+    "locationName": "Oppo",
+    "queryName": "connectivitycheck.android.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T09:47:35Z",
+    "locationName": "Warp",
+    "queryName": "avatars.githubusercontent.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T09:47:35Z",
+    "locationName": "Warp",
+    "queryName": "github.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T09:47:40Z",
+    "locationName": "Warp",
+    "queryName": "dit.whatsapp.net",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T09:47:40Z",
+    "locationName": "Warp",
+    "queryName": "signaler-pa.clients6.google.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T09:47:40Z",
+    "locationName": "Warp",
+    "queryName": "api.github.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T09:47:42Z",
+    "locationName": "Warp",
+    "queryName": "analytics-toolbar.falais.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T09:47:42Z",
+    "locationName": "Warp",
+    "queryName": "github.githubassets.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T09:47:43Z",
+    "locationName": "Warp",
+    "queryName": "anti-phishing-protection-toolbar.falais.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T09:47:44Z",
+    "locationName": "Warp",
+    "queryName": "alive.github.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T09:47:59Z",
+    "locationName": "Warp",
+    "queryName": "web.whatsapp.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T09:48:00Z",
+    "locationName": "Warp",
+    "queryName": "beacons.gcp.gvt2.com",
+    "resolverDecision": 9
+  },
+  {
+    "datetime": "2026-02-17T09:48:00Z",
+    "locationName": "Warp",
+    "queryName": "accounts.google.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T09:48:00Z",
+    "locationName": "Warp",
+    "queryName": "beacons.gvt2.com",
+    "resolverDecision": 9
+  },
+  {
+    "datetime": "2026-02-17T09:48:00Z",
+    "locationName": "Warp",
+    "queryName": "beacons4.gvt2.com",
+    "resolverDecision": 9
+  },
+  {
+    "datetime": "2026-02-17T09:48:00Z",
+    "locationName": "Warp",
+    "queryName": "beacons2.gvt2.com",
+    "resolverDecision": 9
+  },
+  {
+    "datetime": "2026-02-17T09:48:08Z",
+    "locationName": "Warp",
+    "queryName": "static.whatsapp.net",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T09:48:08Z",
+    "locationName": "Warp",
+    "queryName": "media.fixm4-4.fna.whatsapp.net",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T09:48:17Z",
+    "locationName": "Warp",
+    "queryName": "safebrowsing.googleapis.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T09:48:23Z",
+    "locationName": "Warp",
+    "queryName": "scone-pa.clients6.google.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T09:48:25Z",
+    "locationName": "Warp",
+    "queryName": "feedback-pa.clients6.google.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T09:48:34Z",
+    "locationName": "Warp",
+    "queryName": "fd.api.iris.microsoft.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T09:48:35Z",
+    "locationName": "Warp",
+    "queryName": "www.bing.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T09:48:53Z",
+    "locationName": "Warp",
+    "queryName": "oth.eve.mdt.qq.com",
+    "resolverDecision": 9
+  },
+  {
+    "datetime": "2026-02-17T09:49:02Z",
+    "locationName": "Warp",
+    "queryName": "www.bing.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T09:49:03Z",
+    "locationName": "Warp",
+    "queryName": "beacons.gcp.gvt2.com",
+    "resolverDecision": 9
+  },
+  {
+    "datetime": "2026-02-17T09:49:03Z",
+    "locationName": "Warp",
+    "queryName": "www.bing.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T09:49:03Z",
+    "locationName": "Warp",
+    "queryName": "beacons.gvt2.com",
+    "resolverDecision": 9
+  },
+  {
+    "datetime": "2026-02-17T09:49:04Z",
+    "locationName": "Warp",
+    "queryName": "beacons2.gvt2.com",
+    "resolverDecision": 9
+  },
+  {
+    "datetime": "2026-02-17T09:49:04Z",
+    "locationName": "Warp",
+    "queryName": "www.cloudflarestatus.com",
+    "resolverDecision": 10
+  },
+  {
+    "datetime": "2026-02-17T09:49:04Z",
+    "locationName": "Warp",
+    "queryName": "time.cloudflare.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T09:49:04Z",
+    "locationName": "Warp",
+    "queryName": "beacons3.gvt2.com",
+    "resolverDecision": 9
+  },
+  {
+    "datetime": "2026-02-17T09:49:06Z",
+    "locationName": "Warp",
+    "queryName": "beacons4.gvt2.com",
+    "resolverDecision": 9
+  },
+  {
+    "datetime": "2026-02-17T09:49:08Z",
+    "locationName": "Warp",
+    "queryName": "web.whatsapp.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T09:49:09Z",
+    "locationName": "Warp",
+    "queryName": "beacons5.gvt3.com",
+    "resolverDecision": 9
+  },
+  {
+    "datetime": "2026-02-17T09:49:09Z",
+    "locationName": "Warp",
+    "queryName": "beacons5.gvt2.com",
+    "resolverDecision": 9
+  },
+  {
+    "datetime": "2026-02-17T09:49:13Z",
+    "locationName": "Warp",
+    "queryName": "cdn.discordapp.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T09:49:31Z",
+    "locationName": "Warp",
+    "queryName": "media.fixm4-1.fna.whatsapp.net",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T09:49:32Z",
+    "locationName": "Warp",
+    "queryName": "media.fixm4-3.fna.whatsapp.net",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T09:49:33Z",
+    "locationName": "Warp",
+    "queryName": "dit.whatsapp.net",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T09:49:36Z",
+    "locationName": "Warp",
+    "queryName": "unifiedaccess.gameloop.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T09:49:36Z",
+    "locationName": "Oppo",
+    "queryName": "time.android.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T09:49:36Z",
+    "locationName": "Oppo",
+    "queryName": "obus-in.dc.heytapmobile.com",
+    "resolverDecision": 9
+  },
+  {
+    "datetime": "2026-02-17T09:49:51Z",
+    "locationName": "Warp",
+    "queryName": "authentication.falais.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T09:49:53Z",
+    "locationName": "Warp",
+    "queryName": "analytics-toolbar.falais.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T09:49:54Z",
+    "locationName": "Warp",
+    "queryName": "analytics-toolbar.falais.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T09:49:55Z",
+    "locationName": "Warp",
+    "queryName": "pps.whatsapp.net",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T09:49:57Z",
+    "locationName": "Warp",
+    "queryName": "ocsp.digicert.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T09:49:58Z",
+    "locationName": "Warp",
+    "queryName": "ocsp.digicert.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T09:50:03Z",
+    "locationName": "Warp",
+    "queryName": "lh3.googleusercontent.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T09:50:03Z",
+    "locationName": "Warp",
+    "queryName": "content-autofill.googleapis.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T09:50:10Z",
+    "locationName": "Warp",
+    "queryName": "clients2.google.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T09:50:10Z",
+    "locationName": "Warp",
+    "queryName": "www.gstatic.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T09:50:11Z",
+    "locationName": "Warp",
+    "queryName": "beacons3.gvt2.com",
+    "resolverDecision": 9
+  },
+  {
+    "datetime": "2026-02-17T09:50:11Z",
+    "locationName": "Warp",
+    "queryName": "feedback-pa.clients6.google.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T09:50:11Z",
+    "locationName": "Warp",
+    "queryName": "beacons.gcp.gvt2.com",
+    "resolverDecision": 9
+  },
+  {
+    "datetime": "2026-02-17T09:50:12Z",
+    "locationName": "Warp",
+    "queryName": "beacons4.gvt2.com",
+    "resolverDecision": 9
+  },
+  {
+    "datetime": "2026-02-17T09:50:13Z",
+    "locationName": "Warp",
+    "queryName": "beacons5.gvt3.com",
+    "resolverDecision": 9
+  },
+  {
+    "datetime": "2026-02-17T09:50:29Z",
+    "locationName": "Warp",
+    "queryName": "nav-edge.smartscreen.microsoft.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T09:50:29Z",
+    "locationName": "Warp",
+    "queryName": "www.microsoft.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T09:50:30Z",
+    "locationName": "Warp",
+    "queryName": "aks-prod-southeastasia.access-point.cloudmessaging.edge.microsoft.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T09:50:31Z",
+    "locationName": "Warp",
+    "queryName": "edgeassetservice.azureedge.net",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T09:50:31Z",
+    "locationName": "Warp",
+    "queryName": "edgecdn-embza6g8cacagcbn.z01.azurefd.net",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T09:50:31Z",
+    "locationName": "Warp",
+    "queryName": "media.discordapp.net",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T09:50:31Z",
+    "locationName": "Warp",
+    "queryName": "c.s-microsoft.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T09:50:32Z",
+    "locationName": "Warp",
+    "queryName": "www.bingapis.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T09:50:32Z",
+    "locationName": "Warp",
+    "queryName": "graph.microsoft.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T09:50:32Z",
+    "locationName": "Warp",
+    "queryName": "ntp.msn.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T09:50:33Z",
+    "locationName": "Warp",
+    "queryName": "th.bing.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T09:50:33Z",
+    "locationName": "Warp",
+    "queryName": "c.msn.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T09:50:33Z",
+    "locationName": "Warp",
+    "queryName": "img-s-msn-com.akamaized.net",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T09:50:33Z",
+    "locationName": "Warp",
+    "queryName": "api.msn.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T09:50:33Z",
+    "locationName": "Warp",
+    "queryName": "c.bing.com",
+    "resolverDecision": 9
+  },
+  {
+    "datetime": "2026-02-17T09:50:33Z",
+    "locationName": "Warp",
+    "queryName": "wcpstatic.microsoft.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T09:50:36Z",
+    "locationName": "Warp",
+    "queryName": "srtb.msn.com",
+    "resolverDecision": 9
+  },
+  {
+    "datetime": "2026-02-17T09:50:39Z",
+    "locationName": "Warp",
+    "queryName": "thaka.bing.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T09:50:41Z",
+    "locationName": "Samsung A30",
+    "queryName": "redirector.googlevideo.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T09:50:42Z",
+    "locationName": "Oppo",
+    "queryName": "mdp-appconf-in.heytapdl.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T09:50:47Z",
+    "locationName": "Oppo",
+    "queryName": "graph-fallback.facebook.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T09:50:47Z",
+    "locationName": "Oppo",
+    "queryName": "i-fallback.instagram.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T09:50:47Z",
+    "locationName": "Oppo",
+    "queryName": "graph.facebook.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T09:50:49Z",
+    "locationName": "Samsung A30",
+    "queryName": "s.youtube.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T09:50:50Z",
+    "locationName": "Warp",
+    "queryName": "www.google.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T09:50:51Z",
+    "locationName": "Warp",
+    "queryName": "consumer.cloud.gist.build",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T09:50:51Z",
+    "locationName": "Samsung A30",
+    "queryName": "suggestqueries.google.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T09:50:52Z",
+    "locationName": "Warp",
+    "queryName": "gemini.google.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T09:50:53Z",
+    "locationName": "Warp",
+    "queryName": "authentication.falais.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T09:50:53Z",
+    "locationName": "Warp",
+    "queryName": "gemini.google.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T09:50:54Z",
+    "locationName": "Warp",
+    "queryName": "oth.eve.mdt.qq.com",
+    "resolverDecision": 9
+  },
+  {
+    "datetime": "2026-02-17T09:50:55Z",
+    "locationName": "Samsung A30",
+    "queryName": "yt3.ggpht.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T09:50:56Z",
+    "locationName": "Samsung A30",
+    "queryName": "lh3.googleusercontent.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T09:50:57Z",
+    "locationName": "Samsung A30",
+    "queryName": "yt3.ggpht.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T09:50:57Z",
+    "locationName": "Samsung A30",
+    "queryName": "rr3---sn-gwpa-pmhe.googlevideo.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T09:50:58Z",
+    "locationName": "Warp",
+    "queryName": "edge-consumer-static.azureedge.net",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T09:50:58Z",
+    "locationName": "Oppo",
+    "queryName": "people-pa.googleapis.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T09:50:59Z",
+    "locationName": "Warp",
+    "queryName": "substrate.office.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T09:51:03Z",
+    "locationName": "Warp",
+    "queryName": "google.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T09:51:14Z",
+    "locationName": "Oppo",
+    "queryName": "g.whatsapp.net",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T09:51:14Z",
+    "locationName": "Samsung A30",
+    "queryName": "z-m-gateway.facebook.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T09:51:16Z",
+    "locationName": "Oppo",
+    "queryName": "z-p42-chat-e2ee-ig.facebook.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T09:51:25Z",
+    "locationName": "Warp",
+    "queryName": "dit.whatsapp.net",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T09:51:30Z",
+    "locationName": "Warp",
+    "queryName": "functional.events.data.microsoft.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T09:51:33Z",
+    "locationName": "Warp",
+    "queryName": "msedge.b.tlu.dl.delivery.mp.microsoft.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T09:51:38Z",
+    "locationName": "Warp",
+    "queryName": "collector.github.com",
+    "resolverDecision": 9
+  },
+  {
+    "datetime": "2026-02-17T09:51:39Z",
+    "locationName": "Warp",
+    "queryName": "search.yahoo.co.jp",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T09:51:39Z",
+    "locationName": "Warp",
+    "queryName": "tring.clo.footprintdns.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T09:51:39Z",
+    "locationName": "Warp",
+    "queryName": "collector.github.com",
+    "resolverDecision": 9
+  },
+  {
+    "datetime": "2026-02-17T09:51:40Z",
+    "locationName": "Warp",
+    "queryName": "fp-afd-nocache-ccp.azureedge.net",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T09:51:41Z",
+    "locationName": "Warp",
+    "queryName": "signaler-pa.clients6.google.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T09:51:41Z",
+    "locationName": "Warp",
+    "queryName": "waa-pa.clients6.google.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T09:51:41Z",
+    "locationName": "Warp",
+    "queryName": "fp.msedge.net",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T09:51:41Z",
+    "locationName": "Warp",
+    "queryName": "ogads-pa.clients6.google.com",
+    "resolverDecision": 9
+  },
+  {
+    "datetime": "2026-02-17T09:51:42Z",
+    "locationName": "Warp",
+    "queryName": "graph.whatsapp.net",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T09:51:42Z",
+    "locationName": "Oppo",
+    "queryName": "play.googleapis.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T09:51:44Z",
+    "locationName": "Warp",
+    "queryName": "anti-phishing-protection-toolbar.falais.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T09:51:44Z",
+    "locationName": "Warp",
+    "queryName": "api.github.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T09:51:45Z",
+    "locationName": "Warp",
+    "queryName": "anti-phishing-protection-toolbar.falais.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T09:51:49Z",
+    "locationName": "Warp",
+    "queryName": "anonymous.ads.brave.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T09:51:55Z",
+    "locationName": "Warp",
+    "queryName": "axiom.co",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T09:51:55Z",
+    "locationName": "Warp",
+    "queryName": "encrypted-tbn0.gstatic.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T09:51:57Z",
+    "locationName": "Warp",
+    "queryName": "oth.eve.mdt.qq.com",
+    "resolverDecision": 9
+  },
+  {
+    "datetime": "2026-02-17T09:51:58Z",
+    "locationName": "Warp",
+    "queryName": "axiom.statuspage.io",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T09:51:58Z",
+    "locationName": "Warp",
+    "queryName": "js.hs-scripts.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T09:51:59Z",
+    "locationName": "Warp",
+    "queryName": "js.hs-scripts.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T09:52:00Z",
+    "locationName": "Warp",
+    "queryName": "app.axiom.co",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T09:52:04Z",
+    "locationName": "Warp",
+    "queryName": "web.whatsapp.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T09:52:05Z",
+    "locationName": "Warp",
+    "queryName": "play.axiom.co",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T09:52:05Z",
+    "locationName": "Warp",
+    "queryName": "discord.gg",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T09:52:06Z",
+    "locationName": "Warp",
+    "queryName": "discord.gg",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T09:52:06Z",
+    "locationName": "Warp",
+    "queryName": "play.axiom.co",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T09:52:12Z",
+    "locationName": "Warp",
+    "queryName": "go-updater.brave.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T09:52:18Z",
+    "locationName": "Warp",
+    "queryName": "app.launchdarkly.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T09:52:18Z",
+    "locationName": "Warp",
+    "queryName": "cdn.segment.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T09:52:20Z",
+    "locationName": "Oppo",
+    "queryName": "g.whatsapp.net",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T09:52:27Z",
+    "locationName": "Samsung A30",
+    "queryName": "googleads.g.doubleclick.net",
+    "resolverDecision": 9
+  },
+  {
+    "datetime": "2026-02-17T09:52:35Z",
+    "locationName": "Warp",
+    "queryName": "assets.msn.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T09:52:36Z",
+    "locationName": "Warp",
+    "queryName": "assets.msn.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T09:52:37Z",
+    "locationName": "Warp",
+    "queryName": "android.clients.google.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T09:52:44Z",
+    "locationName": "Warp",
+    "queryName": "www.bing.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T09:52:45Z",
+    "locationName": "Warp",
+    "queryName": "www.bing.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T09:52:50Z",
+    "locationName": "Warp",
+    "queryName": "us-east-1.aws.edge.axiom.co",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T09:52:51Z",
+    "locationName": "Oppo",
+    "queryName": "aws.api.snapchat.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T09:52:51Z",
+    "locationName": "Oppo",
+    "queryName": "gcp.api.snapchat.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T09:52:51Z",
+    "locationName": "Oppo",
+    "queryName": "usc1-gcp-v61.api.snapchat.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T09:52:55Z",
+    "locationName": "Oppo",
+    "queryName": "aws.api.snapchat.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T09:52:59Z",
+    "locationName": "Warp",
+    "queryName": "oth.eve.mdt.qq.com",
+    "resolverDecision": 9
+  },
+  {
+    "datetime": "2026-02-17T09:53:06Z",
+    "locationName": "Warp",
+    "queryName": "mail.proton.me",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T09:53:14Z",
+    "locationName": "Warp",
+    "queryName": "collector.github.com",
+    "resolverDecision": 9
+  },
+  {
+    "datetime": "2026-02-17T09:53:15Z",
+    "locationName": "Warp",
+    "queryName": "accounts.google.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T09:53:16Z",
+    "locationName": "Warp",
+    "queryName": "accounts.google.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T09:53:16Z",
+    "locationName": "Warp",
+    "queryName": "play.google.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T09:53:23Z",
+    "locationName": "Oppo",
+    "queryName": "g.whatsapp.net",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T09:53:23Z",
+    "locationName": "Warp",
+    "queryName": "api.github.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T09:53:24Z",
+    "locationName": "Warp",
+    "queryName": "alive.github.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T09:53:25Z",
+    "locationName": "Warp",
+    "queryName": "alive.github.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T09:53:28Z",
+    "locationName": "Warp",
+    "queryName": "web.whatsapp.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T09:53:29Z",
+    "locationName": "Warp",
+    "queryName": "web.whatsapp.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T09:53:34Z",
+    "locationName": "Warp",
+    "queryName": "assets.msn.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T09:53:37Z",
+    "locationName": "Warp",
+    "queryName": "fonts.gstatic.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T09:53:40Z",
+    "locationName": "Warp",
+    "queryName": "code.jquery.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T09:54:01Z",
+    "locationName": "Warp",
+    "queryName": "data.who.int",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T09:54:02Z",
+    "locationName": "Warp",
+    "queryName": "datadot-dcg6ejhjhscqdndb.z01.azurefd.net",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T09:54:03Z",
+    "locationName": "Warp",
+    "queryName": "xmart-api-public.who.int",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T09:54:04Z",
+    "locationName": "Warp",
+    "queryName": "go-updater.brave.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T09:54:04Z",
+    "locationName": "Warp",
+    "queryName": "www.cloudflarestatus.com",
+    "resolverDecision": 10
+  },
+  {
+    "datetime": "2026-02-17T09:54:13Z",
+    "locationName": "Samsung A30",
+    "queryName": "optimizationguide-pa.googleapis.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T09:54:15Z",
+    "locationName": "Warp",
+    "queryName": "oth.eve.mdt.qq.com",
+    "resolverDecision": 9
+  },
+  {
+    "datetime": "2026-02-17T09:54:26Z",
+    "locationName": "Warp",
+    "queryName": "cdn.discordapp.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T09:54:27Z",
+    "locationName": "Warp",
+    "queryName": "ecs.office.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T09:54:36Z",
+    "locationName": "Warp",
+    "queryName": "assets.msn.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T09:54:37Z",
+    "locationName": "Warp",
+    "queryName": "assets.msn.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T09:54:38Z",
+    "locationName": "Samsung A30",
+    "queryName": "i.ytimg.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T09:54:42Z",
+    "locationName": "Samsung A30",
+    "queryName": "rr2---sn-gwpa-pmhe.googlevideo.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T09:54:48Z",
+    "locationName": "Warp",
+    "queryName": "dit.whatsapp.net",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T09:54:51Z",
+    "locationName": "Warp",
+    "queryName": "consumer.cloud.gist.build",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T09:54:52Z",
+    "locationName": "Oppo",
+    "queryName": "g.whatsapp.net",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T09:54:52Z",
+    "locationName": "Warp",
+    "queryName": "consumer.cloud.gist.build",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T09:55:02Z",
+    "locationName": "Warp",
+    "queryName": "api.github.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T09:55:06Z",
+    "locationName": "Oppo",
+    "queryName": "geomobileservices-pa.googleapis.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T09:55:23Z",
+    "locationName": "Warp",
+    "queryName": "oth.eve.mdt.qq.com",
+    "resolverDecision": 9
+  },
+  {
+    "datetime": "2026-02-17T09:55:31Z",
+    "locationName": "Warp",
+    "queryName": "media.discordapp.net",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T09:55:41Z",
+    "locationName": "Samsung A30",
+    "queryName": "g.whatsapp.net",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T09:55:41Z",
+    "locationName": "Samsung A30",
+    "queryName": "graph.facebook.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T09:55:42Z",
+    "locationName": "Warp",
+    "queryName": "collector.github.com",
+    "resolverDecision": 9
+  },
+  {
+    "datetime": "2026-02-17T09:55:43Z",
+    "locationName": "Warp",
+    "queryName": "collector.github.com",
+    "resolverDecision": 9
+  },
+  {
+    "datetime": "2026-02-17T09:55:45Z",
+    "locationName": "Warp",
+    "queryName": "web.whatsapp.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T09:55:48Z",
+    "locationName": "Oppo",
+    "queryName": "i.instagram.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T09:55:48Z",
+    "locationName": "Oppo",
+    "queryName": "i-fallback.instagram.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T09:55:49Z",
+    "locationName": "Oppo",
+    "queryName": "graph.facebook.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T09:55:50Z",
+    "locationName": "Oppo",
+    "queryName": "graph-fallback.instagram.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T09:55:50Z",
+    "locationName": "Oppo",
+    "queryName": "graph.instagram.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T09:55:56Z",
+    "locationName": "Warp",
+    "queryName": "github.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T09:55:58Z",
+    "locationName": "Warp",
+    "queryName": "github.githubassets.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T09:55:58Z",
+    "locationName": "Warp",
+    "queryName": "analytics-toolbar.falais.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T09:55:59Z",
+    "locationName": "Oppo",
+    "queryName": "youtubei.googleapis.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T09:56:00Z",
+    "locationName": "Warp",
+    "queryName": "anti-phishing-protection-toolbar.falais.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T09:56:02Z",
+    "locationName": "Warp",
+    "queryName": "signaler-pa.clients6.google.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T09:56:08Z",
+    "locationName": "Warp",
+    "queryName": "api.github.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T09:56:22Z",
+    "locationName": "Oppo",
+    "queryName": "g.whatsapp.net",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T09:56:25Z",
+    "locationName": "Warp",
+    "queryName": "ptb.discord.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T09:56:29Z",
+    "locationName": "Warp",
+    "queryName": "google.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T09:56:29Z",
+    "locationName": "Warp",
+    "queryName": "oth.eve.mdt.qq.com",
+    "resolverDecision": 9
+  },
+  {
+    "datetime": "2026-02-17T09:56:33Z",
+    "locationName": "Warp",
+    "queryName": "settings-win.data.microsoft.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T09:56:34Z",
+    "locationName": "Warp",
+    "queryName": "alive.github.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T09:56:41Z",
+    "locationName": "Oppo",
+    "queryName": "test-gateway.instagram.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T09:56:47Z",
+    "locationName": "Warp",
+    "queryName": "www.google.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T09:56:49Z",
+    "locationName": "Warp",
+    "queryName": "settings-win.data.microsoft.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T09:56:52Z",
+    "locationName": "Warp",
+    "queryName": "history.google.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T09:56:52Z",
+    "locationName": "Warp",
+    "queryName": "collector.github.com",
+    "resolverDecision": 9
+  },
+  {
+    "datetime": "2026-02-17T09:56:54Z",
+    "locationName": "Warp",
+    "queryName": "clients2.google.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T09:56:54Z",
+    "locationName": "Warp",
+    "queryName": "addons-pa.clients6.google.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T09:56:54Z",
+    "locationName": "Warp",
+    "queryName": "feedback-pa.clients6.google.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T09:56:55Z",
+    "locationName": "Warp",
+    "queryName": "www.gstatic.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T09:56:56Z",
+    "locationName": "Oppo",
+    "queryName": "media-maa5-1.cdn.whatsapp.net",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T09:56:59Z",
+    "locationName": "Samsung A30",
+    "queryName": "s.youtube.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T09:57:02Z",
+    "locationName": "Samsung A30",
+    "queryName": "yt3.ggpht.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T09:57:02Z",
+    "locationName": "Samsung A30",
+    "queryName": "www.youtube.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T09:57:02Z",
+    "locationName": "Warp",
+    "queryName": "web.whatsapp.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T09:57:03Z",
+    "locationName": "Warp",
+    "queryName": "web.whatsapp.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T09:57:12Z",
+    "locationName": "Warp",
+    "queryName": "github.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T09:57:13Z",
+    "locationName": "Samsung A30",
+    "queryName": "googleads.g.doubleclick.net",
+    "resolverDecision": 9
+  },
+  {
+    "datetime": "2026-02-17T09:57:24Z",
+    "locationName": "Warp",
+    "queryName": "analytics.falais.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T09:57:24Z",
+    "locationName": "Oppo",
+    "queryName": "g.whatsapp.net",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T09:57:26Z",
+    "locationName": "Warp",
+    "queryName": "api.github.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T09:57:30Z",
+    "locationName": "Warp",
+    "queryName": "oth.eve.mdt.qq.com",
+    "resolverDecision": 9
+  },
+  {
+    "datetime": "2026-02-17T09:57:31Z",
+    "locationName": "Warp",
+    "queryName": "oth.eve.mdt.qq.com",
+    "resolverDecision": 9
+  },
+  {
+    "datetime": "2026-02-17T09:57:47Z",
+    "locationName": "Warp",
+    "queryName": "anonymous.ads.brave.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T09:57:48Z",
+    "locationName": "Warp",
+    "queryName": "anonymous.ads.brave.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T09:57:49Z",
+    "locationName": "Warp",
+    "queryName": "fonts.gstatic.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T09:58:00Z",
+    "locationName": "Samsung A30",
+    "queryName": "userlocation.googleapis.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T09:58:05Z",
+    "locationName": "Warp",
+    "queryName": "collector.github.com",
+    "resolverDecision": 9
+  },
+  {
+    "datetime": "2026-02-17T09:58:11Z",
+    "locationName": "Warp",
+    "queryName": "alive.github.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T09:58:13Z",
+    "locationName": "Warp",
+    "queryName": "github.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T09:58:29Z",
+    "locationName": "Warp",
+    "queryName": "api.github.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T09:58:29Z",
+    "locationName": "Warp",
+    "queryName": "app.vertjardin.coupons",
+    "resolverDecision": 9
+  },
+  {
+    "datetime": "2026-02-17T09:58:30Z",
+    "locationName": "Warp",
+    "queryName": "app.vertjardin.coupons",
+    "resolverDecision": 9
+  },
+  {
+    "datetime": "2026-02-17T09:58:30Z",
+    "locationName": "Warp",
+    "queryName": "api.github.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T09:58:31Z",
+    "locationName": "Warp",
+    "queryName": "oth.eve.mdt.qq.com",
+    "resolverDecision": 9
+  },
+  {
+    "datetime": "2026-02-17T09:58:32Z",
+    "locationName": "Warp",
+    "queryName": "oth.eve.mdt.qq.com",
+    "resolverDecision": 9
+  },
+  {
+    "datetime": "2026-02-17T09:58:38Z",
+    "locationName": "Warp",
+    "queryName": "safebrowsing.brave.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T09:58:38Z",
+    "locationName": "Warp",
+    "queryName": "www2.0zz0.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T09:59:03Z",
+    "locationName": "Warp",
+    "queryName": "time.cloudflare.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T09:59:04Z",
+    "locationName": "Warp",
+    "queryName": "www.cloudflarestatus.com",
+    "resolverDecision": 10
+  },
+  {
+    "datetime": "2026-02-17T09:59:22Z",
+    "locationName": "Oppo",
+    "queryName": "g.whatsapp.net",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T09:59:40Z",
+    "locationName": "Warp",
+    "queryName": "fonts.gstatic.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T09:59:41Z",
+    "locationName": "Warp",
+    "queryName": "ssl.gstatic.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T09:59:41Z",
+    "locationName": "Warp",
+    "queryName": "lh3.googleusercontent.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T09:59:43Z",
+    "locationName": "Warp",
+    "queryName": "accounts.google.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T09:59:44Z",
+    "locationName": "Warp",
+    "queryName": "jnn-pa.googleapis.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T09:59:45Z",
+    "locationName": "Warp",
+    "queryName": "ogs.google.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T09:59:46Z",
+    "locationName": "Samsung A30",
+    "queryName": "i.ytimg.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T09:59:52Z",
+    "locationName": "Warp",
+    "queryName": "analytics-toolbar.falais.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T09:59:55Z",
+    "locationName": "Warp",
+    "queryName": "wallosapp.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T10:00:04Z",
+    "locationName": "Warp",
+    "queryName": "raw.githubusercontent.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T10:00:06Z",
+    "locationName": "Warp",
+    "queryName": "collector.github.com",
+    "resolverDecision": 9
+  },
+  {
+    "datetime": "2026-02-17T10:00:07Z",
+    "locationName": "Warp",
+    "queryName": "api.github.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T10:00:07Z",
+    "locationName": "Warp",
+    "queryName": "cdn.discordapp.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T10:00:13Z",
+    "locationName": "Warp",
+    "queryName": "demo.wallosapp.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T10:00:29Z",
+    "locationName": "Warp",
+    "queryName": "www.bing.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T10:00:32Z",
+    "locationName": "Warp",
+    "queryName": "edge.microsoft.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T10:00:32Z",
+    "locationName": "Warp",
+    "queryName": "edgeassetservice.azureedge.net",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T10:00:35Z",
+    "locationName": "Warp",
+    "queryName": "oth.eve.mdt.qq.com",
+    "resolverDecision": 9
+  },
+  {
+    "datetime": "2026-02-17T10:00:46Z",
+    "locationName": "Samsung A30",
+    "queryName": "graph.facebook.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T10:00:48Z",
+    "locationName": "Oppo",
+    "queryName": "graph-fallback.facebook.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T10:00:48Z",
+    "locationName": "Oppo",
+    "queryName": "graph.facebook.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T10:00:48Z",
+    "locationName": "Oppo",
+    "queryName": "graph.instagram.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T10:00:48Z",
+    "locationName": "Oppo",
+    "queryName": "i.instagram.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T10:00:48Z",
+    "locationName": "Oppo",
+    "queryName": "i-fallback.instagram.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T10:01:21Z",
+    "locationName": "Oppo",
+    "queryName": "g.whatsapp.net",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T10:01:36Z",
+    "locationName": "Warp",
+    "queryName": "time.cloudflare.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T10:01:45Z",
+    "locationName": "Warp",
+    "queryName": "oth.eve.mdt.qq.com",
+    "resolverDecision": 9
+  },
+  {
+    "datetime": "2026-02-17T10:01:50Z",
+    "locationName": "Warp",
+    "queryName": "media.discordapp.net",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T10:02:02Z",
+    "locationName": "Warp",
+    "queryName": "www.gstatic.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T10:02:06Z",
+    "locationName": "Warp",
+    "queryName": "api.github.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T10:02:14Z",
+    "locationName": "Warp",
+    "queryName": "collector.github.com",
+    "resolverDecision": 9
+  },
+  {
+    "datetime": "2026-02-17T10:02:14Z",
+    "locationName": "Warp",
+    "queryName": "alive.github.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T10:02:15Z",
+    "locationName": "Warp",
+    "queryName": "alive.github.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T10:02:15Z",
+    "locationName": "Warp",
+    "queryName": "collector.github.com",
+    "resolverDecision": 9
+  },
+  {
+    "datetime": "2026-02-17T10:02:15Z",
+    "locationName": "Warp",
+    "queryName": "github.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T10:02:16Z",
+    "locationName": "Warp",
+    "queryName": "github.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T10:02:16Z",
+    "locationName": "Warp",
+    "queryName": "anti-phishing-protection-toolbar.falais.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T10:02:21Z",
+    "locationName": "Oppo",
+    "queryName": "g.whatsapp.net",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T10:02:29Z",
+    "locationName": "Samsung A30",
+    "queryName": "s.youtube.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T10:02:31Z",
+    "locationName": "Samsung A30",
+    "queryName": "yt3.ggpht.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T10:02:35Z",
+    "locationName": "Samsung A30",
+    "queryName": "www.gstatic.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T10:02:42Z",
+    "locationName": "Samsung A30",
+    "queryName": "googleads.g.doubleclick.net",
+    "resolverDecision": 9
+  },
+  {
+    "datetime": "2026-02-17T10:02:47Z",
+    "locationName": "Warp",
+    "queryName": "oth.eve.mdt.qq.com",
+    "resolverDecision": 9
+  },
+  {
+    "datetime": "2026-02-17T10:02:48Z",
+    "locationName": "Samsung A30",
+    "queryName": "optimizationguide-pa.googleapis.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T10:02:51Z",
+    "locationName": "Warp",
+    "queryName": "consumer.cloud.gist.build",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T10:03:21Z",
+    "locationName": "Oppo",
+    "queryName": "g.whatsapp.net",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T10:03:25Z",
+    "locationName": "Samsung A30",
+    "queryName": "rr5---sn-gwpa-pmhe.googlevideo.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T10:03:48Z",
+    "locationName": "Warp",
+    "queryName": "oth.eve.mdt.qq.com",
+    "resolverDecision": 9
+  },
+  {
+    "datetime": "2026-02-17T10:03:54Z",
+    "locationName": "Oppo",
+    "queryName": "time.android.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T10:04:03Z",
+    "locationName": "Warp",
+    "queryName": "www.cloudflarestatus.com",
+    "resolverDecision": 10
+  },
+  {
+    "datetime": "2026-02-17T10:04:21Z",
+    "locationName": "Oppo",
+    "queryName": "g.whatsapp.net",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T10:04:26Z",
+    "locationName": "Warp",
+    "queryName": "signaler-pa.clients6.google.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T10:04:31Z",
+    "locationName": "Warp",
+    "queryName": "ptb.discord.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T10:04:35Z",
+    "locationName": "Warp",
+    "queryName": "unifiedaccess.gameloop.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T10:04:38Z",
+    "locationName": "Warp",
+    "queryName": "cdn.discordapp.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T10:04:49Z",
+    "locationName": "Warp",
+    "queryName": "oth.eve.mdt.qq.com",
+    "resolverDecision": 9
+  },
+  {
+    "datetime": "2026-02-17T10:04:50Z",
+    "locationName": "Warp",
+    "queryName": "c.pki.goog",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T10:04:58Z",
+    "locationName": "Warp",
+    "queryName": "zyncxxcciidiiudfisuifsiufusdfisdisifidfisuifisfisifisu.warzonedns.com",
+    "resolverDecision": 9
+  },
+  {
+    "datetime": "2026-02-17T10:04:59Z",
+    "locationName": "Warp",
+    "queryName": "anti-phishing-protection-toolbar.falais.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T10:05:04Z",
+    "locationName": "Warp",
+    "queryName": "help.teams.cloudflare.com",
+    "resolverDecision": 10
+  },
+  {
+    "datetime": "2026-02-17T10:05:04Z",
+    "locationName": "Warp",
+    "queryName": "api.cloudflareclient.com",
+    "resolverDecision": 10
+  },
+  {
+    "datetime": "2026-02-17T10:05:04Z",
+    "locationName": "Warp",
+    "queryName": "help.one.cloudflare.com",
+    "resolverDecision": 10
+  },
+  {
+    "datetime": "2026-02-17T10:05:07Z",
+    "locationName": "Oppo",
+    "queryName": "geomobileservices-pa.googleapis.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T10:05:17Z",
+    "locationName": "Warp",
+    "queryName": "connectivity.cloudflareclient.com",
+    "resolverDecision": 10
+  },
+  {
+    "datetime": "2026-02-17T10:05:20Z",
+    "locationName": "Warp",
+    "queryName": "oth.eve.mdt.qq.com",
+    "resolverDecision": 9
+  },
+  {
+    "datetime": "2026-02-17T10:05:22Z",
+    "locationName": "Oppo",
+    "queryName": "g.whatsapp.net",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T10:05:25Z",
+    "locationName": "Warp",
+    "queryName": "www.gstatic.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T10:05:26Z",
+    "locationName": "Warp",
+    "queryName": "analytics-toolbar.falais.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T10:05:35Z",
+    "locationName": "Warp",
+    "queryName": "mail.proton.me",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T10:05:36Z",
+    "locationName": "Warp",
+    "queryName": "time.cloudflare.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T10:05:42Z",
+    "locationName": "Warp",
+    "queryName": "www.google.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T10:05:43Z",
+    "locationName": "Warp",
+    "queryName": "accounts.google.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T10:05:43Z",
+    "locationName": "Warp",
+    "queryName": "fonts.gstatic.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T10:05:43Z",
+    "locationName": "Warp",
+    "queryName": "ogads-pa.clients6.google.com",
+    "resolverDecision": 9
+  },
+  {
+    "datetime": "2026-02-17T10:05:44Z",
+    "locationName": "Warp",
+    "queryName": "github.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T10:05:46Z",
+    "locationName": "Warp",
+    "queryName": "avatars.githubusercontent.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T10:05:47Z",
+    "locationName": "Oppo",
+    "queryName": "i-fallback.instagram.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T10:05:47Z",
+    "locationName": "Oppo",
+    "queryName": "graph.facebook.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T10:05:47Z",
+    "locationName": "Oppo",
+    "queryName": "graph-fallback.instagram.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T10:05:47Z",
+    "locationName": "Warp",
+    "queryName": "alive.github.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T10:05:47Z",
+    "locationName": "Oppo",
+    "queryName": "graph-fallback.facebook.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T10:05:48Z",
+    "locationName": "Oppo",
+    "queryName": "graph-fallback.instagram.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T10:05:48Z",
+    "locationName": "Warp",
+    "queryName": "api.github.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T10:06:01Z",
+    "locationName": "Warp",
+    "queryName": "cdn.jsdelivr.net",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T10:06:17Z",
+    "locationName": "Samsung A30",
+    "queryName": "rr2---sn-gwpa-pmhl.googlevideo.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T10:06:17Z",
+    "locationName": "Samsung A30",
+    "queryName": "i.ytimg.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T10:06:21Z",
+    "locationName": "Warp",
+    "queryName": "oth.eve.mdt.qq.com",
+    "resolverDecision": 9
+  },
+  {
+    "datetime": "2026-02-17T10:06:21Z",
+    "locationName": "Samsung A30",
+    "queryName": "yt3.googleusercontent.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T10:06:22Z",
+    "locationName": "Oppo",
+    "queryName": "g.whatsapp.net",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T10:06:24Z",
+    "locationName": "Warp",
+    "queryName": "ptb.discord.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T10:06:29Z",
+    "locationName": "Samsung A30",
+    "queryName": "encrypted-tbn2.gstatic.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T10:06:37Z",
+    "locationName": "Warp",
+    "queryName": "mail.proton.me",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T10:06:49Z",
+    "locationName": "Warp",
+    "queryName": "gemini.google.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T10:06:50Z",
+    "locationName": "Warp",
+    "queryName": "api.github.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T10:06:50Z",
+    "locationName": "Warp",
+    "queryName": "collector.github.com",
+    "resolverDecision": 9
+  },
+  {
+    "datetime": "2026-02-17T10:06:51Z",
+    "locationName": "Warp",
+    "queryName": "consumer.cloud.gist.build",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T10:06:51Z",
+    "locationName": "Warp",
+    "queryName": "web.whatsapp.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T10:06:54Z",
+    "locationName": "Warp",
+    "queryName": "anti-phishing-protection-toolbar.falais.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T10:06:56Z",
+    "locationName": "Oppo",
+    "queryName": "www.google.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T10:06:56Z",
+    "locationName": "Oppo",
+    "queryName": "play.googleapis.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T10:07:07Z",
+    "locationName": "Oppo",
+    "queryName": "firebaseinstallations.googleapis.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T10:07:08Z",
+    "locationName": "Oppo",
+    "queryName": "meetings.googleapis.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T10:07:11Z",
+    "locationName": "Warp",
+    "queryName": "variations.brave.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T10:07:12Z",
+    "locationName": "Warp",
+    "queryName": "go-updater.brave.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T10:07:23Z",
+    "locationName": "Warp",
+    "queryName": "oth.eve.mdt.qq.com",
+    "resolverDecision": 9
+  },
+  {
+    "datetime": "2026-02-17T10:07:24Z",
+    "locationName": "Oppo",
+    "queryName": "g.whatsapp.net",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T10:07:34Z",
+    "locationName": "Warp",
+    "queryName": "cdn.discordapp.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T10:07:39Z",
+    "locationName": "Warp",
+    "queryName": "encrypted-tbn0.gstatic.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T10:07:43Z",
+    "locationName": "Warp",
+    "queryName": "www.oracle.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T10:07:44Z",
+    "locationName": "Warp",
+    "queryName": "tms.oracle.com",
+    "resolverDecision": 9
+  },
+  {
+    "datetime": "2026-02-17T10:07:46Z",
+    "locationName": "Warp",
+    "queryName": "www.oracleimg.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T10:07:46Z",
+    "locationName": "Warp",
+    "queryName": "assets.adobedtm.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T10:07:46Z",
+    "locationName": "Warp",
+    "queryName": "signup.cloud.oracle.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T10:07:47Z",
+    "locationName": "Warp",
+    "queryName": "img03.en25.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T10:07:48Z",
+    "locationName": "Warp",
+    "queryName": "go-stage.oracle.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T10:07:49Z",
+    "locationName": "Warp",
+    "queryName": "courier-service.oraclecloud.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T10:07:50Z",
+    "locationName": "Warp",
+    "queryName": "hcaptcha.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T10:07:51Z",
+    "locationName": "Warp",
+    "queryName": "1c8c7ed78530.w.hcaptcha.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T10:07:51Z",
+    "locationName": "Warp",
+    "queryName": "newassets.hcaptcha.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T10:08:06Z",
+    "locationName": "Warp",
+    "queryName": "f291985244f4.w.hcaptcha.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T10:08:06Z",
+    "locationName": "Warp",
+    "queryName": "fd67c8a49e56.w.hcaptcha.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T10:08:09Z",
+    "locationName": "Warp",
+    "queryName": "imgs.hcaptcha.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T10:08:18Z",
+    "locationName": "Warp",
+    "queryName": "unifiedaccess.gameloop.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T10:08:24Z",
+    "locationName": "Warp",
+    "queryName": "oth.eve.mdt.qq.com",
+    "resolverDecision": 9
+  },
+  {
+    "datetime": "2026-02-17T10:08:25Z",
+    "locationName": "Oppo",
+    "queryName": "g.whatsapp.net",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T10:08:29Z",
+    "locationName": "Warp",
+    "queryName": "media.discordapp.net",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T10:08:33Z",
+    "locationName": "Oppo",
+    "queryName": "mail-api.proton.me",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T10:08:34Z",
+    "locationName": "Oppo",
+    "queryName": "mail-api.proton.me",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T10:08:42Z",
+    "locationName": "Warp",
+    "queryName": "signaler-pa.clients6.google.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T10:09:00Z",
+    "locationName": "Warp",
+    "queryName": "safebrowsing.brave.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T10:09:03Z",
+    "locationName": "Warp",
+    "queryName": "time.cloudflare.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T10:09:03Z",
+    "locationName": "Warp",
+    "queryName": "www.cloudflarestatus.com",
+    "resolverDecision": 10
+  },
+  {
+    "datetime": "2026-02-17T10:09:25Z",
+    "locationName": "Warp",
+    "queryName": "oth.eve.mdt.qq.com",
+    "resolverDecision": 9
+  },
+  {
+    "datetime": "2026-02-17T10:09:29Z",
+    "locationName": "Warp",
+    "queryName": "signup-api.cloud.oracle.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T10:09:29Z",
+    "locationName": "Warp",
+    "queryName": "signup.cloud.oracle.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T10:09:29Z",
+    "locationName": "Samsung A30",
+    "queryName": "lh3.googleusercontent.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T10:09:32Z",
+    "locationName": "Oppo",
+    "queryName": "g.whatsapp.net",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T10:09:34Z",
+    "locationName": "Oppo",
+    "queryName": "g-fallback.whatsapp.net",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T10:09:34Z",
+    "locationName": "Oppo",
+    "queryName": "pool.ntp.org",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T10:09:35Z",
+    "locationName": "Oppo",
+    "queryName": "wimt-pa.googleapis.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T10:09:43Z",
+    "locationName": "Oppo",
+    "queryName": "i.ytimg.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T10:09:52Z",
+    "locationName": "Oppo",
+    "queryName": "cloudresourcemanager.googleapis.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T10:09:54Z",
+    "locationName": "Oppo",
+    "queryName": "cloudconsole-pa.googleapis.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T10:09:58Z",
+    "locationName": "Oppo",
+    "queryName": "taskassist-pa.googleapis.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T10:09:58Z",
+    "locationName": "Oppo",
+    "queryName": "appsgrowthpromo-pa.googleapis.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T10:10:00Z",
+    "locationName": "Oppo",
+    "queryName": "firebaseremoteconfig.googleapis.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T10:10:09Z",
+    "locationName": "Warp",
+    "queryName": "shop.oracle.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T10:10:13Z",
+    "locationName": "Warp",
+    "queryName": "static.oracle.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T10:10:21Z",
+    "locationName": "Warp",
+    "queryName": "secureacceptance.cybersource.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T10:10:28Z",
+    "locationName": "Samsung A30",
+    "queryName": "googleads.g.doubleclick.net",
+    "resolverDecision": 9
+  },
+  {
+    "datetime": "2026-02-17T10:10:36Z",
+    "locationName": "Warp",
+    "queryName": "time.cloudflare.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T10:10:37Z",
+    "locationName": "Warp",
+    "queryName": "oth.eve.mdt.qq.com",
+    "resolverDecision": 9
+  },
+  {
+    "datetime": "2026-02-17T10:10:43Z",
+    "locationName": "Warp",
+    "queryName": "gemini.google.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T10:10:44Z",
+    "locationName": "Warp",
+    "queryName": "www.gstatic.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T10:10:44Z",
+    "locationName": "Warp",
+    "queryName": "analytics-toolbar.falais.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T10:10:47Z",
+    "locationName": "Oppo",
+    "queryName": "graph-fallback.facebook.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T10:10:47Z",
+    "locationName": "Oppo",
+    "queryName": "graph.facebook.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T10:10:48Z",
+    "locationName": "Oppo",
+    "queryName": "graph.instagram.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T10:10:52Z",
+    "locationName": "Warp",
+    "queryName": "www.google.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T10:10:52Z",
+    "locationName": "Warp",
+    "queryName": "search.yahoo.co.jp",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T10:10:57Z",
+    "locationName": "Warp",
+    "queryName": "lh3.googleusercontent.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T10:10:58Z",
+    "locationName": "Warp",
+    "queryName": "ogads-pa.clients6.google.com",
+    "resolverDecision": 9
+  },
+  {
+    "datetime": "2026-02-17T10:10:59Z",
+    "locationName": "Warp",
+    "queryName": "ogads-pa.clients6.google.com",
+    "resolverDecision": 9
+  },
+  {
+    "datetime": "2026-02-17T10:10:59Z",
+    "locationName": "Warp",
+    "queryName": "www.youtube.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T10:11:00Z",
+    "locationName": "Warp",
+    "queryName": "encrypted-tbn2.gstatic.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T10:11:02Z",
+    "locationName": "Warp",
+    "queryName": "jnn-pa.googleapis.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T10:11:03Z",
+    "locationName": "Warp",
+    "queryName": "ssl.gstatic.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T10:11:24Z",
+    "locationName": "Warp",
+    "queryName": "ptb.discord.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T10:11:25Z",
+    "locationName": "Oppo",
+    "queryName": "g.whatsapp.net",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T10:11:36Z",
+    "locationName": "Warp",
+    "queryName": "forums.oracle.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T10:11:39Z",
+    "locationName": "Warp",
+    "queryName": "oth.eve.mdt.qq.com",
+    "resolverDecision": 9
+  },
+  {
+    "datetime": "2026-02-17T10:11:40Z",
+    "locationName": "Warp",
+    "queryName": "www.oracle.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T10:11:40Z",
+    "locationName": "Warp",
+    "queryName": "objectstorage.us-phoenix-1.oraclecloud.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T10:11:40Z",
+    "locationName": "Warp",
+    "queryName": "signup-api.cloud.oracle.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T10:11:40Z",
+    "locationName": "Warp",
+    "queryName": "static.oracle.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T10:11:41Z",
+    "locationName": "Warp",
+    "queryName": "objectstorage.us-phoenix-1.oraclecloud.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T10:11:41Z",
+    "locationName": "Warp",
+    "queryName": "www.oracle.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T10:11:45Z",
+    "locationName": "Warp",
+    "queryName": "consent.trustarc.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T10:11:46Z",
+    "locationName": "Warp",
+    "queryName": "oneocsp.microsoft.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T10:11:46Z",
+    "locationName": "Warp",
+    "queryName": "oc-cx-en.custhelp.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T10:11:46Z",
+    "locationName": "Samsung A30",
+    "queryName": "optimizationguide-pa.googleapis.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T10:11:48Z",
+    "locationName": "Warp",
+    "queryName": "www.oracleimg.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T10:11:52Z",
+    "locationName": "Warp",
+    "queryName": "sc60032181us1.cobrowse.oraclecloud.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T10:11:53Z",
+    "locationName": "Warp",
+    "queryName": "public.cobrowse.oraclecloud.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T10:11:54Z",
+    "locationName": "Warp",
+    "queryName": "oc-cx-en.widget.custhelp.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T10:12:17Z",
+    "locationName": "Warp",
+    "queryName": "oda-a55c862f32ac467ab2bf766c8dbd4c95-da3.data.digitalassistant.oci.oraclecloud.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T10:12:17Z",
+    "locationName": "Warp",
+    "queryName": "gemini.google.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T10:12:20Z",
+    "locationName": "Warp",
+    "queryName": "www.bing.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T10:12:37Z",
+    "locationName": "Warp",
+    "queryName": "yt3.ggpht.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T10:12:37Z",
+    "locationName": "Warp",
+    "queryName": "i.ytimg.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T10:12:38Z",
+    "locationName": "Warp",
+    "queryName": "jnn-pa.googleapis.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T10:12:38Z",
+    "locationName": "Warp",
+    "queryName": "i.ytimg.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T10:12:38Z",
+    "locationName": "Warp",
+    "queryName": "yt3.ggpht.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T10:12:43Z",
+    "locationName": "Warp",
+    "queryName": "cdn.discordapp.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T10:12:43Z",
+    "locationName": "Warp",
+    "queryName": "rr2---sn-gwpa-pmhl.googlevideo.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T10:12:44Z",
+    "locationName": "Warp",
+    "queryName": "rr6---sn-gwpa-h556.googlevideo.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T10:12:45Z",
+    "locationName": "Warp",
+    "queryName": "oth.eve.mdt.qq.com",
+    "resolverDecision": 9
+  },
+  {
+    "datetime": "2026-02-17T10:12:47Z",
+    "locationName": "Samsung A30",
+    "queryName": "i.ytimg.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T10:12:47Z",
+    "locationName": "Samsung A30",
+    "queryName": "yt3.ggpht.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T10:12:47Z",
+    "locationName": "Samsung A30",
+    "queryName": "rr4---sn-gwpa-pmhl.googlevideo.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T10:12:53Z",
+    "locationName": "Samsung A30",
+    "queryName": "www.google.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T10:13:11Z",
+    "locationName": "Warp",
+    "queryName": "public.cobrowse.oraclecloud.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T10:13:21Z",
+    "locationName": "Warp",
+    "queryName": "www.bing.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T10:13:24Z",
+    "locationName": "Oppo",
+    "queryName": "g.whatsapp.net",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T10:13:28Z",
+    "locationName": "Oppo",
+    "queryName": "instagram.fixm4-3.fna.fbcdn.net",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T10:13:29Z",
+    "locationName": "Oppo",
+    "queryName": "instagram.fixm4-2.fna.fbcdn.net",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T10:13:34Z",
+    "locationName": "Warp",
+    "queryName": "www.oracle.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T10:13:46Z",
+    "locationName": "Warp",
+    "queryName": "oth.eve.mdt.qq.com",
+    "resolverDecision": 9
+  },
+  {
+    "datetime": "2026-02-17T10:13:56Z",
+    "locationName": "Oppo",
+    "queryName": "wallet.google.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T10:13:59Z",
+    "locationName": "Oppo",
+    "queryName": "play.googleapis.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T10:14:03Z",
+    "locationName": "Warp",
+    "queryName": "www.cloudflarestatus.com",
+    "resolverDecision": 10
+  },
+  {
+    "datetime": "2026-02-17T10:14:12Z",
+    "locationName": "Samsung A30",
+    "queryName": "googleads.g.doubleclick.net",
+    "resolverDecision": 9
+  },
+  {
+    "datetime": "2026-02-17T10:14:13Z",
+    "locationName": "Samsung A30",
+    "queryName": "rr1---sn-gwpa-pmhe.googlevideo.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T10:14:14Z",
+    "locationName": "Samsung A30",
+    "queryName": "encrypted-tbn3.gstatic.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T10:14:22Z",
+    "locationName": "Warp",
+    "queryName": "anti-phishing-protection-toolbar.falais.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T10:14:35Z",
+    "locationName": "Warp",
+    "queryName": "signaler-pa.clients6.google.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T10:14:46Z",
+    "locationName": "Warp",
+    "queryName": "cdn.discordapp.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T10:14:47Z",
+    "locationName": "Warp",
+    "queryName": "oth.eve.mdt.qq.com",
+    "resolverDecision": 9
+  },
+  {
+    "datetime": "2026-02-17T10:14:50Z",
+    "locationName": "Warp",
+    "queryName": "media.discordapp.net",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T10:14:51Z",
+    "locationName": "Warp",
+    "queryName": "consumer.cloud.gist.build",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T10:15:25Z",
+    "locationName": "Oppo",
+    "queryName": "g.whatsapp.net",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T10:15:26Z",
+    "locationName": "Oppo",
+    "queryName": "play-fe.googleapis.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T10:15:31Z",
+    "locationName": "Samsung A30",
+    "queryName": "api.samsunggp.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T10:15:36Z",
+    "locationName": "Warp",
+    "queryName": "time.cloudflare.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T10:15:46Z",
+    "locationName": "Oppo",
+    "queryName": "connectivitycheck.android.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T10:15:47Z",
+    "locationName": "Warp",
+    "queryName": "accounts.google.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T10:15:47Z",
+    "locationName": "Oppo",
+    "queryName": "graph.instagram.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T10:15:47Z",
+    "locationName": "Oppo",
+    "queryName": "graph-fallback.instagram.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T10:15:47Z",
+    "locationName": "Oppo",
+    "queryName": "mobile-collector.newrelic.com",
+    "resolverDecision": 9
+  },
+  {
+    "datetime": "2026-02-17T10:15:47Z",
+    "locationName": "Oppo",
+    "queryName": "i.instagram.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T10:15:47Z",
+    "locationName": "Oppo",
+    "queryName": "graph-fallback.facebook.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T10:15:49Z",
+    "locationName": "Warp",
+    "queryName": "oth.eve.mdt.qq.com",
+    "resolverDecision": 9
+  },
+  {
+    "datetime": "2026-02-17T10:15:50Z",
+    "locationName": "Warp",
+    "queryName": "fonts.gstatic.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T10:15:50Z",
+    "locationName": "Warp",
+    "queryName": "www.gstatic.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T10:15:50Z",
+    "locationName": "Warp",
+    "queryName": "lh3.googleusercontent.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T10:15:50Z",
+    "locationName": "Warp",
+    "queryName": "encrypted-tbn0.gstatic.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T10:15:51Z",
+    "locationName": "Warp",
+    "queryName": "ogads-pa.clients6.google.com",
+    "resolverDecision": 9
+  },
+  {
+    "datetime": "2026-02-17T10:15:51Z",
+    "locationName": "Warp",
+    "queryName": "www.youtube.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T10:15:53Z",
+    "locationName": "Warp",
+    "queryName": "translation-plugin.bhashini.co.in",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T10:15:53Z",
+    "locationName": "Warp",
+    "queryName": "anti-phishing-protection-toolbar.falais.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T10:15:53Z",
+    "locationName": "Warp",
+    "queryName": "analytics-toolbar.falais.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T10:15:54Z",
+    "locationName": "Warp",
+    "queryName": "anonymous.ads.brave.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T10:16:00Z",
+    "locationName": "Oppo",
+    "queryName": "connekt.flipkart.net",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T10:16:27Z",
+    "locationName": "Oppo",
+    "queryName": "youtubei.googleapis.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T10:16:37Z",
+    "locationName": "Warp",
+    "queryName": "cdn.discordapp.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T10:16:40Z",
+    "locationName": "Samsung A30",
+    "queryName": "vas.samsungapps.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T10:16:44Z",
+    "locationName": "Warp",
+    "queryName": "media.discordapp.net",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T10:16:56Z",
+    "locationName": "Oppo",
+    "queryName": "wimt-pa.googleapis.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T10:16:58Z",
+    "locationName": "Warp",
+    "queryName": "www.google.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T10:17:01Z",
+    "locationName": "Oppo",
+    "queryName": "app-measurement.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T10:17:03Z",
+    "locationName": "Warp",
+    "queryName": "ogads-pa.clients6.google.com",
+    "resolverDecision": 9
+  },
+  {
+    "datetime": "2026-02-17T10:17:04Z",
+    "locationName": "Warp",
+    "queryName": "ogads-pa.clients6.google.com",
+    "resolverDecision": 9
+  },
+  {
+    "datetime": "2026-02-17T10:17:05Z",
+    "locationName": "Warp",
+    "queryName": "ssl.gstatic.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T10:17:05Z",
+    "locationName": "Warp",
+    "queryName": "jupiter.money",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T10:17:06Z",
+    "locationName": "Warp",
+    "queryName": "encrypted-tbn1.gstatic.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T10:17:06Z",
+    "locationName": "Warp",
+    "queryName": "unpkg.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T10:17:07Z",
+    "locationName": "Warp",
+    "queryName": "encrypted-tbn3.gstatic.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T10:17:07Z",
+    "locationName": "Warp",
+    "queryName": "main.d3m500rzzdvbs0.amplifyapp.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T10:17:08Z",
+    "locationName": "Warp",
+    "queryName": "cdn.jsdelivr.net",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T10:17:08Z",
+    "locationName": "Warp",
+    "queryName": "encrypted-tbn1.gstatic.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T10:17:08Z",
+    "locationName": "Warp",
+    "queryName": "unpkg.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T10:17:08Z",
+    "locationName": "Warp",
+    "queryName": "main.d3m500rzzdvbs0.amplifyapp.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T10:17:09Z",
+    "locationName": "Oppo",
+    "queryName": "us-east1-aws.api.snapchat.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T10:17:09Z",
+    "locationName": "Oppo",
+    "queryName": "gcp.api.snapchat.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T10:17:09Z",
+    "locationName": "Warp",
+    "queryName": "pdp.gokwik.co",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T10:17:09Z",
+    "locationName": "Oppo",
+    "queryName": "app-analytics-v2.snapchat.com",
+    "resolverDecision": 9
+  },
+  {
+    "datetime": "2026-02-17T10:17:10Z",
+    "locationName": "Oppo",
+    "queryName": "usc1-gcp-v62.api.snapchat.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T10:17:11Z",
+    "locationName": "Warp",
+    "queryName": "gkx.gokwik.co",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T10:17:11Z",
+    "locationName": "Warp",
+    "queryName": "global-uploads.webflow.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T10:17:18Z",
+    "locationName": "Samsung A30",
+    "queryName": "youtubei.googleapis.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T10:17:24Z",
+    "locationName": "Samsung A30",
+    "queryName": "r6---sn-gwpa-qxas.googlevideo.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T10:17:24Z",
+    "locationName": "Warp",
+    "queryName": "analytics.falais.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T10:17:28Z",
+    "locationName": "Samsung A30",
+    "queryName": "googleads.g.doubleclick.net",
+    "resolverDecision": 9
+  },
+  {
+    "datetime": "2026-02-17T10:17:31Z",
+    "locationName": "Oppo",
+    "queryName": "g.whatsapp.net",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T10:17:44Z",
+    "locationName": "Warp",
+    "queryName": "gemini.google.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T10:17:57Z",
+    "locationName": "Warp",
+    "queryName": "oth.eve.mdt.qq.com",
+    "resolverDecision": 9
+  },
+  {
+    "datetime": "2026-02-17T10:18:14Z",
+    "locationName": "Oppo",
+    "queryName": "time.android.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T10:18:16Z",
+    "locationName": "Oppo",
+    "queryName": "mobile-collector.newrelic.com",
+    "resolverDecision": 9
+  },
+  {
+    "datetime": "2026-02-17T10:18:17Z",
+    "locationName": "Oppo",
+    "queryName": "pro.openweathermap.org",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T10:18:19Z",
+    "locationName": "Oppo",
+    "queryName": "mdp-appconf-in.heytapdl.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T10:18:24Z",
+    "locationName": "Oppo",
+    "queryName": "play-lh.googleusercontent.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T10:18:29Z",
+    "locationName": "Oppo",
+    "queryName": "www.google.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T10:18:38Z",
+    "locationName": "Oppo",
+    "queryName": "play-apps-features.googleusercontent.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T10:18:49Z",
+    "locationName": "Oppo",
+    "queryName": "g.whatsapp.net",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T10:19:05Z",
+    "locationName": "Oppo",
+    "queryName": "connectivitycheck.gstatic.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T10:19:09Z",
+    "locationName": "Oppo",
+    "queryName": "play.googleapis.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T10:19:09Z",
+    "locationName": "Oppo",
+    "queryName": "android.clients.google.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T10:19:10Z",
+    "locationName": "Oppo",
+    "queryName": "rr4---sn-gwpa-pmhl.gvt1.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T10:19:10Z",
+    "locationName": "Oppo",
+    "queryName": "rr3---sn-gwpa-pmhl.gvt1.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T10:19:11Z",
+    "locationName": "Oppo",
+    "queryName": "rr2---sn-gwpa-pmhe.gvt1.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T10:19:18Z",
+    "locationName": "Samsung A30",
+    "queryName": "lh3.googleusercontent.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T10:19:58Z",
+    "locationName": "Oppo",
+    "queryName": "github.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T10:19:59Z",
+    "locationName": "Oppo",
+    "queryName": "firebase-settings.crashlytics.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T10:19:59Z",
+    "locationName": "Samsung A30",
+    "queryName": "optimizationguide-pa.googleapis.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T10:20:00Z",
+    "locationName": "Oppo",
+    "queryName": "icosa-service-in.allawnos.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T10:20:01Z",
+    "locationName": "Oppo",
+    "queryName": "release-assets.githubusercontent.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T10:20:02Z",
+    "locationName": "Oppo",
+    "queryName": "classify-app-in.allawnos.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T10:20:05Z",
+    "locationName": "Oppo",
+    "queryName": "i.instagram.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T10:20:08Z",
+    "locationName": "Samsung A30",
+    "queryName": "yt3.ggpht.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T10:20:08Z",
+    "locationName": "Samsung A30",
+    "queryName": "rr3---sn-gwpa-pmhl.googlevideo.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T10:20:09Z",
+    "locationName": "Samsung A30",
+    "queryName": "a6f5eac2-dnsotls-ds.metric.gstatic.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T10:20:13Z",
+    "locationName": "Samsung A30",
+    "queryName": "rr4---sn-gwpa-pmhe.googlevideo.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T10:20:17Z",
+    "locationName": "Oppo",
+    "queryName": "firebaseinstallations.googleapis.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T10:20:19Z",
+    "locationName": "Oppo",
+    "queryName": "android.apis.google.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T10:20:20Z",
+    "locationName": "Oppo",
+    "queryName": "clevertap-prod.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T10:20:21Z",
+    "locationName": "Oppo",
+    "queryName": "in1.clevertap-prod.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T10:20:22Z",
+    "locationName": "Oppo",
+    "queryName": "graph.facebook.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T10:20:29Z",
+    "locationName": "Oppo",
+    "queryName": "cx4bms.cdn-settings.appsflyersdk.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T10:20:32Z",
+    "locationName": "Samsung A30",
+    "queryName": "z-m-gateway.facebook.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T10:20:34Z",
+    "locationName": "Oppo",
+    "queryName": "cx4bms.conversions.appsflyersdk.com",
+    "resolverDecision": 9
+  },
+  {
+    "datetime": "2026-02-17T10:20:43Z",
+    "locationName": "Oppo",
+    "queryName": "api2.amplitude.com",
+    "resolverDecision": 9
+  },
+  {
+    "datetime": "2026-02-17T10:20:48Z",
+    "locationName": "Oppo",
+    "queryName": "firebaselogging-pa.googleapis.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T10:21:06Z",
+    "locationName": "Oppo",
+    "queryName": "assets.jupiter.money",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T10:21:07Z",
+    "locationName": "Oppo",
+    "queryName": "g.whatsapp.net",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T10:21:09Z",
+    "locationName": "Oppo",
+    "queryName": "graph.instagram.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T10:21:18Z",
+    "locationName": "Oppo",
+    "queryName": "bfp.prd.bureau.id",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T10:21:18Z",
+    "locationName": "Oppo",
+    "queryName": "mitter-cb.jupiter.money",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T10:21:19Z",
+    "locationName": "Oppo",
+    "queryName": "rgepodownload.mediatek.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T10:21:20Z",
+    "locationName": "Oppo",
+    "queryName": "nats.jupiter.money",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T10:21:21Z",
+    "locationName": "Oppo",
+    "queryName": "geomobileservices-pa.googleapis.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T10:21:22Z",
+    "locationName": "Oppo",
+    "queryName": "dia.bureau.id",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T10:21:28Z",
+    "locationName": "Samsung A30",
+    "queryName": "rr3---sn-gwpa-h55y.googlevideo.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T10:21:47Z",
+    "locationName": "Oppo",
+    "queryName": "api2.amplitude.com",
+    "resolverDecision": 9
+  },
+  {
+    "datetime": "2026-02-17T10:21:49Z",
+    "locationName": "Oppo",
+    "queryName": "weather-server.allawnos.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T10:22:14Z",
+    "locationName": "Oppo",
+    "queryName": "g.whatsapp.net",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T10:22:16Z",
+    "locationName": "Oppo",
+    "queryName": "instantmessaging-pa.googleapis.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T10:22:21Z",
+    "locationName": "Oppo",
+    "queryName": "httpdns-push.heytapmobile.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T10:22:21Z",
+    "locationName": "Oppo",
+    "queryName": "file-intl-push.heytapdl.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T10:22:31Z",
+    "locationName": "Oppo",
+    "queryName": "meetings.googleapis.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T10:22:48Z",
+    "locationName": "Oppo",
+    "queryName": "api2.amplitude.com",
+    "resolverDecision": 9
+  },
+  {
+    "datetime": "2026-02-17T10:22:49Z",
+    "locationName": "Oppo",
+    "queryName": "assets2.jupiter.money",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T10:23:23Z",
+    "locationName": "Oppo",
+    "queryName": "i.instagram.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T10:23:24Z",
+    "locationName": "Oppo",
+    "queryName": "z-m-gateway.facebook.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T10:23:27Z",
+    "locationName": "Oppo",
+    "queryName": "edge-mqtt.facebook.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T10:23:33Z",
+    "locationName": "Samsung A30",
+    "queryName": "i.ytimg.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T10:23:35Z",
+    "locationName": "Samsung A30",
+    "queryName": "s.youtube.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T10:23:39Z",
+    "locationName": "Oppo",
+    "queryName": "graph.facebook.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T10:24:11Z",
+    "locationName": "Oppo",
+    "queryName": "www.google.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T10:24:23Z",
+    "locationName": "Oppo",
+    "queryName": "suggestqueries.google.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T10:24:25Z",
+    "locationName": "Oppo",
+    "queryName": "play-lh.googleusercontent.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T10:24:27Z",
+    "locationName": "Oppo",
+    "queryName": "graph.instagram.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T10:24:27Z",
+    "locationName": "Oppo",
+    "queryName": "appsgrowthpromo-pa.googleapis.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T10:24:28Z",
+    "locationName": "Oppo",
+    "queryName": "appsgenaiserver-pa.googleapis.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T10:24:29Z",
+    "locationName": "Oppo",
+    "queryName": "android.googleapis.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T10:24:34Z",
+    "locationName": "Oppo",
+    "queryName": "ci3.googleusercontent.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T10:24:34Z",
+    "locationName": "Oppo",
+    "queryName": "play-fe.googleapis.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T10:24:35Z",
+    "locationName": "Oppo",
+    "queryName": "play.googleapis.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T10:24:35Z",
+    "locationName": "Oppo",
+    "queryName": "i.ytimg.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T10:24:35Z",
+    "locationName": "Oppo",
+    "queryName": "prod-lt-playstoregatewayadapter-pa.googleapis.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T10:24:36Z",
+    "locationName": "Oppo",
+    "queryName": "firefox.settings.services.mozilla.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T10:24:36Z",
+    "locationName": "Oppo",
+    "queryName": "incoming.telemetry.mozilla.org",
+    "resolverDecision": 9
+  },
+  {
+    "datetime": "2026-02-17T10:24:39Z",
+    "locationName": "Oppo",
+    "queryName": "addons-pa.googleapis.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T10:24:47Z",
+    "locationName": "Oppo",
+    "queryName": "file-intl-push.heytapdl.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T10:25:16Z",
+    "locationName": "Oppo",
+    "queryName": "subscriptionsfirstparty-pa.googleapis.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T10:25:17Z",
+    "locationName": "Oppo",
+    "queryName": "taskassist-pa.clients6.google.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T10:25:36Z",
+    "locationName": "Oppo",
+    "queryName": "ingress.ap1.rum-ingress-coralogix.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T10:25:37Z",
+    "locationName": "Oppo",
+    "queryName": "cx4bms.conversions.appsflyersdk.com",
+    "resolverDecision": 9
+  },
+  {
+    "datetime": "2026-02-17T10:25:37Z",
+    "locationName": "Oppo",
+    "queryName": "api.jupiter.money",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T10:25:38Z",
+    "locationName": "Oppo",
+    "queryName": "cx4bms.conversions.appsflyersdk.com",
+    "resolverDecision": 9
+  },
+  {
+    "datetime": "2026-02-17T10:25:39Z",
+    "locationName": "Oppo",
+    "queryName": "api2.amplitude.com",
+    "resolverDecision": 9
+  },
+  {
+    "datetime": "2026-02-17T10:25:40Z",
+    "locationName": "Samsung A30",
+    "queryName": "www.youtube.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T10:25:40Z",
+    "locationName": "Samsung A30",
+    "queryName": "yt3.ggpht.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T10:25:44Z",
+    "locationName": "Oppo",
+    "queryName": "www.googleapis.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T10:25:45Z",
+    "locationName": "Oppo",
+    "queryName": "assets.jupiter.money",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T10:25:45Z",
+    "locationName": "Oppo",
+    "queryName": "mitter-cb.jupiter.money",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T10:25:52Z",
+    "locationName": "Samsung A30",
+    "queryName": "googleads.g.doubleclick.net",
+    "resolverDecision": 9
+  },
+  {
+    "datetime": "2026-02-17T10:25:52Z",
+    "locationName": "Samsung A30",
+    "queryName": "g.whatsapp.net",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T10:25:52Z",
+    "locationName": "Oppo",
+    "queryName": "assets-imagekit.jupiter.money",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T10:25:54Z",
+    "locationName": "Samsung A30",
+    "queryName": "rr2---sn-gwpa-pmhe.googlevideo.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T10:26:02Z",
+    "locationName": "Oppo",
+    "queryName": "pool.ntp.org",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T10:26:07Z",
+    "locationName": "Oppo",
+    "queryName": "firebaselogging-pa.googleapis.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T10:26:08Z",
+    "locationName": "Samsung A30",
+    "queryName": "safebrowsingohttpgateway.googleapis.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T10:26:08Z",
+    "locationName": "Samsung A30",
+    "queryName": "safebrowsing.googleapis.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T10:26:12Z",
+    "locationName": "Oppo",
+    "queryName": "e5.whatsapp.net",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T10:26:12Z",
+    "locationName": "Samsung A30",
+    "queryName": "restrictedapps-pa.googleapis.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T10:26:14Z",
+    "locationName": "Oppo",
+    "queryName": "e8.whatsapp.net",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T10:26:18Z",
+    "locationName": "Oppo",
+    "queryName": "clients3.google.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T10:26:20Z",
+    "locationName": "Samsung A30",
+    "queryName": "notifications-ueeshp-pa.googleapis.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T10:26:28Z",
+    "locationName": "Oppo",
+    "queryName": "webvwlive.finvu.in",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T10:26:36Z",
+    "locationName": "Samsung A30",
+    "queryName": "1ff24621-dnsotls-ds.metric.gstatic.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T10:26:40Z",
+    "locationName": "Oppo",
+    "queryName": "api2.amplitude.com",
+    "resolverDecision": 9
+  },
+  {
+    "datetime": "2026-02-17T10:26:41Z",
+    "locationName": "Samsung A30",
+    "queryName": "proactivebackend-pa.googleapis.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T10:27:07Z",
+    "locationName": "Oppo",
+    "queryName": "i.instagram.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T10:27:08Z",
+    "locationName": "Oppo",
+    "queryName": "z-m-gateway.facebook.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T10:27:09Z",
+    "locationName": "Samsung A30",
+    "queryName": "www.googleapis.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T10:27:10Z",
+    "locationName": "Oppo",
+    "queryName": "test-gateway.instagram.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T10:27:19Z",
+    "locationName": "Samsung A30",
+    "queryName": "capi.samsungcloud.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T10:27:22Z",
+    "locationName": "Oppo",
+    "queryName": "graph.facebook.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T10:27:27Z",
+    "locationName": "Samsung A30",
+    "queryName": "gld.push.samsungosp.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T10:27:29Z",
+    "locationName": "Samsung A30",
+    "queryName": "inwal.s3.amazonaws.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T10:27:42Z",
+    "locationName": "Oppo",
+    "queryName": "api2.amplitude.com",
+    "resolverDecision": 9
+  },
+  {
+    "datetime": "2026-02-17T10:28:10Z",
+    "locationName": "Oppo",
+    "queryName": "graph.instagram.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T10:28:17Z",
+    "locationName": "Samsung A30",
+    "queryName": "android.clients.google.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T10:28:17Z",
+    "locationName": "Samsung A30",
+    "queryName": "play-fe.googleapis.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T10:28:18Z",
+    "locationName": "Samsung A30",
+    "queryName": "playstoregatewayadapter-pa.googleapis.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T10:28:18Z",
+    "locationName": "Samsung A30",
+    "queryName": "play-lh.googleusercontent.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T10:28:22Z",
+    "locationName": "Oppo",
+    "queryName": "android.apis.google.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T10:28:23Z",
+    "locationName": "Samsung A30",
+    "queryName": "connectivitycheck.gstatic.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T10:28:24Z",
+    "locationName": "Oppo",
+    "queryName": "pool.ntp.org",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T10:28:24Z",
+    "locationName": "Oppo",
+    "queryName": "time.android.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T10:28:24Z",
+    "locationName": "Oppo",
+    "queryName": "mdp-appconf-in.heytapdl.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T10:28:25Z",
+    "locationName": "Oppo",
+    "queryName": "binapi.pcloud.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T10:28:25Z",
+    "locationName": "Oppo",
+    "queryName": "app-measurement.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T10:28:26Z",
+    "locationName": "Samsung A30",
+    "queryName": "optimizationguide-pa.googleapis.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T10:29:10Z",
+    "locationName": "Samsung A30",
+    "queryName": "i.ytimg.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T10:29:10Z",
+    "locationName": "Samsung A30",
+    "queryName": "lh3.googleusercontent.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T10:29:25Z",
+    "locationName": "Samsung A30",
+    "queryName": "rr3---sn-gwpa-pmhe.googlevideo.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T10:29:26Z",
+    "locationName": "Samsung A30",
+    "queryName": "rr4---sn-gwpa-h55k.googlevideo.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T10:29:30Z",
+    "locationName": "Samsung A30",
+    "queryName": "vas.samsungapps.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T10:29:33Z",
+    "locationName": "Samsung A30",
+    "queryName": "ers.samsungcloud.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T10:29:35Z",
+    "locationName": "Samsung A30",
+    "queryName": "play.samsungcloud.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T10:29:37Z",
+    "locationName": "Samsung A30",
+    "queryName": "api.samsungcloud.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T10:29:42Z",
+    "locationName": "Oppo",
+    "queryName": "instantmessaging-pa.googleapis.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T10:29:44Z",
+    "locationName": "Oppo",
+    "queryName": "play.googleapis.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T10:29:48Z",
+    "locationName": "Samsung A30",
+    "queryName": "wu2z-api.samsungcloud.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T10:29:50Z",
+    "locationName": "Oppo",
+    "queryName": "android.clients.google.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T10:29:50Z",
+    "locationName": "Oppo",
+    "queryName": "taskassist-pa.googleapis.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T10:29:50Z",
+    "locationName": "Oppo",
+    "queryName": "appsgrowthpromo-pa.googleapis.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T10:29:51Z",
+    "locationName": "Oppo",
+    "queryName": "appsgenaiserver-pa.googleapis.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T10:29:55Z",
+    "locationName": "Samsung A30",
+    "queryName": "android.apis.google.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T10:29:57Z",
+    "locationName": "Samsung A30",
+    "queryName": "android.googleapis.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T10:30:05Z",
+    "locationName": "Samsung A30",
+    "queryName": "taskassist-pa.googleapis.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T10:30:06Z",
+    "locationName": "Samsung A30",
+    "queryName": "inbox.google.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T10:30:29Z",
+    "locationName": "Oppo",
+    "queryName": "spot-pa.googleapis.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T10:30:30Z",
+    "locationName": "Oppo",
+    "queryName": "notifications-pa.googleapis.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T10:30:35Z",
+    "locationName": "Oppo",
+    "queryName": "connectivitycheck.gstatic.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T10:30:35Z",
+    "locationName": "Warp",
+    "queryName": "connectivity.cloudflareclient.com",
+    "resolverDecision": 10
+  },
+  {
+    "datetime": "2026-02-17T10:30:36Z",
+    "locationName": "Samsung A30",
+    "queryName": "z-m-gateway.facebook.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T10:30:39Z",
+    "locationName": "Warp",
+    "queryName": "oth.eve.mdt.qq.com",
+    "resolverDecision": 9
+  },
+  {
+    "datetime": "2026-02-17T10:30:39Z",
+    "locationName": "Warp",
+    "queryName": "log.tailscale.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T10:30:39Z",
+    "locationName": "Warp",
+    "queryName": "media-maa5-1.cdn.whatsapp.net",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T10:30:39Z",
+    "locationName": "Warp",
+    "queryName": "aks-prod-southeastasia.access-point.cloudmessaging.edge.microsoft.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T10:30:40Z",
+    "locationName": "Warp",
+    "queryName": "media.fixm4-2.fna.whatsapp.net",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T10:30:40Z",
+    "locationName": "Warp",
+    "queryName": "msgstore-001.www.notion.so",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T10:30:40Z",
+    "locationName": "Warp",
+    "queryName": "media.fixm4-1.fna.whatsapp.net",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T10:30:49Z",
+    "locationName": "Warp",
+    "queryName": "www.google.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T10:30:50Z",
+    "locationName": "Warp",
+    "queryName": "mail.proton.me",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T10:30:50Z",
+    "locationName": "Warp",
+    "queryName": "ptb.discord.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T10:30:50Z",
+    "locationName": "Warp",
+    "queryName": "api.spotify.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T10:30:53Z",
+    "locationName": "Samsung A30",
+    "queryName": "graph.facebook.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T10:31:00Z",
+    "locationName": "Warp",
+    "queryName": "gateway.discord.gg",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T10:31:05Z",
+    "locationName": "Warp",
+    "queryName": "status.discord.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T10:31:05Z",
+    "locationName": "Warp",
+    "queryName": "cdn.discordapp.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T10:31:07Z",
+    "locationName": "Warp",
+    "queryName": "updates.discord.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T10:31:20Z",
+    "locationName": "Warp",
+    "queryName": "updates.bravesoftware.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T10:31:25Z",
+    "locationName": "Warp",
+    "queryName": "fonts.gstatic.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T10:31:25Z",
+    "locationName": "Warp",
+    "queryName": "lh3.googleusercontent.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T10:31:26Z",
+    "locationName": "Warp",
+    "queryName": "www.youtube.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T10:31:27Z",
+    "locationName": "Warp",
+    "queryName": "accounts.google.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T10:31:27Z",
+    "locationName": "Warp",
+    "queryName": "encrypted-tbn3.gstatic.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T10:31:28Z",
+    "locationName": "Warp",
+    "queryName": "jnn-pa.googleapis.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T10:31:30Z",
+    "locationName": "Warp",
+    "queryName": "ogs.google.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T10:31:34Z",
+    "locationName": "Warp",
+    "queryName": "static.whatsapp.net",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T10:31:34Z",
+    "locationName": "Warp",
+    "queryName": "web.whatsapp.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T10:31:36Z",
+    "locationName": "Oppo",
+    "queryName": "g.whatsapp.net",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T10:31:36Z",
+    "locationName": "Samsung A30",
+    "queryName": "mtalk.google.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T10:31:36Z",
+    "locationName": "Warp",
+    "queryName": "analytics-toolbar.falais.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T10:31:36Z",
+    "locationName": "Warp",
+    "queryName": "time.cloudflare.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T10:31:37Z",
+    "locationName": "Oppo",
+    "queryName": "static.whatsapp.net",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T10:31:39Z",
+    "locationName": "Oppo",
+    "queryName": "graph.whatsapp.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T10:31:41Z",
+    "locationName": "Oppo",
+    "queryName": "g-fallback.whatsapp.net",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T10:31:45Z",
+    "locationName": "Warp",
+    "queryName": "oth.eve.mdt.qq.com",
+    "resolverDecision": 9
+  },
+  {
+    "datetime": "2026-02-17T10:31:50Z",
+    "locationName": "Warp",
+    "queryName": "boot.net.anydesk.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T10:31:51Z",
+    "locationName": "Warp",
+    "queryName": "relay-f4f34eaa.net.anydesk.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T10:31:56Z",
+    "locationName": "Oppo",
+    "queryName": "graph.facebook.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T10:32:00Z",
+    "locationName": "Samsung A30",
+    "queryName": "rr3---sn-gwpa-h55e7.googlevideo.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T10:32:07Z",
+    "locationName": "Oppo",
+    "queryName": "graph-fallback.facebook.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T10:32:07Z",
+    "locationName": "Oppo",
+    "queryName": "i.instagram.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T10:32:07Z",
+    "locationName": "Oppo",
+    "queryName": "graph-fallback.instagram.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T10:32:08Z",
+    "locationName": "Warp",
+    "queryName": "cdn.discordapp.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T10:32:20Z",
+    "locationName": "Warp",
+    "queryName": "unifiedaccess.gameloop.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T10:32:28Z",
+    "locationName": "Warp",
+    "queryName": "gemini.google.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T10:32:29Z",
+    "locationName": "Oppo",
+    "queryName": "test-gateway.instagram.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T10:32:36Z",
+    "locationName": "Warp",
+    "queryName": "client.wns.windows.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T10:32:47Z",
+    "locationName": "Warp",
+    "queryName": "oth.eve.mdt.qq.com",
+    "resolverDecision": 9
+  },
+  {
+    "datetime": "2026-02-17T10:32:55Z",
+    "locationName": "Warp",
+    "queryName": "fonts.gstatic.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T10:32:55Z",
+    "locationName": "Warp",
+    "queryName": "ogads-pa.clients6.google.com",
+    "resolverDecision": 9
+  },
+  {
+    "datetime": "2026-02-17T10:32:56Z",
+    "locationName": "Warp",
+    "queryName": "www.kotak.bank.in",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T10:32:57Z",
+    "locationName": "Warp",
+    "queryName": "assets.adobedtm.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T10:32:57Z",
+    "locationName": "Samsung A30",
+    "queryName": "googleads.g.doubleclick.net",
+    "resolverDecision": 9
+  },
+  {
+    "datetime": "2026-02-17T10:32:59Z",
+    "locationName": "Warp",
+    "queryName": "www.kotak811.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T10:33:00Z",
+    "locationName": "Warp",
+    "queryName": "fonts.googleapis.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T10:33:02Z",
+    "locationName": "Warp",
+    "queryName": "tm.kotak.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T10:33:02Z",
+    "locationName": "Oppo",
+    "queryName": "g.whatsapp.net",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T10:33:03Z",
+    "locationName": "Warp",
+    "queryName": "aa.online-metrix.net",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T10:33:06Z",
+    "locationName": "Warp",
+    "queryName": "accounts.youtube.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T10:33:11Z",
+    "locationName": "Warp",
+    "queryName": "notify.bugsnag.com",
+    "resolverDecision": 9
+  },
+  {
+    "datetime": "2026-02-17T10:33:16Z",
+    "locationName": "Warp",
+    "queryName": "web.whatsapp.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T10:33:18Z",
+    "locationName": "Samsung A30",
+    "queryName": "play.googleapis.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T10:33:19Z",
+    "locationName": "Oppo",
+    "queryName": "vpn-api.proton.me",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T10:33:30Z",
+    "locationName": "Warp",
+    "queryName": "static.whatsapp.net",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T10:33:50Z",
+    "locationName": "Warp",
+    "queryName": "oth.eve.mdt.qq.com",
+    "resolverDecision": 9
+  },
+  {
+    "datetime": "2026-02-17T10:34:02Z",
+    "locationName": "Samsung A30",
+    "queryName": "googleads.g.doubleclick.net",
+    "resolverDecision": 9
+  },
+  {
+    "datetime": "2026-02-17T10:34:02Z",
+    "locationName": "Oppo",
+    "queryName": "g.whatsapp.net",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T10:34:03Z",
+    "locationName": "Warp",
+    "queryName": "www.cloudflarestatus.com",
+    "resolverDecision": 10
+  },
+  {
+    "datetime": "2026-02-17T10:34:10Z",
+    "locationName": "Warp",
+    "queryName": "dealer.spotify.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T10:34:10Z",
+    "locationName": "Warp",
+    "queryName": "api.spotify.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T10:34:24Z",
+    "locationName": "Warp",
+    "queryName": "accounts.google.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T10:34:25Z",
+    "locationName": "Warp",
+    "queryName": "lh3.googleusercontent.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T10:34:29Z",
+    "locationName": "Warp",
+    "queryName": "ssl.gstatic.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T10:34:29Z",
+    "locationName": "Warp",
+    "queryName": "analytics-toolbar.falais.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T10:34:30Z",
+    "locationName": "Warp",
+    "queryName": "notify.bugsnag.com",
+    "resolverDecision": 9
+  },
+  {
+    "datetime": "2026-02-17T10:34:32Z",
+    "locationName": "Warp",
+    "queryName": "media-maa5-1.cdn.whatsapp.net",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T10:34:37Z",
+    "locationName": "Oppo",
+    "queryName": "connectivitycheck.android.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T10:34:37Z",
+    "locationName": "Samsung A30",
+    "queryName": "rr5---sn-gwpa-pmhe.googlevideo.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T10:34:39Z",
+    "locationName": "Warp",
+    "queryName": "gemini.google.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T10:34:44Z",
+    "locationName": "Warp",
+    "queryName": "packages.loom.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T10:34:50Z",
+    "locationName": "Warp",
+    "queryName": "oth.eve.mdt.qq.com",
+    "resolverDecision": 9
+  },
+  {
+    "datetime": "2026-02-17T10:34:51Z",
+    "locationName": "Warp",
+    "queryName": "consumer.cloud.gist.build",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T10:34:52Z",
+    "locationName": "Warp",
+    "queryName": "wallet.now.gg",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T10:34:53Z",
+    "locationName": "Warp",
+    "queryName": "www.loom.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T10:34:53Z",
+    "locationName": "Warp",
+    "queryName": "signaler-pa.clients6.google.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T10:35:03Z",
+    "locationName": "Warp",
+    "queryName": "mail.proton.me",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T10:35:29Z",
+    "locationName": "Warp",
+    "queryName": "cdn.discordapp.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T10:35:31Z",
+    "locationName": "Warp",
+    "queryName": "static.whatsapp.net",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T10:35:32Z",
+    "locationName": "Oppo",
+    "queryName": "g.whatsapp.net",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T10:35:36Z",
+    "locationName": "Warp",
+    "queryName": "time.cloudflare.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T10:35:39Z",
+    "locationName": "Warp",
+    "queryName": "inference.location.live.net",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T10:35:57Z",
+    "locationName": "Warp",
+    "queryName": "oth.eve.mdt.qq.com",
+    "resolverDecision": 9
+  },
+  {
+    "datetime": "2026-02-17T10:36:09Z",
+    "locationName": "Warp",
+    "queryName": "web.whatsapp.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T10:36:32Z",
+    "locationName": "Oppo",
+    "queryName": "g.whatsapp.net",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T10:36:42Z",
+    "locationName": "Oppo",
+    "queryName": "play.googleapis.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T10:36:58Z",
+    "locationName": "Warp",
+    "queryName": "oth.eve.mdt.qq.com",
+    "resolverDecision": 9
+  },
+  {
+    "datetime": "2026-02-17T10:37:04Z",
+    "locationName": "Samsung A30",
+    "queryName": "optimizationguide-pa.googleapis.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T10:37:07Z",
+    "locationName": "Oppo",
+    "queryName": "graph-fallback.instagram.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T10:37:07Z",
+    "locationName": "Oppo",
+    "queryName": "graph.instagram.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T10:37:07Z",
+    "locationName": "Oppo",
+    "queryName": "graph-fallback.facebook.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T10:37:07Z",
+    "locationName": "Oppo",
+    "queryName": "graph.facebook.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T10:37:11Z",
+    "locationName": "Warp",
+    "queryName": "variations.brave.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T10:37:12Z",
+    "locationName": "Warp",
+    "queryName": "go-updater.brave.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T10:37:17Z",
+    "locationName": "Warp",
+    "queryName": "web.whatsapp.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T10:37:17Z",
+    "locationName": "Samsung A30",
+    "queryName": "s.youtube.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T10:37:17Z",
+    "locationName": "Samsung A30",
+    "queryName": "yt3.ggpht.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T10:37:24Z",
+    "locationName": "Samsung A30",
+    "queryName": "www.youtube.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T10:37:24Z",
+    "locationName": "Samsung A30",
+    "queryName": "i.ytimg.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T10:37:32Z",
+    "locationName": "Oppo",
+    "queryName": "g.whatsapp.net",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T10:37:36Z",
+    "locationName": "Warp",
+    "queryName": "time.cloudflare.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T10:37:44Z",
+    "locationName": "Warp",
+    "queryName": "analytics.falais.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T10:37:45Z",
+    "locationName": "Oppo",
+    "queryName": "test-gateway.instagram.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T10:37:59Z",
+    "locationName": "Warp",
+    "queryName": "oth.eve.mdt.qq.com",
+    "resolverDecision": 9
+  },
+  {
+    "datetime": "2026-02-17T10:38:22Z",
+    "locationName": "Warp",
+    "queryName": "gemini.google.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T10:38:24Z",
+    "locationName": "Warp",
+    "queryName": "dnjyu6ncwtikt.cloudfront.net",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T10:38:34Z",
+    "locationName": "Warp",
+    "queryName": "safebrowsing.brave.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T10:38:34Z",
+    "locationName": "Oppo",
+    "queryName": "googleads.g.doubleclick.net",
+    "resolverDecision": 9
+  },
+  {
+    "datetime": "2026-02-17T10:38:38Z",
+    "locationName": "Warp",
+    "queryName": "cdn.discordapp.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T10:38:43Z",
+    "locationName": "Warp",
+    "queryName": "www.kotak811.bank.in",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T10:38:43Z",
+    "locationName": "Samsung A30",
+    "queryName": "youtubei.googleapis.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T10:38:46Z",
+    "locationName": "Warp",
+    "queryName": "analytics-toolbar.falais.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T10:38:47Z",
+    "locationName": "Warp",
+    "queryName": "anti-phishing-protection-toolbar.falais.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T10:38:49Z",
+    "locationName": "Warp",
+    "queryName": "web.whatsapp.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T10:38:51Z",
+    "locationName": "Warp",
+    "queryName": "consumer.cloud.gist.build",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T10:38:51Z",
+    "locationName": "Warp",
+    "queryName": "www.google.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T10:38:57Z",
+    "locationName": "Samsung A30",
+    "queryName": "lh3.googleusercontent.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T10:38:57Z",
+    "locationName": "Samsung A30",
+    "queryName": "encrypted-tbn1.gstatic.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T10:39:03Z",
+    "locationName": "Warp",
+    "queryName": "www.cloudflarestatus.com",
+    "resolverDecision": 10
+  },
+  {
+    "datetime": "2026-02-17T10:39:06Z",
+    "locationName": "Warp",
+    "queryName": "oth.eve.mdt.qq.com",
+    "resolverDecision": 9
+  },
+  {
+    "datetime": "2026-02-17T10:39:08Z",
+    "locationName": "Warp",
+    "queryName": "www.gstatic.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T10:39:11Z",
+    "locationName": "Oppo",
+    "queryName": "obus-in.dc.heytapmobile.com",
+    "resolverDecision": 9
+  },
+  {
+    "datetime": "2026-02-17T10:39:11Z",
+    "locationName": "Oppo",
+    "queryName": "time.android.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T10:39:11Z",
+    "locationName": "Oppo",
+    "queryName": "obus-dc20123-in.heytapmobile.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T10:39:12Z",
+    "locationName": "Oppo",
+    "queryName": "obus-dc20123-in.heytapmobile.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T10:39:26Z",
+    "locationName": "Warp",
+    "queryName": "signaler-pa.clients6.google.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T10:39:29Z",
+    "locationName": "Warp",
+    "queryName": "mail.proton.me",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T10:39:32Z",
+    "locationName": "Oppo",
+    "queryName": "g.whatsapp.net",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T10:39:38Z",
+    "locationName": "Samsung A30",
+    "queryName": "googleads.g.doubleclick.net",
+    "resolverDecision": 9
+  },
+  {
+    "datetime": "2026-02-17T10:40:07Z",
+    "locationName": "Warp",
+    "queryName": "oth.eve.mdt.qq.com",
+    "resolverDecision": 9
+  },
+  {
+    "datetime": "2026-02-17T10:40:12Z",
+    "locationName": "Oppo",
+    "queryName": "pool.ntp.org",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T10:40:13Z",
+    "locationName": "Oppo",
+    "queryName": "g-fallback.whatsapp.net",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T10:40:18Z",
+    "locationName": "Oppo",
+    "queryName": "e16.whatsapp.net",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T10:40:19Z",
+    "locationName": "Oppo",
+    "queryName": "e5.whatsapp.net",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T10:40:32Z",
+    "locationName": "Oppo",
+    "queryName": "g.whatsapp.net",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T10:41:09Z",
+    "locationName": "Warp",
+    "queryName": "ptb.discord.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T10:41:14Z",
+    "locationName": "Warp",
+    "queryName": "oth.eve.mdt.qq.com",
+    "resolverDecision": 9
+  },
+  {
+    "datetime": "2026-02-17T10:41:18Z",
+    "locationName": "Warp",
+    "queryName": "gemini.google.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T10:41:30Z",
+    "locationName": "Warp",
+    "queryName": "accounts.google.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T10:41:32Z",
+    "locationName": "Oppo",
+    "queryName": "g.whatsapp.net",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T10:42:05Z",
+    "locationName": "Samsung A30",
+    "queryName": "www.google.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T10:42:14Z",
+    "locationName": "Samsung A30",
+    "queryName": "connectivitycheck.gstatic.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-17T10:42:15Z",
+    "locationName": "Warp",
+    "queryName": "oth.eve.mdt.qq.com",
+    "resolverDecision": 9
+  }
+]
