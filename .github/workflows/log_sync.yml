@@ -1,0 +1,29 @@
+name: Cloudflare Hybrid Logging
+
+on:
+  schedule:
+    - cron: '0 * * * *'
+  workflow_dispatch:
+
+# CRUCIAL: Allows the bot to push the saved log files to your repo
+permissions:
+  contents: write 
+
+jobs:
+  harvest:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Code
+        uses: actions/checkout@v4
+
+      - name: Install jq
+        run: sudo apt-get install -y jq
+
+      - name: Run Harvester
+        env:
+          API_TOKEN: ${{ secrets.API_TOKEN }}
+          ACCOUNT_ID: ${{ secrets.ACCOUNT_ID }}
+          AXIOM_TOKEN: ${{ secrets.AXIOM_TOKEN }}
+        run: |
+          chmod +x log_harvester.sh
+          ./log_harvester.sh
