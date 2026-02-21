@@ -1,0 +1,4520 @@
+[
+  {
+    "datetime": "2026-02-21T03:08:25Z",
+    "locationName": "Warp",
+    "queryName": "ssl.gstatic.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-21T03:08:27Z",
+    "locationName": "Warp",
+    "queryName": "guc3-spclient.spotify.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-21T03:08:27Z",
+    "locationName": "Warp",
+    "queryName": "edge-web-guc3.dual-gslb.spotify.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-21T03:08:28Z",
+    "locationName": "Warp",
+    "queryName": "time.cloudflare.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-21T03:08:46Z",
+    "locationName": "Warp",
+    "queryName": "p2p-dfw2.discovery.steamserver.net",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-21T03:09:00Z",
+    "locationName": "Warp",
+    "queryName": "datarouter.ol.epicgames.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-21T03:09:04Z",
+    "locationName": "Warp",
+    "queryName": "discord.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-21T03:09:15Z",
+    "locationName": "Warp",
+    "queryName": "http-intake.logs.datadoghq.com",
+    "resolverDecision": 9
+  },
+  {
+    "datetime": "2026-02-21T03:09:18Z",
+    "locationName": "Warp",
+    "queryName": "accounts.google.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-21T03:09:18Z",
+    "locationName": "Warp",
+    "queryName": "web.whatsapp.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-21T03:09:19Z",
+    "locationName": "Warp",
+    "queryName": "_5222._https.web.whatsapp.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-21T03:09:19Z",
+    "locationName": "Warp",
+    "queryName": "mmx-ds.cdn.whatsapp.net",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-21T03:09:32Z",
+    "locationName": "Warp",
+    "queryName": "accounts.google.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-21T03:09:36Z",
+    "locationName": "Warp",
+    "queryName": "lightswitch-public-service-prod06.ol.epicgames.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-21T03:09:38Z",
+    "locationName": "Warp",
+    "queryName": "catalog.gamepass.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-21T03:09:39Z",
+    "locationName": "Warp",
+    "queryName": "cdn.discordapp.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-21T03:09:45Z",
+    "locationName": "Warp",
+    "queryName": "account-public-service-prod.ak.epicgames.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-21T03:09:46Z",
+    "locationName": "Warp",
+    "queryName": "p2p-dfw2.discovery.steamserver.net",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-21T03:10:02Z",
+    "locationName": "Warp",
+    "queryName": "web.snapchat.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-21T03:10:02Z",
+    "locationName": "Warp",
+    "queryName": "web-gcp.api.sc-gw.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-21T03:10:28Z",
+    "locationName": "Warp",
+    "queryName": "time.cloudflare.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-21T03:10:28Z",
+    "locationName": "Warp",
+    "queryName": "play.google.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-21T03:10:28Z",
+    "locationName": "Warp",
+    "queryName": "waa-pa.clients6.google.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-21T03:10:28Z",
+    "locationName": "Warp",
+    "queryName": "www.snapchat.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-21T03:10:28Z",
+    "locationName": "Warp",
+    "queryName": "web-gcp.api.sc-gw.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-21T03:10:29Z",
+    "locationName": "Warp",
+    "queryName": "www.snapchat.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-21T03:10:35Z",
+    "locationName": "Warp",
+    "queryName": "af.opera.com",
+    "resolverDecision": 9
+  },
+  {
+    "datetime": "2026-02-21T03:10:42Z",
+    "locationName": "Warp",
+    "queryName": "signaler-pa.clients6.google.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-21T03:10:45Z",
+    "locationName": "Warp",
+    "queryName": "http-intake.logs.datadoghq.com",
+    "resolverDecision": 9
+  },
+  {
+    "datetime": "2026-02-21T03:10:47Z",
+    "locationName": "Warp",
+    "queryName": "p2p-dfw2.discovery.steamserver.net",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-21T03:10:54Z",
+    "locationName": "Warp",
+    "queryName": "edge-web.dual-gslb.spotify.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-21T03:10:54Z",
+    "locationName": "Warp",
+    "queryName": "spclient.wg.spotify.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-21T03:11:07Z",
+    "locationName": "Oppo",
+    "queryName": "test-gateway.instagram.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-21T03:11:21Z",
+    "locationName": "Warp",
+    "queryName": "www.recaptcha.net",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-21T03:11:29Z",
+    "locationName": "Warp",
+    "queryName": "us.telemetry.zoom.us",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-21T03:11:39Z",
+    "locationName": "Warp",
+    "queryName": "play.google.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-21T03:11:47Z",
+    "locationName": "Warp",
+    "queryName": "p2p-dfw2.discovery.steamserver.net",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-21T03:11:48Z",
+    "locationName": "Warp",
+    "queryName": "safebrowsing.googleapis.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-21T03:11:55Z",
+    "locationName": "Oppo",
+    "queryName": "time.android.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-21T03:11:57Z",
+    "locationName": "Oppo",
+    "queryName": "g.whatsapp.net",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-21T03:11:57Z",
+    "locationName": "Warp",
+    "queryName": "ocsp.rootg2.amazontrust.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-21T03:11:57Z",
+    "locationName": "Warp",
+    "queryName": "www.asus.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-21T03:12:00Z",
+    "locationName": "Oppo",
+    "queryName": "i.instagram.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-21T03:12:01Z",
+    "locationName": "Oppo",
+    "queryName": "g-fallback.whatsapp.net",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-21T03:12:09Z",
+    "locationName": "Oppo",
+    "queryName": "e1.whatsapp.net",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-21T03:12:10Z",
+    "locationName": "Oppo",
+    "queryName": "e5.whatsapp.net",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-21T03:12:15Z",
+    "locationName": "Warp",
+    "queryName": "http-intake.logs.datadoghq.com",
+    "resolverDecision": 9
+  },
+  {
+    "datetime": "2026-02-21T03:12:16Z",
+    "locationName": "Warp",
+    "queryName": "www.cloudflarestatus.com",
+    "resolverDecision": 10
+  },
+  {
+    "datetime": "2026-02-21T03:12:21Z",
+    "locationName": "Warp",
+    "queryName": "signaler-pa.clients6.google.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-21T03:12:22Z",
+    "locationName": "Warp",
+    "queryName": "signaler-pa.clients6.google.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-21T03:12:22Z",
+    "locationName": "Warp",
+    "queryName": "autoupdate.opera.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-21T03:12:27Z",
+    "locationName": "Warp",
+    "queryName": "ssl.gstatic.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-21T03:12:47Z",
+    "locationName": "Warp",
+    "queryName": "dcg.microsoft.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-21T03:12:47Z",
+    "locationName": "Warp",
+    "queryName": "p2p-dfw2.discovery.steamserver.net",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-21T03:12:50Z",
+    "locationName": "Warp",
+    "queryName": "mmx-ds.cdn.whatsapp.net",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-21T03:12:50Z",
+    "locationName": "Warp",
+    "queryName": "_5222._https.web.whatsapp.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-21T03:12:50Z",
+    "locationName": "Warp",
+    "queryName": "web.whatsapp.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-21T03:12:54Z",
+    "locationName": "Warp",
+    "queryName": "edge-web.dual-gslb.spotify.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-21T03:12:54Z",
+    "locationName": "Warp",
+    "queryName": "spclient.wg.spotify.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-21T03:12:57Z",
+    "locationName": "Warp",
+    "queryName": "x1.c.lencr.org",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-21T03:13:02Z",
+    "locationName": "Warp",
+    "queryName": "web-gcp.api.sc-gw.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-21T03:13:02Z",
+    "locationName": "Warp",
+    "queryName": "web.snapchat.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-21T03:13:15Z",
+    "locationName": "Oppo",
+    "queryName": "i-fallback.instagram.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-21T03:13:15Z",
+    "locationName": "Oppo",
+    "queryName": "i.instagram.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-21T03:13:15Z",
+    "locationName": "Oppo",
+    "queryName": "graph.instagram.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-21T03:13:15Z",
+    "locationName": "Oppo",
+    "queryName": "graph-fallback.facebook.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-21T03:13:16Z",
+    "locationName": "Warp",
+    "queryName": "optimizationguide-pa.googleapis.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-21T03:13:23Z",
+    "locationName": "Warp",
+    "queryName": "ctldl.windowsupdate.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-21T03:13:23Z",
+    "locationName": "Warp",
+    "queryName": "ecs.office.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-21T03:13:24Z",
+    "locationName": "Warp",
+    "queryName": "mobile.events.data.microsoft.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-21T03:13:28Z",
+    "locationName": "Warp",
+    "queryName": "edge-web-guc3.dual-gslb.spotify.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-21T03:13:28Z",
+    "locationName": "Warp",
+    "queryName": "guc3-spclient.spotify.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-21T03:13:45Z",
+    "locationName": "Warp",
+    "queryName": "http-intake.logs.datadoghq.com",
+    "resolverDecision": 9
+  },
+  {
+    "datetime": "2026-02-21T03:13:47Z",
+    "locationName": "Warp",
+    "queryName": "p2p-dfw2.discovery.steamserver.net",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-21T03:14:00Z",
+    "locationName": "Warp",
+    "queryName": "datarouter.ol.epicgames.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-21T03:14:38Z",
+    "locationName": "Warp",
+    "queryName": "catalog.gamepass.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-21T03:14:47Z",
+    "locationName": "Warp",
+    "queryName": "p2p-dfw2.discovery.steamserver.net",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-21T03:14:53Z",
+    "locationName": "Warp",
+    "queryName": "cdn.discordapp.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-21T03:14:54Z",
+    "locationName": "Warp",
+    "queryName": "web-gcp.api.sc-gw.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-21T03:14:54Z",
+    "locationName": "Warp",
+    "queryName": "accounts.snapchat.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-21T03:15:08Z",
+    "locationName": "Warp",
+    "queryName": "speeddials.opera.com",
+    "resolverDecision": 9
+  },
+  {
+    "datetime": "2026-02-21T03:15:08Z",
+    "locationName": "Warp",
+    "queryName": "chatgpt.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-21T03:15:15Z",
+    "locationName": "Warp",
+    "queryName": "http-intake.logs.datadoghq.com",
+    "resolverDecision": 9
+  },
+  {
+    "datetime": "2026-02-21T03:15:18Z",
+    "locationName": "Warp",
+    "queryName": "signaler-pa.clients6.google.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-21T03:15:21Z",
+    "locationName": "Oppo",
+    "queryName": "test-gateway.instagram.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-21T03:15:28Z",
+    "locationName": "Warp",
+    "queryName": "time.cloudflare.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-21T03:15:28Z",
+    "locationName": "Warp",
+    "queryName": "mail.google.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-21T03:15:28Z",
+    "locationName": "Warp",
+    "queryName": "gcp.api.snapchat.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-21T03:15:28Z",
+    "locationName": "Warp",
+    "queryName": "gcp.api.sc-gw.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-21T03:15:47Z",
+    "locationName": "Warp",
+    "queryName": "p2p-dfw2.discovery.steamserver.net",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-21T03:15:48Z",
+    "locationName": "Warp",
+    "queryName": "p2p-dfw2.discovery.steamserver.net",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-21T03:16:02Z",
+    "locationName": "Warp",
+    "queryName": "web.snapchat.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-21T03:16:02Z",
+    "locationName": "Warp",
+    "queryName": "presence-public-service-prod.ol.epicgames.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-21T03:16:02Z",
+    "locationName": "Warp",
+    "queryName": "web-gcp.api.sc-gw.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-21T03:16:03Z",
+    "locationName": "Warp",
+    "queryName": "trn.lb.opera.technology",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-21T03:16:03Z",
+    "locationName": "Warp",
+    "queryName": "presence-public-service-prod.ol.epicgames.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-21T03:16:07Z",
+    "locationName": "Warp",
+    "queryName": "update.googleapis.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-21T03:16:08Z",
+    "locationName": "Warp",
+    "queryName": "ecs.office.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-21T03:16:13Z",
+    "locationName": "Warp",
+    "queryName": "co-merchandise.opera-api.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-21T03:16:18Z",
+    "locationName": "Warp",
+    "queryName": "play.google.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-21T03:16:21Z",
+    "locationName": "Warp",
+    "queryName": "_5222._https.web.whatsapp.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-21T03:16:21Z",
+    "locationName": "Warp",
+    "queryName": "web.whatsapp.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-21T03:16:23Z",
+    "locationName": "Warp",
+    "queryName": "dcg.microsoft.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-21T03:16:28Z",
+    "locationName": "Warp",
+    "queryName": "waa-pa.clients6.google.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-21T03:16:29Z",
+    "locationName": "Warp",
+    "queryName": "ssl.gstatic.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-21T03:16:30Z",
+    "locationName": "Oppo",
+    "queryName": "i.instagram.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-21T03:16:41Z",
+    "locationName": "Oppo",
+    "queryName": "test-gateway.instagram.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-21T03:16:45Z",
+    "locationName": "Warp",
+    "queryName": "http-intake.logs.datadoghq.com",
+    "resolverDecision": 9
+  },
+  {
+    "datetime": "2026-02-21T03:16:48Z",
+    "locationName": "Warp",
+    "queryName": "p2p-dfw2.discovery.steamserver.net",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-21T03:17:04Z",
+    "locationName": "Oppo",
+    "queryName": "graph.facebook.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-21T03:17:12Z",
+    "locationName": "Warp",
+    "queryName": "discord.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-21T03:17:16Z",
+    "locationName": "Warp",
+    "queryName": "www.cloudflarestatus.com",
+    "resolverDecision": 10
+  },
+  {
+    "datetime": "2026-02-21T03:17:28Z",
+    "locationName": "Warp",
+    "queryName": "edge-web-guc3.dual-gslb.spotify.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-21T03:17:28Z",
+    "locationName": "Warp",
+    "queryName": "guc3-spclient.spotify.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-21T03:17:28Z",
+    "locationName": "Warp",
+    "queryName": "mail-ads.google.com",
+    "resolverDecision": 9
+  },
+  {
+    "datetime": "2026-02-21T03:17:45Z",
+    "locationName": "Warp",
+    "queryName": "play.google.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-21T03:17:48Z",
+    "locationName": "Warp",
+    "queryName": "p2p-dfw2.discovery.steamserver.net",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-21T03:17:58Z",
+    "locationName": "Warp",
+    "queryName": "www3.l.google.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-21T03:17:58Z",
+    "locationName": "Warp",
+    "queryName": "accounts.youtube.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-21T03:18:02Z",
+    "locationName": "Warp",
+    "queryName": "web.snapchat.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-21T03:18:02Z",
+    "locationName": "Warp",
+    "queryName": "web-gcp.api.sc-gw.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-21T03:18:06Z",
+    "locationName": "Warp",
+    "queryName": "merchandise.opera-api2.com",
+    "resolverDecision": 9
+  },
+  {
+    "datetime": "2026-02-21T03:18:06Z",
+    "locationName": "Warp",
+    "queryName": "lati.lb.opera.technology",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-21T03:18:21Z",
+    "locationName": "Warp",
+    "queryName": "lati.lb.opera.technology",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-21T03:18:21Z",
+    "locationName": "Warp",
+    "queryName": "ab-merchandise.opera-api.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-21T03:18:24Z",
+    "locationName": "Warp",
+    "queryName": "spclient.wg.spotify.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-21T03:18:24Z",
+    "locationName": "Warp",
+    "queryName": "edge-web.dual-gslb.spotify.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-21T03:18:30Z",
+    "locationName": "Warp",
+    "queryName": "ssl.gstatic.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-21T03:18:33Z",
+    "locationName": "Warp",
+    "queryName": "optimizationguide-pa.googleapis.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-21T03:18:41Z",
+    "locationName": "Warp",
+    "queryName": "mail.google.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-21T03:18:48Z",
+    "locationName": "Warp",
+    "queryName": "p2p-dfw2.discovery.steamserver.net",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-21T03:18:52Z",
+    "locationName": "Warp",
+    "queryName": "cdn.discordapp.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-21T03:18:59Z",
+    "locationName": "Warp",
+    "queryName": "signaler-pa.clients6.google.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-21T03:19:00Z",
+    "locationName": "Warp",
+    "queryName": "signaler-pa.clients6.google.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-21T03:19:00Z",
+    "locationName": "Warp",
+    "queryName": "datarouter.ol.epicgames.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-21T03:19:01Z",
+    "locationName": "Warp",
+    "queryName": "safebrowsing.googleapis.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-21T03:19:20Z",
+    "locationName": "Warp",
+    "queryName": "us.telemetry.zoom.us",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-21T03:19:20Z",
+    "locationName": "Warp",
+    "queryName": "accounts.google.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-21T03:19:23Z",
+    "locationName": "Warp",
+    "queryName": "us04web.zoom.us",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-21T03:19:34Z",
+    "locationName": "Warp",
+    "queryName": "accounts.google.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-21T03:19:38Z",
+    "locationName": "Warp",
+    "queryName": "catalog.gamepass.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-21T03:19:45Z",
+    "locationName": "Warp",
+    "queryName": "http-intake.logs.datadoghq.com",
+    "resolverDecision": 9
+  },
+  {
+    "datetime": "2026-02-21T03:19:46Z",
+    "locationName": "Warp",
+    "queryName": "account-public-service-prod.ak.epicgames.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-21T03:19:48Z",
+    "locationName": "Warp",
+    "queryName": "p2p-dfw2.discovery.steamserver.net",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-21T03:19:51Z",
+    "locationName": "Warp",
+    "queryName": "discord.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-21T03:19:52Z",
+    "locationName": "Warp",
+    "queryName": "mmx-ds.cdn.whatsapp.net",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-21T03:19:52Z",
+    "locationName": "Warp",
+    "queryName": "web.whatsapp.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-21T03:19:52Z",
+    "locationName": "Warp",
+    "queryName": "_5222._https.web.whatsapp.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-21T03:19:54Z",
+    "locationName": "Warp",
+    "queryName": "spclient.wg.spotify.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-21T03:19:54Z",
+    "locationName": "Warp",
+    "queryName": "edge-web.dual-gslb.spotify.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-21T03:20:02Z",
+    "locationName": "Warp",
+    "queryName": "web.snapchat.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-21T03:20:05Z",
+    "locationName": "Oppo",
+    "queryName": "userlocation.googleapis.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-21T03:20:08Z",
+    "locationName": "Oppo",
+    "queryName": "pool.ntp.org",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-21T03:20:08Z",
+    "locationName": "Oppo",
+    "queryName": "mdp-appconf-in.heytapdl.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-21T03:20:09Z",
+    "locationName": "Oppo",
+    "queryName": "obus-in.dc.heytapmobile.com",
+    "resolverDecision": 9
+  },
+  {
+    "datetime": "2026-02-21T03:20:25Z",
+    "locationName": "Warp",
+    "queryName": "edge-microsoft-com.ax-0002.ax-msedge.net",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-21T03:20:25Z",
+    "locationName": "Warp",
+    "queryName": "edge.microsoft.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-21T03:20:28Z",
+    "locationName": "Warp",
+    "queryName": "time.cloudflare.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-21T03:20:35Z",
+    "locationName": "Warp",
+    "queryName": "cdn.discordapp.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-21T03:20:36Z",
+    "locationName": "Warp",
+    "queryName": "dcg.microsoft.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-21T03:20:48Z",
+    "locationName": "Warp",
+    "queryName": "p2p-dfw2.discovery.steamserver.net",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-21T03:20:57Z",
+    "locationName": "Warp",
+    "queryName": "notificationinbox.xboxlive.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-21T03:21:15Z",
+    "locationName": "Warp",
+    "queryName": "http-intake.logs.datadoghq.com",
+    "resolverDecision": 9
+  },
+  {
+    "datetime": "2026-02-21T03:21:25Z",
+    "locationName": "Warp",
+    "queryName": "discord.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-21T03:21:28Z",
+    "locationName": "Warp",
+    "queryName": "guc3-spclient.spotify.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-21T03:21:28Z",
+    "locationName": "Warp",
+    "queryName": "optimizationguide-pa.googleapis.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-21T03:21:28Z",
+    "locationName": "Warp",
+    "queryName": "edge-web-guc3.dual-gslb.spotify.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-21T03:21:35Z",
+    "locationName": "Warp",
+    "queryName": "merchandise.opera-api2.com",
+    "resolverDecision": 9
+  },
+  {
+    "datetime": "2026-02-21T03:21:48Z",
+    "locationName": "Warp",
+    "queryName": "p2p-dfw2.discovery.steamserver.net",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-21T03:21:52Z",
+    "locationName": "Oppo",
+    "queryName": "obus-in.dc.heytapmobile.com",
+    "resolverDecision": 9
+  },
+  {
+    "datetime": "2026-02-21T03:22:02Z",
+    "locationName": "Warp",
+    "queryName": "web-gcp.api.sc-gw.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-21T03:22:02Z",
+    "locationName": "Warp",
+    "queryName": "web.snapchat.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-21T03:22:03Z",
+    "locationName": "Oppo",
+    "queryName": "test-gateway.instagram.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-21T03:22:04Z",
+    "locationName": "Warp",
+    "queryName": "trn.lb.opera.technology",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-21T03:22:04Z",
+    "locationName": "Warp",
+    "queryName": "ab-merchandise.opera-api.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-21T03:22:05Z",
+    "locationName": "Warp",
+    "queryName": "cdn.discordapp.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-21T03:22:16Z",
+    "locationName": "Warp",
+    "queryName": "www.cloudflarestatus.com",
+    "resolverDecision": 10
+  },
+  {
+    "datetime": "2026-02-21T03:22:25Z",
+    "locationName": "Oppo",
+    "queryName": "pool.ntp.org",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-21T03:22:25Z",
+    "locationName": "Oppo",
+    "queryName": "time.android.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-21T03:22:28Z",
+    "locationName": "Warp",
+    "queryName": "play.google.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-21T03:22:28Z",
+    "locationName": "Warp",
+    "queryName": "waa-pa.clients6.google.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-21T03:22:32Z",
+    "locationName": "Warp",
+    "queryName": "ssl.gstatic.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-21T03:22:45Z",
+    "locationName": "Warp",
+    "queryName": "http-intake.logs.datadoghq.com",
+    "resolverDecision": 9
+  },
+  {
+    "datetime": "2026-02-21T03:22:48Z",
+    "locationName": "Warp",
+    "queryName": "p2p-dfw2.discovery.steamserver.net",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-21T03:23:02Z",
+    "locationName": "Oppo",
+    "queryName": "obus-in.dc.heytapmobile.com",
+    "resolverDecision": 9
+  },
+  {
+    "datetime": "2026-02-21T03:23:23Z",
+    "locationName": "Warp",
+    "queryName": "_5222._https.web.whatsapp.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-21T03:23:23Z",
+    "locationName": "Warp",
+    "queryName": "web.whatsapp.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-21T03:23:24Z",
+    "locationName": "Warp",
+    "queryName": "us.telemetry.zoom.us",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-21T03:23:24Z",
+    "locationName": "Warp",
+    "queryName": "mmx-ds.cdn.whatsapp.net",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-21T03:23:24Z",
+    "locationName": "Warp",
+    "queryName": "edge-web.dual-gslb.spotify.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-21T03:23:24Z",
+    "locationName": "Warp",
+    "queryName": "spclient.wg.spotify.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-21T03:23:28Z",
+    "locationName": "Warp",
+    "queryName": "time.cloudflare.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-21T03:23:29Z",
+    "locationName": "Oppo",
+    "queryName": "test-gateway.instagram.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-21T03:23:39Z",
+    "locationName": "Oppo",
+    "queryName": "spot-pa.googleapis.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-21T03:23:49Z",
+    "locationName": "Warp",
+    "queryName": "p2p-dfw2.discovery.steamserver.net",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-21T03:24:00Z",
+    "locationName": "Warp",
+    "queryName": "datarouter.ol.epicgames.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-21T03:24:02Z",
+    "locationName": "Warp",
+    "queryName": "settings-win.data.microsoft.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-21T03:24:14Z",
+    "locationName": "Warp",
+    "queryName": "optimizationguide-pa.googleapis.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-21T03:24:15Z",
+    "locationName": "Warp",
+    "queryName": "http-intake.logs.datadoghq.com",
+    "resolverDecision": 9
+  },
+  {
+    "datetime": "2026-02-21T03:24:15Z",
+    "locationName": "Warp",
+    "queryName": "merchandise.opera-api2.com",
+    "resolverDecision": 9
+  },
+  {
+    "datetime": "2026-02-21T03:24:15Z",
+    "locationName": "Warp",
+    "queryName": "lati.lb.opera.technology",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-21T03:24:18Z",
+    "locationName": "Warp",
+    "queryName": "launcher-public-service-prod06.ol.epicgames.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-21T03:24:18Z",
+    "locationName": "Warp",
+    "queryName": "library-service.live.use1a.on.epicgames.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-21T03:24:33Z",
+    "locationName": "Warp",
+    "queryName": "ssl.gstatic.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-21T03:24:38Z",
+    "locationName": "Warp",
+    "queryName": "catalog.gamepass.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-21T03:24:39Z",
+    "locationName": "Warp",
+    "queryName": "play.google.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-21T03:24:39Z",
+    "locationName": "Warp",
+    "queryName": "signaler-pa.clients6.google.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-21T03:24:49Z",
+    "locationName": "Warp",
+    "queryName": "p2p-dfw2.discovery.steamserver.net",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-21T03:24:56Z",
+    "locationName": "Warp",
+    "queryName": "cdn.discordapp.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-21T03:25:02Z",
+    "locationName": "Warp",
+    "queryName": "web-gcp.api.sc-gw.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-21T03:25:02Z",
+    "locationName": "Warp",
+    "queryName": "web.snapchat.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-21T03:25:13Z",
+    "locationName": "Warp",
+    "queryName": "accounts.snapchat.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-21T03:25:13Z",
+    "locationName": "Warp",
+    "queryName": "web-gcp.api.sc-gw.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-21T03:25:25Z",
+    "locationName": "Oppo",
+    "queryName": "obus-in.dc.heytapmobile.com",
+    "resolverDecision": 9
+  },
+  {
+    "datetime": "2026-02-21T03:25:25Z",
+    "locationName": "Oppo",
+    "queryName": "pool.ntp.org",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-21T03:25:26Z",
+    "locationName": "Warp",
+    "queryName": "us.telemetry.zoom.us",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-21T03:25:28Z",
+    "locationName": "Warp",
+    "queryName": "guc3-spclient.spotify.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-21T03:25:28Z",
+    "locationName": "Warp",
+    "queryName": "gcp.api.sc-gw.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-21T03:25:28Z",
+    "locationName": "Warp",
+    "queryName": "edge-web-guc3.dual-gslb.spotify.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-21T03:25:28Z",
+    "locationName": "Warp",
+    "queryName": "gcp.api.snapchat.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-21T03:25:35Z",
+    "locationName": "Warp",
+    "queryName": "ecs.office.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-21T03:25:45Z",
+    "locationName": "Warp",
+    "queryName": "http-intake.logs.datadoghq.com",
+    "resolverDecision": 9
+  },
+  {
+    "datetime": "2026-02-21T03:25:49Z",
+    "locationName": "Warp",
+    "queryName": "p2p-dfw2.discovery.steamserver.net",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-21T03:25:49Z",
+    "locationName": "Warp",
+    "queryName": "us.telemetry.zoom.us",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-21T03:25:51Z",
+    "locationName": "Oppo",
+    "queryName": "test-gateway.instagram.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-21T03:26:02Z",
+    "locationName": "Warp",
+    "queryName": "mail.google.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-21T03:26:05Z",
+    "locationName": "Warp",
+    "queryName": "alive.github.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-21T03:26:05Z",
+    "locationName": "Warp",
+    "queryName": "live.github.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-21T03:26:06Z",
+    "locationName": "Warp",
+    "queryName": "autoupdate.opera.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-21T03:26:22Z",
+    "locationName": "Warp",
+    "queryName": "edge-microsoft-com.ax-0002.ax-msedge.net",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-21T03:26:22Z",
+    "locationName": "Warp",
+    "queryName": "clients.l.google.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-21T03:26:22Z",
+    "locationName": "Warp",
+    "queryName": "edge.microsoft.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-21T03:26:22Z",
+    "locationName": "Warp",
+    "queryName": "clients2.google.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-21T03:26:33Z",
+    "locationName": "Warp",
+    "queryName": "cdn.discordapp.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-21T03:26:34Z",
+    "locationName": "Warp",
+    "queryName": "ssl.gstatic.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-21T03:26:42Z",
+    "locationName": "Warp",
+    "queryName": "signaler-pa.clients6.google.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-21T03:26:49Z",
+    "locationName": "Warp",
+    "queryName": "p2p-dfw2.discovery.steamserver.net",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-21T03:26:51Z",
+    "locationName": "Oppo",
+    "queryName": "graph-fallback.facebook.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-21T03:26:51Z",
+    "locationName": "Oppo",
+    "queryName": "graph-fallback.instagram.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-21T03:26:51Z",
+    "locationName": "Oppo",
+    "queryName": "graph.instagram.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-21T03:26:54Z",
+    "locationName": "Warp",
+    "queryName": "web.whatsapp.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-21T03:26:54Z",
+    "locationName": "Warp",
+    "queryName": "_5222._https.web.whatsapp.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-21T03:26:54Z",
+    "locationName": "Warp",
+    "queryName": "mmx-ds.cdn.whatsapp.net",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-21T03:26:56Z",
+    "locationName": "Warp",
+    "queryName": "optimizationguide-pa.googleapis.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-21T03:27:02Z",
+    "locationName": "Warp",
+    "queryName": "web-gcp.api.sc-gw.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-21T03:27:02Z",
+    "locationName": "Warp",
+    "queryName": "web.snapchat.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-21T03:27:13Z",
+    "locationName": "Oppo",
+    "queryName": "test-gateway.instagram.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-21T03:27:14Z",
+    "locationName": "Warp",
+    "queryName": "dcg.microsoft.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-21T03:27:15Z",
+    "locationName": "Warp",
+    "queryName": "http-intake.logs.datadoghq.com",
+    "resolverDecision": 9
+  },
+  {
+    "datetime": "2026-02-21T03:27:16Z",
+    "locationName": "Warp",
+    "queryName": "www.cloudflarestatus.com",
+    "resolverDecision": 10
+  },
+  {
+    "datetime": "2026-02-21T03:27:49Z",
+    "locationName": "Warp",
+    "queryName": "p2p-dfw2.discovery.steamserver.net",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-21T03:27:54Z",
+    "locationName": "Warp",
+    "queryName": "edge-web.dual-gslb.spotify.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-21T03:27:54Z",
+    "locationName": "Warp",
+    "queryName": "spclient.wg.spotify.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-21T03:27:55Z",
+    "locationName": "Warp",
+    "queryName": "cdn.discordapp.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-21T03:28:00Z",
+    "locationName": "Warp",
+    "queryName": "accounts.youtube.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-21T03:28:00Z",
+    "locationName": "Warp",
+    "queryName": "www3.l.google.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-21T03:28:28Z",
+    "locationName": "Warp",
+    "queryName": "guc3-spclient.spotify.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-21T03:28:28Z",
+    "locationName": "Warp",
+    "queryName": "waa-pa.clients6.google.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-21T03:28:28Z",
+    "locationName": "Warp",
+    "queryName": "edge-web-guc3.dual-gslb.spotify.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-21T03:28:28Z",
+    "locationName": "Warp",
+    "queryName": "time.cloudflare.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-21T03:28:28Z",
+    "locationName": "Warp",
+    "queryName": "play.google.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-21T03:28:35Z",
+    "locationName": "Warp",
+    "queryName": "ssl.gstatic.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-21T03:28:42Z",
+    "locationName": "Warp",
+    "queryName": "mail.google.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-21T03:28:45Z",
+    "locationName": "Warp",
+    "queryName": "http-intake.logs.datadoghq.com",
+    "resolverDecision": 9
+  },
+  {
+    "datetime": "2026-02-21T03:28:49Z",
+    "locationName": "Warp",
+    "queryName": "p2p-dfw2.discovery.steamserver.net",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-21T03:29:00Z",
+    "locationName": "Warp",
+    "queryName": "datarouter.ol.epicgames.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-21T03:29:02Z",
+    "locationName": "Warp",
+    "queryName": "web-gcp.api.sc-gw.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-21T03:29:02Z",
+    "locationName": "Warp",
+    "queryName": "web.snapchat.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-21T03:29:22Z",
+    "locationName": "Warp",
+    "queryName": "accounts.google.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-21T03:29:27Z",
+    "locationName": "Warp",
+    "queryName": "us.telemetry.zoom.us",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-21T03:29:36Z",
+    "locationName": "Warp",
+    "queryName": "accounts.google.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-21T03:29:38Z",
+    "locationName": "Warp",
+    "queryName": "catalog.gamepass.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-21T03:29:45Z",
+    "locationName": "Warp",
+    "queryName": "optimizationguide-pa.googleapis.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-21T03:29:46Z",
+    "locationName": "Warp",
+    "queryName": "account-public-service-prod.ak.epicgames.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-21T03:29:49Z",
+    "locationName": "Warp",
+    "queryName": "p2p-dfw2.discovery.steamserver.net",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-21T03:30:01Z",
+    "locationName": "Warp",
+    "queryName": "cdn.discordapp.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-21T03:30:15Z",
+    "locationName": "Warp",
+    "queryName": "http-intake.logs.datadoghq.com",
+    "resolverDecision": 9
+  },
+  {
+    "datetime": "2026-02-21T03:30:25Z",
+    "locationName": "Warp",
+    "queryName": "web.whatsapp.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-21T03:30:26Z",
+    "locationName": "Warp",
+    "queryName": "_5222._https.web.whatsapp.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-21T03:30:26Z",
+    "locationName": "Warp",
+    "queryName": "mmx-ds.cdn.whatsapp.net",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-21T03:30:26Z",
+    "locationName": "Warp",
+    "queryName": "web.whatsapp.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-21T03:30:36Z",
+    "locationName": "Warp",
+    "queryName": "ssl.gstatic.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-21T03:30:49Z",
+    "locationName": "Warp",
+    "queryName": "p2p-dfw2.discovery.steamserver.net",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-21T03:30:53Z",
+    "locationName": "Oppo",
+    "queryName": "mdp-appconf-in.heytapdl.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-21T03:30:56Z",
+    "locationName": "Oppo",
+    "queryName": "googleads.g.doubleclick.net",
+    "resolverDecision": 9
+  },
+  {
+    "datetime": "2026-02-21T03:30:58Z",
+    "locationName": "Oppo",
+    "queryName": "test-gateway.instagram.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-21T03:30:58Z",
+    "locationName": "Oppo",
+    "queryName": "gcp.api.snapchat.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-21T03:30:58Z",
+    "locationName": "Oppo",
+    "queryName": "firebase-settings.crashlytics.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-21T03:31:00Z",
+    "locationName": "Oppo",
+    "queryName": "app-analytics-v2.snapchat.com",
+    "resolverDecision": 9
+  },
+  {
+    "datetime": "2026-02-21T03:31:02Z",
+    "locationName": "Oppo",
+    "queryName": "federatedcompute-pa.googleapis.com",
+    "resolverDecision": 9
+  },
+  {
+    "datetime": "2026-02-21T03:31:02Z",
+    "locationName": "Warp",
+    "queryName": "presence-public-service-prod.ol.epicgames.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-21T03:31:02Z",
+    "locationName": "Warp",
+    "queryName": "web-gcp.api.sc-gw.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-21T03:31:02Z",
+    "locationName": "Warp",
+    "queryName": "web.snapchat.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-21T03:31:07Z",
+    "locationName": "Oppo",
+    "queryName": "cf-st.sc-cdn.net",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-21T03:31:08Z",
+    "locationName": "Oppo",
+    "queryName": "graph.facebook.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-21T03:31:09Z",
+    "locationName": "Oppo",
+    "queryName": "mail-api.proton.me",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-21T03:31:16Z",
+    "locationName": "Oppo",
+    "queryName": "firefox.settings.services.mozilla.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-21T03:31:16Z",
+    "locationName": "Oppo",
+    "queryName": "incoming.telemetry.mozilla.org",
+    "resolverDecision": 9
+  },
+  {
+    "datetime": "2026-02-21T03:31:19Z",
+    "locationName": "Oppo",
+    "queryName": "content-signature-2.cdn.mozilla.net",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-21T03:31:23Z",
+    "locationName": "Oppo",
+    "queryName": "app-measurement.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-21T03:31:31Z",
+    "locationName": "Oppo",
+    "queryName": "e2.whatsapp.net",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-21T03:31:45Z",
+    "locationName": "Warp",
+    "queryName": "http-intake.logs.datadoghq.com",
+    "resolverDecision": 9
+  },
+  {
+    "datetime": "2026-02-21T03:31:50Z",
+    "locationName": "Warp",
+    "queryName": "p2p-dfw2.discovery.steamserver.net",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-21T03:32:12Z",
+    "locationName": "Warp",
+    "queryName": "discord.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-21T03:32:16Z",
+    "locationName": "Warp",
+    "queryName": "www.cloudflarestatus.com",
+    "resolverDecision": 10
+  },
+  {
+    "datetime": "2026-02-21T03:32:37Z",
+    "locationName": "Warp",
+    "queryName": "ssl.gstatic.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-21T03:32:50Z",
+    "locationName": "Warp",
+    "queryName": "p2p-dfw2.discovery.steamserver.net",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-21T03:32:54Z",
+    "locationName": "Warp",
+    "queryName": "af.opera.com",
+    "resolverDecision": 9
+  },
+  {
+    "datetime": "2026-02-21T03:32:55Z",
+    "locationName": "Warp",
+    "queryName": "af.opera.com",
+    "resolverDecision": 9
+  },
+  {
+    "datetime": "2026-02-21T03:33:02Z",
+    "locationName": "Warp",
+    "queryName": "web.snapchat.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-21T03:33:10Z",
+    "locationName": "Warp",
+    "queryName": "library-service.live.use1a.on.epicgames.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-21T03:33:12Z",
+    "locationName": "Warp",
+    "queryName": "self.events.data.microsoft.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-21T03:33:16Z",
+    "locationName": "Oppo",
+    "queryName": "app-analytics-v2.snapchat.com",
+    "resolverDecision": 9
+  },
+  {
+    "datetime": "2026-02-21T03:33:17Z",
+    "locationName": "Oppo",
+    "queryName": "aws.api.snapchat.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-21T03:33:18Z",
+    "locationName": "Oppo",
+    "queryName": "cf-st.sc-cdn.net",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-21T03:33:22Z",
+    "locationName": "Warp",
+    "queryName": "ab-merchandise.opera-api.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-21T03:33:24Z",
+    "locationName": "Oppo",
+    "queryName": "googleads.g.doubleclick.net",
+    "resolverDecision": 9
+  },
+  {
+    "datetime": "2026-02-21T03:33:28Z",
+    "locationName": "Warp",
+    "queryName": "guc3-spclient.spotify.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-21T03:33:28Z",
+    "locationName": "Warp",
+    "queryName": "time.cloudflare.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-21T03:33:28Z",
+    "locationName": "Oppo",
+    "queryName": "test-gateway.instagram.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-21T03:33:28Z",
+    "locationName": "Warp",
+    "queryName": "edge-web-guc3.dual-gslb.spotify.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-21T03:33:34Z",
+    "locationName": "Oppo",
+    "queryName": "log-eap-in.coloros.com",
+    "resolverDecision": 9
+  },
+  {
+    "datetime": "2026-02-21T03:33:36Z",
+    "locationName": "Warp",
+    "queryName": "catalog-public-service-prod06.ol.epicgames.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-21T03:33:43Z",
+    "locationName": "Oppo",
+    "queryName": "connectivitycheck.android.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-21T03:33:50Z",
+    "locationName": "Warp",
+    "queryName": "p2p-dfw2.discovery.steamserver.net",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-21T03:33:54Z",
+    "locationName": "Warp",
+    "queryName": "spclient.wg.spotify.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-21T03:33:57Z",
+    "locationName": "Warp",
+    "queryName": "web.whatsapp.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-21T03:33:57Z",
+    "locationName": "Warp",
+    "queryName": "_5222._https.web.whatsapp.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-21T03:33:57Z",
+    "locationName": "Warp",
+    "queryName": "mmx-ds.cdn.whatsapp.net",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-21T03:33:58Z",
+    "locationName": "Warp",
+    "queryName": "edge.microsoft.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-21T03:33:58Z",
+    "locationName": "Warp",
+    "queryName": "edge-microsoft-com.ax-0002.ax-msedge.net",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-21T03:34:00Z",
+    "locationName": "Warp",
+    "queryName": "www.bing.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-21T03:34:00Z",
+    "locationName": "Warp",
+    "queryName": "e86303.dscx.akamaiedge.net",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-21T03:34:12Z",
+    "locationName": "Warp",
+    "queryName": "x1.c.lencr.org",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-21T03:34:12Z",
+    "locationName": "Warp",
+    "queryName": "c.pki.goog",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-21T03:34:19Z",
+    "locationName": "Warp",
+    "queryName": "cdn.discordapp.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-21T03:34:26Z",
+    "locationName": "Warp",
+    "queryName": "us.telemetry.zoom.us",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-21T03:34:28Z",
+    "locationName": "Warp",
+    "queryName": "waa-pa.clients6.google.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-21T03:34:28Z",
+    "locationName": "Warp",
+    "queryName": "play.google.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-21T03:34:38Z",
+    "locationName": "Warp",
+    "queryName": "catalog.gamepass.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-21T03:34:38Z",
+    "locationName": "Warp",
+    "queryName": "ssl.gstatic.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-21T03:34:50Z",
+    "locationName": "Warp",
+    "queryName": "p2p-dfw2.discovery.steamserver.net",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-21T03:34:54Z",
+    "locationName": "Warp",
+    "queryName": "signaler-pa.clients6.google.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-21T03:35:02Z",
+    "locationName": "Warp",
+    "queryName": "web-gcp.api.sc-gw.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-21T03:35:02Z",
+    "locationName": "Warp",
+    "queryName": "web.snapchat.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-21T03:35:25Z",
+    "locationName": "Warp",
+    "queryName": "optimizationguide-pa.googleapis.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-21T03:35:30Z",
+    "locationName": "Oppo",
+    "queryName": "test-gateway.instagram.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-21T03:35:32Z",
+    "locationName": "Warp",
+    "queryName": "accounts.snapchat.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-21T03:35:32Z",
+    "locationName": "Warp",
+    "queryName": "web-gcp.api.sc-gw.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-21T03:35:50Z",
+    "locationName": "Warp",
+    "queryName": "p2p-dfw2.discovery.steamserver.net",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-21T03:36:04Z",
+    "locationName": "Warp",
+    "queryName": "mail.google.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-21T03:36:06Z",
+    "locationName": "Oppo",
+    "queryName": "g.whatsapp.net",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-21T03:36:07Z",
+    "locationName": "Oppo",
+    "queryName": "supl.google.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-21T03:36:08Z",
+    "locationName": "Warp",
+    "queryName": "cdn.discordapp.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-21T03:36:12Z",
+    "locationName": "Oppo",
+    "queryName": "graph.whatsapp.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-21T03:36:12Z",
+    "locationName": "Oppo",
+    "queryName": "appsgrowthpromo-pa.googleapis.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-21T03:36:13Z",
+    "locationName": "Oppo",
+    "queryName": "appsgenaiserver-pa.googleapis.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-21T03:36:15Z",
+    "locationName": "Warp",
+    "queryName": "http-intake.logs.datadoghq.com",
+    "resolverDecision": 9
+  },
+  {
+    "datetime": "2026-02-21T03:36:21Z",
+    "locationName": "Oppo",
+    "queryName": "i.instagram.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-21T03:36:24Z",
+    "locationName": "Oppo",
+    "queryName": "dns.quad9.net",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-21T03:36:28Z",
+    "locationName": "Warp",
+    "queryName": "outlook.office365.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-21T03:36:28Z",
+    "locationName": "Warp",
+    "queryName": "gcp.api.sc-gw.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-21T03:36:28Z",
+    "locationName": "Warp",
+    "queryName": "gcp.api.snapchat.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-21T03:36:29Z",
+    "locationName": "Warp",
+    "queryName": "graph.microsoft.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-21T03:36:30Z",
+    "locationName": "Warp",
+    "queryName": "login.live.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-21T03:36:37Z",
+    "locationName": "Oppo",
+    "queryName": "dns.google",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-21T03:36:39Z",
+    "locationName": "Warp",
+    "queryName": "ssl.gstatic.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-21T03:36:50Z",
+    "locationName": "Warp",
+    "queryName": "p2p-dfw2.discovery.steamserver.net",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-21T03:36:53Z",
+    "locationName": "Warp",
+    "queryName": "dcg.microsoft.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-21T03:36:54Z",
+    "locationName": "Warp",
+    "queryName": "edge.microsoft.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-21T03:36:54Z",
+    "locationName": "Warp",
+    "queryName": "edge-microsoft-com.ax-0002.ax-msedge.net",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-21T03:37:02Z",
+    "locationName": "Warp",
+    "queryName": "web.snapchat.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-21T03:37:02Z",
+    "locationName": "Warp",
+    "queryName": "web-gcp.api.sc-gw.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-21T03:37:04Z",
+    "locationName": "Warp",
+    "queryName": "lati.lb.opera.technology",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-21T03:37:04Z",
+    "locationName": "Warp",
+    "queryName": "ab-merchandise.opera-api.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-21T03:37:16Z",
+    "locationName": "Warp",
+    "queryName": "www.cloudflarestatus.com",
+    "resolverDecision": 10
+  },
+  {
+    "datetime": "2026-02-21T03:37:28Z",
+    "locationName": "Warp",
+    "queryName": "web.whatsapp.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-21T03:37:28Z",
+    "locationName": "Warp",
+    "queryName": "discord.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-21T03:37:28Z",
+    "locationName": "Warp",
+    "queryName": "edge-web-guc3.dual-gslb.spotify.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-21T03:37:28Z",
+    "locationName": "Warp",
+    "queryName": "guc3-spclient.spotify.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-21T03:37:28Z",
+    "locationName": "Warp",
+    "queryName": "mmx-ds.cdn.whatsapp.net",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-21T03:37:35Z",
+    "locationName": "Oppo",
+    "queryName": "test-gateway.instagram.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-21T03:37:45Z",
+    "locationName": "Warp",
+    "queryName": "catalog-public-service-prod06.ol.epicgames.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-21T03:37:45Z",
+    "locationName": "Warp",
+    "queryName": "http-intake.logs.datadoghq.com",
+    "resolverDecision": 9
+  },
+  {
+    "datetime": "2026-02-21T03:37:46Z",
+    "locationName": "Warp",
+    "queryName": "priceengine-public-service-ecomprod01.ol.epicgames.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-21T03:37:50Z",
+    "locationName": "Warp",
+    "queryName": "p2p-dfw2.discovery.steamserver.net",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-21T03:37:56Z",
+    "locationName": "Warp",
+    "queryName": "signaler-pa.clients6.google.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-21T03:37:57Z",
+    "locationName": "Warp",
+    "queryName": "optimizationguide-pa.googleapis.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-21T03:38:02Z",
+    "locationName": "Warp",
+    "queryName": "accounts.youtube.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-21T03:38:02Z",
+    "locationName": "Warp",
+    "queryName": "www3.l.google.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-21T03:38:21Z",
+    "locationName": "Warp",
+    "queryName": "entitlement-public-service-prod08.ol.epicgames.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-21T03:38:42Z",
+    "locationName": "Oppo",
+    "queryName": "test-gateway.instagram.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-21T03:38:43Z",
+    "locationName": "Warp",
+    "queryName": "mail.google.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-21T03:38:50Z",
+    "locationName": "Warp",
+    "queryName": "p2p-dfw2.discovery.steamserver.net",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-21T03:38:54Z",
+    "locationName": "Warp",
+    "queryName": "spclient.wg.spotify.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-21T03:38:54Z",
+    "locationName": "Warp",
+    "queryName": "edge-web.dual-gslb.spotify.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-21T03:39:00Z",
+    "locationName": "Warp",
+    "queryName": "datarouter.ol.epicgames.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-21T03:39:02Z",
+    "locationName": "Warp",
+    "queryName": "web.snapchat.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-21T03:39:06Z",
+    "locationName": "Oppo",
+    "queryName": "graph.facebook.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-21T03:39:08Z",
+    "locationName": "Oppo",
+    "queryName": "googleads.g.doubleclick.net",
+    "resolverDecision": 9
+  },
+  {
+    "datetime": "2026-02-21T03:39:15Z",
+    "locationName": "Warp",
+    "queryName": "http-intake.logs.datadoghq.com",
+    "resolverDecision": 9
+  },
+  {
+    "datetime": "2026-02-21T03:39:24Z",
+    "locationName": "Warp",
+    "queryName": "accounts.google.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-21T03:39:25Z",
+    "locationName": "Warp",
+    "queryName": "cdn.discordapp.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-21T03:39:28Z",
+    "locationName": "Warp",
+    "queryName": "time.cloudflare.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-21T03:39:38Z",
+    "locationName": "Warp",
+    "queryName": "catalog.gamepass.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-21T03:39:38Z",
+    "locationName": "Warp",
+    "queryName": "accounts.google.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-21T03:39:46Z",
+    "locationName": "Oppo",
+    "queryName": "geomobileservices-pa.googleapis.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-21T03:39:47Z",
+    "locationName": "Warp",
+    "queryName": "account-public-service-prod.ak.epicgames.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-21T03:39:50Z",
+    "locationName": "Warp",
+    "queryName": "p2p-dfw2.discovery.steamserver.net",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-21T03:39:52Z",
+    "locationName": "Oppo",
+    "queryName": "2.datadog.pool.ntp.org",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-21T03:39:52Z",
+    "locationName": "Oppo",
+    "queryName": "cloudflare-dns.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-21T03:40:26Z",
+    "locationName": "Oppo",
+    "queryName": "api.segment.io",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-21T03:40:27Z",
+    "locationName": "Oppo",
+    "queryName": "i.instagram.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-21T03:40:27Z",
+    "locationName": "Oppo",
+    "queryName": "graph-fallback.instagram.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-21T03:40:27Z",
+    "locationName": "Oppo",
+    "queryName": "graph.facebook.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-21T03:40:27Z",
+    "locationName": "Oppo",
+    "queryName": "i-fallback.instagram.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-21T03:40:28Z",
+    "locationName": "Warp",
+    "queryName": "addons-pa.clients6.google.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-21T03:40:28Z",
+    "locationName": "Warp",
+    "queryName": "waa-pa.clients6.google.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-21T03:40:28Z",
+    "locationName": "Warp",
+    "queryName": "play.google.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-21T03:40:34Z",
+    "locationName": "Warp",
+    "queryName": "cdn.discordapp.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-21T03:40:41Z",
+    "locationName": "Warp",
+    "queryName": "ssl.gstatic.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-21T03:40:45Z",
+    "locationName": "Warp",
+    "queryName": "http-intake.logs.datadoghq.com",
+    "resolverDecision": 9
+  },
+  {
+    "datetime": "2026-02-21T03:40:51Z",
+    "locationName": "Warp",
+    "queryName": "p2p-dfw2.discovery.steamserver.net",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-21T03:40:53Z",
+    "locationName": "Warp",
+    "queryName": "optimizationguide-pa.googleapis.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-21T03:40:59Z",
+    "locationName": "Warp",
+    "queryName": "web.whatsapp.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-21T03:40:59Z",
+    "locationName": "Warp",
+    "queryName": "_5222._https.web.whatsapp.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-21T03:41:02Z",
+    "locationName": "Warp",
+    "queryName": "web.snapchat.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-21T03:41:19Z",
+    "locationName": "Oppo",
+    "queryName": "test-gateway.instagram.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-21T03:41:28Z",
+    "locationName": "Warp",
+    "queryName": "guc3-spclient.spotify.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-21T03:41:28Z",
+    "locationName": "Warp",
+    "queryName": "edge-web-guc3.dual-gslb.spotify.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-21T03:41:28Z",
+    "locationName": "Warp",
+    "queryName": "time.cloudflare.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-21T03:41:51Z",
+    "locationName": "Warp",
+    "queryName": "p2p-dfw2.discovery.steamserver.net",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-21T03:42:09Z",
+    "locationName": "Warp",
+    "queryName": "cdn.discordapp.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-21T03:42:12Z",
+    "locationName": "Warp",
+    "queryName": "discord.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-21T03:42:15Z",
+    "locationName": "Warp",
+    "queryName": "http-intake.logs.datadoghq.com",
+    "resolverDecision": 9
+  },
+  {
+    "datetime": "2026-02-21T03:42:16Z",
+    "locationName": "Warp",
+    "queryName": "www.cloudflarestatus.com",
+    "resolverDecision": 10
+  },
+  {
+    "datetime": "2026-02-21T03:42:28Z",
+    "locationName": "Warp",
+    "queryName": "www.snapchat.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-21T03:42:28Z",
+    "locationName": "Warp",
+    "queryName": "web-gcp.api.sc-gw.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-21T03:42:42Z",
+    "locationName": "Oppo",
+    "queryName": "graph.instagram.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-21T03:42:54Z",
+    "locationName": "Oppo",
+    "queryName": "test-gateway.instagram.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-21T03:42:54Z",
+    "locationName": "Oppo",
+    "queryName": "android.chat.openai.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-21T03:43:02Z",
+    "locationName": "Warp",
+    "queryName": "web-gcp.api.sc-gw.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-21T03:43:02Z",
+    "locationName": "Warp",
+    "queryName": "web.snapchat.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-21T03:43:04Z",
+    "locationName": "Warp",
+    "queryName": "signaler-pa.clients6.google.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-21T03:43:11Z",
+    "locationName": "Warp",
+    "queryName": "af.opera.com",
+    "resolverDecision": 9
+  },
+  {
+    "datetime": "2026-02-21T03:43:23Z",
+    "locationName": "Oppo",
+    "queryName": "play.googleapis.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-21T03:43:29Z",
+    "locationName": "Oppo",
+    "queryName": "time.android.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-21T03:43:38Z",
+    "locationName": "Warp",
+    "queryName": "arc.msn.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-21T03:43:41Z",
+    "locationName": "Oppo",
+    "queryName": "i.instagram.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-21T03:43:45Z",
+    "locationName": "Warp",
+    "queryName": "http-intake.logs.datadoghq.com",
+    "resolverDecision": 9
+  },
+  {
+    "datetime": "2026-02-21T03:43:46Z",
+    "locationName": "Warp",
+    "queryName": "http-intake.logs.datadoghq.com",
+    "resolverDecision": 9
+  },
+  {
+    "datetime": "2026-02-21T03:43:51Z",
+    "locationName": "Warp",
+    "queryName": "p2p-dfw2.discovery.steamserver.net",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-21T03:43:54Z",
+    "locationName": "Warp",
+    "queryName": "spclient.wg.spotify.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-21T03:43:54Z",
+    "locationName": "Warp",
+    "queryName": "edge-web.dual-gslb.spotify.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-21T03:43:59Z",
+    "locationName": "Warp",
+    "queryName": "cdn.discordapp.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-21T03:44:00Z",
+    "locationName": "Warp",
+    "queryName": "datarouter.ol.epicgames.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-21T03:44:30Z",
+    "locationName": "Warp",
+    "queryName": "web.whatsapp.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-21T03:44:31Z",
+    "locationName": "Warp",
+    "queryName": "_5222._https.web.whatsapp.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-21T03:44:31Z",
+    "locationName": "Warp",
+    "queryName": "mmx-ds.cdn.whatsapp.net",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-21T03:44:31Z",
+    "locationName": "Warp",
+    "queryName": "web.whatsapp.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-21T03:44:38Z",
+    "locationName": "Warp",
+    "queryName": "catalog.gamepass.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-21T03:44:51Z",
+    "locationName": "Warp",
+    "queryName": "p2p-dfw2.discovery.steamserver.net",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-21T03:44:53Z",
+    "locationName": "Oppo",
+    "queryName": "2.datadog.pool.ntp.org",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-21T03:44:53Z",
+    "locationName": "Oppo",
+    "queryName": "1.datadog.pool.ntp.org",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-21T03:45:02Z",
+    "locationName": "Warp",
+    "queryName": "web-gcp.api.sc-gw.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-21T03:45:02Z",
+    "locationName": "Warp",
+    "queryName": "web.snapchat.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-21T03:45:15Z",
+    "locationName": "Warp",
+    "queryName": "http-intake.logs.datadoghq.com",
+    "resolverDecision": 9
+  },
+  {
+    "datetime": "2026-02-21T03:45:16Z",
+    "locationName": "Warp",
+    "queryName": "af.opera.com",
+    "resolverDecision": 9
+  },
+  {
+    "datetime": "2026-02-21T03:45:25Z",
+    "locationName": "Warp",
+    "queryName": "spclient.wg.spotify.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-21T03:45:25Z",
+    "locationName": "Warp",
+    "queryName": "edge-web.dual-gslb.spotify.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-21T03:45:25Z",
+    "locationName": "Warp",
+    "queryName": "cdn.discordapp.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-21T03:45:28Z",
+    "locationName": "Warp",
+    "queryName": "guc3-spclient.spotify.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-21T03:45:34Z",
+    "locationName": "Warp",
+    "queryName": "speeddials.opera.com",
+    "resolverDecision": 9
+  },
+  {
+    "datetime": "2026-02-21T03:45:37Z",
+    "locationName": "Warp",
+    "queryName": "discord.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-21T03:45:39Z",
+    "locationName": "Oppo",
+    "queryName": "test-gateway.instagram.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-21T03:45:51Z",
+    "locationName": "Warp",
+    "queryName": "p2p-dfw2.discovery.steamserver.net",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-21T03:45:55Z",
+    "locationName": "Oppo",
+    "queryName": "android.chat.openai.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-21T03:46:03Z",
+    "locationName": "Warp",
+    "queryName": "presence-public-service-prod.ol.epicgames.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-21T03:46:05Z",
+    "locationName": "Warp",
+    "queryName": "mail.google.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-21T03:46:16Z",
+    "locationName": "Warp",
+    "queryName": "optimizationguide-pa.googleapis.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-21T03:46:22Z",
+    "locationName": "Warp",
+    "queryName": "play.google.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-21T03:46:27Z",
+    "locationName": "Warp",
+    "queryName": "settings-win.data.microsoft.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-21T03:46:28Z",
+    "locationName": "Warp",
+    "queryName": "session.snapchat.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-21T03:46:28Z",
+    "locationName": "Warp",
+    "queryName": "accounts.snapchat.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-21T03:46:28Z",
+    "locationName": "Warp",
+    "queryName": "waa-pa.clients6.google.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-21T03:46:28Z",
+    "locationName": "Warp",
+    "queryName": "time.cloudflare.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-21T03:46:44Z",
+    "locationName": "Warp",
+    "queryName": "ssl.gstatic.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-21T03:46:52Z",
+    "locationName": "Warp",
+    "queryName": "p2p-dfw2.discovery.steamserver.net",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-21T03:46:53Z",
+    "locationName": "Warp",
+    "queryName": "cdn.discordapp.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-21T03:46:54Z",
+    "locationName": "Warp",
+    "queryName": "chatgpt.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-21T03:46:54Z",
+    "locationName": "Warp",
+    "queryName": "ws.chatgpt.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-21T03:46:59Z",
+    "locationName": "Warp",
+    "queryName": "af.opera.com",
+    "resolverDecision": 9
+  },
+  {
+    "datetime": "2026-02-21T03:47:07Z",
+    "locationName": "Warp",
+    "queryName": "alive.github.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-21T03:47:08Z",
+    "locationName": "Warp",
+    "queryName": "live.github.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-21T03:47:10Z",
+    "locationName": "Warp",
+    "queryName": "github.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-21T03:47:16Z",
+    "locationName": "Warp",
+    "queryName": "www.cloudflarestatus.com",
+    "resolverDecision": 10
+  },
+  {
+    "datetime": "2026-02-21T03:47:24Z",
+    "locationName": "Warp",
+    "queryName": "utechonline.utech.edu.jm",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-21T03:47:28Z",
+    "locationName": "Warp",
+    "queryName": "gcp.api.snapchat.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-21T03:47:28Z",
+    "locationName": "Warp",
+    "queryName": "time.cloudflare.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-21T03:47:28Z",
+    "locationName": "Warp",
+    "queryName": "gcp.api.sc-gw.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-21T03:47:33Z",
+    "locationName": "Oppo",
+    "queryName": "android.chat.openai.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-21T03:47:37Z",
+    "locationName": "Warp",
+    "queryName": "signaler-pa.clients6.google.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-21T03:47:52Z",
+    "locationName": "Warp",
+    "queryName": "p2p-dfw2.discovery.steamserver.net",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-21T03:47:54Z",
+    "locationName": "Warp",
+    "queryName": "spclient.wg.spotify.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-21T03:47:54Z",
+    "locationName": "Warp",
+    "queryName": "edge-web.dual-gslb.spotify.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-21T03:47:56Z",
+    "locationName": "Warp",
+    "queryName": "www.googletagmanager.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-21T03:48:01Z",
+    "locationName": "Warp",
+    "queryName": "_5222._https.web.whatsapp.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-21T03:48:02Z",
+    "locationName": "Warp",
+    "queryName": "web.snapchat.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-21T03:48:02Z",
+    "locationName": "Warp",
+    "queryName": "web.whatsapp.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-21T03:48:02Z",
+    "locationName": "Warp",
+    "queryName": "web-gcp.api.sc-gw.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-21T03:48:04Z",
+    "locationName": "Warp",
+    "queryName": "www3.l.google.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-21T03:48:07Z",
+    "locationName": "Warp",
+    "queryName": "merchandise.opera-api2.com",
+    "resolverDecision": 9
+  },
+  {
+    "datetime": "2026-02-21T03:48:10Z",
+    "locationName": "Warp",
+    "queryName": "library-service.live.use1a.on.epicgames.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-21T03:48:15Z",
+    "locationName": "Warp",
+    "queryName": "http-intake.logs.datadoghq.com",
+    "resolverDecision": 9
+  },
+  {
+    "datetime": "2026-02-21T03:48:22Z",
+    "locationName": "Warp",
+    "queryName": "lati.lb.opera.technology",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-21T03:48:22Z",
+    "locationName": "Warp",
+    "queryName": "ab-merchandise.opera-api.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-21T03:48:27Z",
+    "locationName": "Warp",
+    "queryName": "accounts.spotify.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-21T03:48:28Z",
+    "locationName": "Warp",
+    "queryName": "edge-web-guc3.dual-gslb.spotify.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-21T03:48:31Z",
+    "locationName": "Warp",
+    "queryName": "cdn.discordapp.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-21T03:48:32Z",
+    "locationName": "Oppo",
+    "queryName": "test-gateway.instagram.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-21T03:48:42Z",
+    "locationName": "Warp",
+    "queryName": "af.opera.com",
+    "resolverDecision": 9
+  },
+  {
+    "datetime": "2026-02-21T03:48:44Z",
+    "locationName": "Warp",
+    "queryName": "account-public-service-prod.ak.epicgames.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-21T03:48:45Z",
+    "locationName": "Warp",
+    "queryName": "ssl.gstatic.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-21T03:48:49Z",
+    "locationName": "Warp",
+    "queryName": "safebrowsing.googleapis.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-21T03:48:52Z",
+    "locationName": "Warp",
+    "queryName": "p2p-dfw2.discovery.steamserver.net",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-21T03:48:54Z",
+    "locationName": "Warp",
+    "queryName": "optimizationguide-pa.googleapis.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-21T03:48:57Z",
+    "locationName": "Oppo",
+    "queryName": "github.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-21T03:49:01Z",
+    "locationName": "Warp",
+    "queryName": "play.google.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-21T03:49:09Z",
+    "locationName": "Oppo",
+    "queryName": "android.chat.openai.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-21T03:49:10Z",
+    "locationName": "Warp",
+    "queryName": "discord.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-21T03:49:20Z",
+    "locationName": "Warp",
+    "queryName": "us.telemetry.zoom.us",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-21T03:49:21Z",
+    "locationName": "Warp",
+    "queryName": "signaler-pa.clients6.google.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-21T03:49:23Z",
+    "locationName": "Warp",
+    "queryName": "us04web.zoom.us",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-21T03:49:26Z",
+    "locationName": "Warp",
+    "queryName": "accounts.google.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-21T03:49:38Z",
+    "locationName": "Warp",
+    "queryName": "catalog.gamepass.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-21T03:49:40Z",
+    "locationName": "Warp",
+    "queryName": "accounts.google.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-21T03:49:42Z",
+    "locationName": "Warp",
+    "queryName": "collector.github.com",
+    "resolverDecision": 9
+  },
+  {
+    "datetime": "2026-02-21T03:49:43Z",
+    "locationName": "Warp",
+    "queryName": "spclient.wg.spotify.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-21T03:49:45Z",
+    "locationName": "Warp",
+    "queryName": "http-intake.logs.datadoghq.com",
+    "resolverDecision": 9
+  },
+  {
+    "datetime": "2026-02-21T03:49:45Z",
+    "locationName": "Warp",
+    "queryName": "api.epicgames.dev",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-21T03:49:45Z",
+    "locationName": "Warp",
+    "queryName": "account-public-service-prod.ak.epicgames.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-21T03:49:52Z",
+    "locationName": "Warp",
+    "queryName": "p2p-dfw2.discovery.steamserver.net",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-21T03:49:58Z",
+    "locationName": "Oppo",
+    "queryName": "test-gateway.instagram.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-21T03:50:01Z",
+    "locationName": "Oppo",
+    "queryName": "2.datadog.pool.ntp.org",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-21T03:50:01Z",
+    "locationName": "Oppo",
+    "queryName": "1.datadog.pool.ntp.org",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-21T03:50:02Z",
+    "locationName": "Warp",
+    "queryName": "web-gcp.api.sc-gw.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-21T03:50:02Z",
+    "locationName": "Warp",
+    "queryName": "web.snapchat.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-21T03:50:02Z",
+    "locationName": "Oppo",
+    "queryName": "3.datadog.pool.ntp.org",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-21T03:50:22Z",
+    "locationName": "Warp",
+    "queryName": "a1446.dscr.akamai.net",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-21T03:50:22Z",
+    "locationName": "Warp",
+    "queryName": "easylist-downloads.adblockplus.org",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-21T03:50:48Z",
+    "locationName": "Warp",
+    "queryName": "discord.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-21T03:50:52Z",
+    "locationName": "Warp",
+    "queryName": "cdn.discordapp.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-21T03:50:52Z",
+    "locationName": "Warp",
+    "queryName": "p2p-dfw2.discovery.steamserver.net",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-21T03:51:28Z",
+    "locationName": "Warp",
+    "queryName": "addons-pa.clients6.google.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-21T03:51:32Z",
+    "locationName": "Warp",
+    "queryName": "web.whatsapp.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-21T03:51:33Z",
+    "locationName": "Warp",
+    "queryName": "web.whatsapp.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-21T03:51:33Z",
+    "locationName": "Warp",
+    "queryName": "mmx-ds.cdn.whatsapp.net",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-21T03:51:33Z",
+    "locationName": "Warp",
+    "queryName": "_5222._https.web.whatsapp.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-21T03:51:36Z",
+    "locationName": "Warp",
+    "queryName": "lati.lb.opera.technology",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-21T03:51:36Z",
+    "locationName": "Warp",
+    "queryName": "merchandise.opera-api2.com",
+    "resolverDecision": 9
+  },
+  {
+    "datetime": "2026-02-21T03:51:37Z",
+    "locationName": "Oppo",
+    "queryName": "g.whatsapp.net",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-21T03:51:38Z",
+    "locationName": "Oppo",
+    "queryName": "spi",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-21T03:51:39Z",
+    "locationName": "Oppo",
+    "queryName": "pro.openweathermap.org",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-21T03:51:39Z",
+    "locationName": "Warp",
+    "queryName": "play.google.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-21T03:51:39Z",
+    "locationName": "Oppo",
+    "queryName": "android.chat.openai.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-21T03:51:44Z",
+    "locationName": "Oppo",
+    "queryName": "youtubei.googleapis.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-21T03:51:46Z",
+    "locationName": "Oppo",
+    "queryName": "ac.flixcart.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-21T03:51:46Z",
+    "locationName": "Oppo",
+    "queryName": "1.rome.api.flipkart.net",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-21T03:51:46Z",
+    "locationName": "Oppo",
+    "queryName": "connekt.flipkart.net",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-21T03:51:47Z",
+    "locationName": "Oppo",
+    "queryName": "people-pa.googleapis.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-21T03:51:48Z",
+    "locationName": "Oppo",
+    "queryName": "mail-api.proton.me",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-21T03:51:49Z",
+    "locationName": "Oppo",
+    "queryName": "api.protonmail.ch",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-21T03:51:53Z",
+    "locationName": "Oppo",
+    "queryName": "www.amazon.in",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-21T03:51:55Z",
+    "locationName": "Oppo",
+    "queryName": "mads.amazon-adsystem.com",
+    "resolverDecision": 9
+  },
+  {
+    "datetime": "2026-02-21T03:51:56Z",
+    "locationName": "Oppo",
+    "queryName": "firefox.settings.services.mozilla.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-21T03:51:56Z",
+    "locationName": "Oppo",
+    "queryName": "incoming.telemetry.mozilla.org",
+    "resolverDecision": 9
+  },
+  {
+    "datetime": "2026-02-21T03:52:03Z",
+    "locationName": "Oppo",
+    "queryName": "graph.whatsapp.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-21T03:52:05Z",
+    "locationName": "Warp",
+    "queryName": "lati.lb.opera.technology",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-21T03:52:05Z",
+    "locationName": "Warp",
+    "queryName": "ab-merchandise.opera-api.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-21T03:52:08Z",
+    "locationName": "Oppo",
+    "queryName": "i.instagram.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-21T03:52:09Z",
+    "locationName": "Oppo",
+    "queryName": "g-fallback.whatsapp.net",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-21T03:52:14Z",
+    "locationName": "Oppo",
+    "queryName": "e16.whatsapp.net",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-21T03:52:14Z",
+    "locationName": "Oppo",
+    "queryName": "ac.flixcart.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-21T03:52:15Z",
+    "locationName": "Oppo",
+    "queryName": "edge-mqtt.facebook.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-21T03:52:16Z",
+    "locationName": "Warp",
+    "queryName": "time.cloudflare.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-21T03:52:21Z",
+    "locationName": "Oppo",
+    "queryName": "geller-pa.googleapis.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-21T03:52:28Z",
+    "locationName": "Warp",
+    "queryName": "af.opera.com",
+    "resolverDecision": 9
+  },
+  {
+    "datetime": "2026-02-21T03:52:28Z",
+    "locationName": "Warp",
+    "queryName": "waa-pa.clients6.google.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-21T03:52:45Z",
+    "locationName": "Warp",
+    "queryName": "http-intake.logs.datadoghq.com",
+    "resolverDecision": 9
+  },
+  {
+    "datetime": "2026-02-21T03:52:45Z",
+    "locationName": "Oppo",
+    "queryName": "graph.facebook.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-21T03:52:47Z",
+    "locationName": "Warp",
+    "queryName": "ssl.gstatic.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-21T03:52:52Z",
+    "locationName": "Warp",
+    "queryName": "p2p-dfw2.discovery.steamserver.net",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-21T03:52:54Z",
+    "locationName": "Warp",
+    "queryName": "spclient.wg.spotify.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-21T03:52:54Z",
+    "locationName": "Warp",
+    "queryName": "edge-web.dual-gslb.spotify.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-21T03:53:02Z",
+    "locationName": "Warp",
+    "queryName": "web.snapchat.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-21T03:53:02Z",
+    "locationName": "Warp",
+    "queryName": "web-gcp.api.sc-gw.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-21T03:53:23Z",
+    "locationName": "Warp",
+    "queryName": "us.telemetry.zoom.us",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-21T03:53:26Z",
+    "locationName": "Warp",
+    "queryName": "signaler-pa.clients6.google.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-21T03:53:28Z",
+    "locationName": "Warp",
+    "queryName": "edge-web-guc3.dual-gslb.spotify.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-21T03:53:28Z",
+    "locationName": "Warp",
+    "queryName": "guc3-spclient.spotify.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-21T03:53:28Z",
+    "locationName": "Warp",
+    "queryName": "addons-pa.clients6.google.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-21T03:53:28Z",
+    "locationName": "Warp",
+    "queryName": "time.cloudflare.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-21T03:53:41Z",
+    "locationName": "Warp",
+    "queryName": "lightswitch-public-service-prod06.ol.epicgames.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-21T03:53:44Z",
+    "locationName": "Oppo",
+    "queryName": "z-m-gateway.facebook.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-21T03:53:44Z",
+    "locationName": "Oppo",
+    "queryName": "test-gateway.instagram.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-21T03:53:45Z",
+    "locationName": "Oppo",
+    "queryName": "file-intl-push.heytapdl.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-21T03:53:47Z",
+    "locationName": "Oppo",
+    "queryName": "mdp-appconf-in.heytapdl.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-21T03:53:48Z",
+    "locationName": "Oppo",
+    "queryName": "weather-server.allawnos.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-21T03:53:52Z",
+    "locationName": "Warp",
+    "queryName": "p2p-dfw2.discovery.steamserver.net",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-21T03:54:00Z",
+    "locationName": "Oppo",
+    "queryName": "g.whatsapp.net",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-21T03:54:00Z",
+    "locationName": "Warp",
+    "queryName": "datarouter.ol.epicgames.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-21T03:54:04Z",
+    "locationName": "Oppo",
+    "queryName": "play-fe.googleapis.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-21T03:54:06Z",
+    "locationName": "Warp",
+    "queryName": "cdn.discordapp.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-21T03:54:13Z",
+    "locationName": "Oppo",
+    "queryName": "android.clients.google.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-21T03:54:14Z",
+    "locationName": "Oppo",
+    "queryName": "playstoregatewayadapter-pa.googleapis.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-21T03:54:15Z",
+    "locationName": "Warp",
+    "queryName": "merchandise.opera-api2.com",
+    "resolverDecision": 9
+  },
+  {
+    "datetime": "2026-02-21T03:54:15Z",
+    "locationName": "Oppo",
+    "queryName": "appsgrowthpromo-pa.googleapis.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-21T03:54:17Z",
+    "locationName": "Oppo",
+    "queryName": "i.instagram.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-21T03:54:18Z",
+    "locationName": "Oppo",
+    "queryName": "graph.instagram.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-21T03:54:19Z",
+    "locationName": "Oppo",
+    "queryName": "connectivitycheck.gstatic.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-21T03:54:21Z",
+    "locationName": "Warp",
+    "queryName": "optimizationguide-pa.googleapis.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-21T03:54:28Z",
+    "locationName": "Warp",
+    "queryName": "play.google.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-21T03:54:38Z",
+    "locationName": "Warp",
+    "queryName": "catalog.gamepass.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-21T03:54:41Z",
+    "locationName": "Warp",
+    "queryName": "config-edge-skype.ln-0007.ln-msedge.net",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-21T03:54:41Z",
+    "locationName": "Warp",
+    "queryName": "www.msn.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-21T03:54:41Z",
+    "locationName": "Warp",
+    "queryName": "config.edge.skype.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-21T03:54:42Z",
+    "locationName": "Warp",
+    "queryName": "e592.d.akamaiedge.net",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-21T03:54:53Z",
+    "locationName": "Warp",
+    "queryName": "p2p-dfw2.discovery.steamserver.net",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-21T03:55:02Z",
+    "locationName": "Warp",
+    "queryName": "web-gcp.api.sc-gw.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-21T03:55:02Z",
+    "locationName": "Warp",
+    "queryName": "web.snapchat.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-21T03:55:04Z",
+    "locationName": "Warp",
+    "queryName": "_5222._https.web.whatsapp.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-21T03:55:04Z",
+    "locationName": "Warp",
+    "queryName": "mmx-ds.cdn.whatsapp.net",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-21T03:55:04Z",
+    "locationName": "Warp",
+    "queryName": "web.whatsapp.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-21T03:55:33Z",
+    "locationName": "Warp",
+    "queryName": "cdn.discordapp.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-21T03:55:46Z",
+    "locationName": "Warp",
+    "queryName": "http-intake.logs.datadoghq.com",
+    "resolverDecision": 9
+  },
+  {
+    "datetime": "2026-02-21T03:55:47Z",
+    "locationName": "Oppo",
+    "queryName": "test-gateway.instagram.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-21T03:55:47Z",
+    "locationName": "Oppo",
+    "queryName": "androidpay-users-pa.googleapis.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-21T03:55:48Z",
+    "locationName": "Warp",
+    "queryName": "us.telemetry.zoom.us",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-21T03:55:49Z",
+    "locationName": "Warp",
+    "queryName": "us.telemetry.zoom.us",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-21T03:55:53Z",
+    "locationName": "Warp",
+    "queryName": "p2p-dfw2.discovery.steamserver.net",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-21T03:55:55Z",
+    "locationName": "Warp",
+    "queryName": "spclient.wg.spotify.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-21T03:55:55Z",
+    "locationName": "Warp",
+    "queryName": "edge-web.dual-gslb.spotify.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-21T03:56:06Z",
+    "locationName": "Warp",
+    "queryName": "mail.google.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-21T03:56:06Z",
+    "locationName": "Warp",
+    "queryName": "af.opera.com",
+    "resolverDecision": 9
+  },
+  {
+    "datetime": "2026-02-21T03:56:23Z",
+    "locationName": "Warp",
+    "queryName": "play.google.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-21T03:56:53Z",
+    "locationName": "Warp",
+    "queryName": "p2p-dfw2.discovery.steamserver.net",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-21T03:56:59Z",
+    "locationName": "Oppo",
+    "queryName": "g.whatsapp.net",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-21T03:57:02Z",
+    "locationName": "Warp",
+    "queryName": "web-gcp.api.sc-gw.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-21T03:57:02Z",
+    "locationName": "Warp",
+    "queryName": "web.snapchat.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-21T03:57:03Z",
+    "locationName": "Warp",
+    "queryName": "optimizationguide-pa.googleapis.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-21T03:57:11Z",
+    "locationName": "Warp",
+    "queryName": "af.opera.com",
+    "resolverDecision": 9
+  },
+  {
+    "datetime": "2026-02-21T03:57:16Z",
+    "locationName": "Warp",
+    "queryName": "www.cloudflarestatus.com",
+    "resolverDecision": 10
+  },
+  {
+    "datetime": "2026-02-21T03:57:16Z",
+    "locationName": "Warp",
+    "queryName": "http-intake.logs.datadoghq.com",
+    "resolverDecision": 9
+  },
+  {
+    "datetime": "2026-02-21T03:57:16Z",
+    "locationName": "Warp",
+    "queryName": "time.cloudflare.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-21T03:57:20Z",
+    "locationName": "Warp",
+    "queryName": "signaler-pa.clients6.google.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-21T03:57:28Z",
+    "locationName": "Warp",
+    "queryName": "www.snapchat.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-21T03:57:28Z",
+    "locationName": "Warp",
+    "queryName": "web-gcp.api.sc-gw.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-21T03:57:28Z",
+    "locationName": "Warp",
+    "queryName": "accounts.snapchat.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-21T03:57:28Z",
+    "locationName": "Warp",
+    "queryName": "edge-web-guc3.dual-gslb.spotify.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-21T03:57:28Z",
+    "locationName": "Warp",
+    "queryName": "guc3-spclient.spotify.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-21T03:57:31Z",
+    "locationName": "Oppo",
+    "queryName": "test-gateway.instagram.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-21T03:57:53Z",
+    "locationName": "Warp",
+    "queryName": "p2p-dfw2.discovery.steamserver.net",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-21T03:58:06Z",
+    "locationName": "Warp",
+    "queryName": "www3.l.google.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-21T03:58:06Z",
+    "locationName": "Warp",
+    "queryName": "accounts.youtube.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-21T03:58:24Z",
+    "locationName": "Warp",
+    "queryName": "edge-web.dual-gslb.spotify.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-21T03:58:24Z",
+    "locationName": "Warp",
+    "queryName": "spclient.wg.spotify.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-21T03:58:28Z",
+    "locationName": "Warp",
+    "queryName": "gcp.api.snapchat.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-21T03:58:28Z",
+    "locationName": "Warp",
+    "queryName": "waa-pa.clients6.google.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-21T03:58:28Z",
+    "locationName": "Warp",
+    "queryName": "play.google.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-21T03:58:28Z",
+    "locationName": "Warp",
+    "queryName": "gcp.api.sc-gw.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-21T03:58:32Z",
+    "locationName": "Warp",
+    "queryName": "cdn.discordapp.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-21T03:58:35Z",
+    "locationName": "Warp",
+    "queryName": "_5222._https.web.whatsapp.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-21T03:58:35Z",
+    "locationName": "Warp",
+    "queryName": "web.whatsapp.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-21T03:58:45Z",
+    "locationName": "Warp",
+    "queryName": "mail.google.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-21T03:58:46Z",
+    "locationName": "Oppo",
+    "queryName": "test-gateway.instagram.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-21T03:58:46Z",
+    "locationName": "Warp",
+    "queryName": "http-intake.logs.datadoghq.com",
+    "resolverDecision": 9
+  },
+  {
+    "datetime": "2026-02-21T03:58:50Z",
+    "locationName": "Warp",
+    "queryName": "ssl.gstatic.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-21T03:58:50Z",
+    "locationName": "Warp",
+    "queryName": "discord.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-21T03:58:53Z",
+    "locationName": "Warp",
+    "queryName": "p2p-dfw2.discovery.steamserver.net",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-21T03:59:00Z",
+    "locationName": "Warp",
+    "queryName": "datarouter.ol.epicgames.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-21T03:59:02Z",
+    "locationName": "Warp",
+    "queryName": "web.snapchat.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-21T03:59:02Z",
+    "locationName": "Warp",
+    "queryName": "web-gcp.api.sc-gw.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-21T03:59:28Z",
+    "locationName": "Warp",
+    "queryName": "accounts.google.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-21T03:59:38Z",
+    "locationName": "Warp",
+    "queryName": "catalog.gamepass.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-21T03:59:48Z",
+    "locationName": "Warp",
+    "queryName": "optimizationguide-pa.googleapis.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-21T03:59:48Z",
+    "locationName": "Warp",
+    "queryName": "account-public-service-prod.ak.epicgames.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-21T03:59:48Z",
+    "locationName": "Warp",
+    "queryName": "us.telemetry.zoom.us",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-21T03:59:52Z",
+    "locationName": "Oppo",
+    "queryName": "instantmessaging-pa-jms-ap.googleapis.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-21T03:59:53Z",
+    "locationName": "Warp",
+    "queryName": "p2p-dfw2.discovery.steamserver.net",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-21T03:59:55Z",
+    "locationName": "Oppo",
+    "queryName": "i.instagram.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-21T04:00:16Z",
+    "locationName": "Warp",
+    "queryName": "http-intake.logs.datadoghq.com",
+    "resolverDecision": 9
+  },
+  {
+    "datetime": "2026-02-21T04:00:26Z",
+    "locationName": "Warp",
+    "queryName": "autoupdate.opera.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-21T04:00:41Z",
+    "locationName": "Oppo",
+    "queryName": "graph.facebook.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-21T04:00:43Z",
+    "locationName": "Oppo",
+    "queryName": "googleads.g.doubleclick.net",
+    "resolverDecision": 9
+  },
+  {
+    "datetime": "2026-02-21T04:00:48Z",
+    "locationName": "Warp",
+    "queryName": "cdn.discordapp.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-21T04:00:51Z",
+    "locationName": "Warp",
+    "queryName": "ssl.gstatic.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-21T04:00:53Z",
+    "locationName": "Warp",
+    "queryName": "p2p-dfw2.discovery.steamserver.net",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-21T04:00:54Z",
+    "locationName": "Oppo",
+    "queryName": "test-gateway.instagram.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-21T04:01:02Z",
+    "locationName": "Warp",
+    "queryName": "web-gcp.api.sc-gw.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-21T04:01:02Z",
+    "locationName": "Warp",
+    "queryName": "web.snapchat.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-21T04:01:03Z",
+    "locationName": "Warp",
+    "queryName": "presence-public-service-prod.ol.epicgames.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-21T04:01:09Z",
+    "locationName": "Warp",
+    "queryName": "discord.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-21T04:01:25Z",
+    "locationName": "Warp",
+    "queryName": "spclient.wg.spotify.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-21T04:01:28Z",
+    "locationName": "Warp",
+    "queryName": "edge-web-guc3.dual-gslb.spotify.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-21T04:01:28Z",
+    "locationName": "Warp",
+    "queryName": "time.cloudflare.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-21T04:01:28Z",
+    "locationName": "Warp",
+    "queryName": "guc3-spclient.spotify.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-21T04:01:46Z",
+    "locationName": "Warp",
+    "queryName": "http-intake.logs.datadoghq.com",
+    "resolverDecision": 9
+  },
+  {
+    "datetime": "2026-02-21T04:01:53Z",
+    "locationName": "Warp",
+    "queryName": "p2p-dfw2.discovery.steamserver.net",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-21T04:02:06Z",
+    "locationName": "Warp",
+    "queryName": "web.whatsapp.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-21T04:02:06Z",
+    "locationName": "Warp",
+    "queryName": "_5222._https.web.whatsapp.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-21T04:02:07Z",
+    "locationName": "Warp",
+    "queryName": "mmx-ds.cdn.whatsapp.net",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-21T04:02:07Z",
+    "locationName": "Warp",
+    "queryName": "web.whatsapp.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-21T04:02:16Z",
+    "locationName": "Warp",
+    "queryName": "www.cloudflarestatus.com",
+    "resolverDecision": 10
+  },
+  {
+    "datetime": "2026-02-21T04:02:27Z",
+    "locationName": "Warp",
+    "queryName": "optimizationguide-pa.googleapis.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-21T04:02:54Z",
+    "locationName": "Warp",
+    "queryName": "p2p-dfw2.discovery.steamserver.net",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-21T04:03:02Z",
+    "locationName": "Warp",
+    "queryName": "web-gcp.api.sc-gw.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-21T04:03:02Z",
+    "locationName": "Warp",
+    "queryName": "web.snapchat.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-21T04:03:10Z",
+    "locationName": "Warp",
+    "queryName": "library-service.live.use1a.on.epicgames.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-21T04:03:16Z",
+    "locationName": "Warp",
+    "queryName": "http-intake.logs.datadoghq.com",
+    "resolverDecision": 9
+  },
+  {
+    "datetime": "2026-02-21T04:03:16Z",
+    "locationName": "Warp",
+    "queryName": "web.whatsapp.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-21T04:03:23Z",
+    "locationName": "Warp",
+    "queryName": "ab-merchandise.opera-api.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-21T04:03:24Z",
+    "locationName": "Warp",
+    "queryName": "lati.lb.opera.technology",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-21T04:03:28Z",
+    "locationName": "Warp",
+    "queryName": "play.google.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-21T04:03:31Z",
+    "locationName": "Warp",
+    "queryName": "cdn.discordapp.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-21T04:03:45Z",
+    "locationName": "Warp",
+    "queryName": "discord.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-21T04:03:54Z",
+    "locationName": "Warp",
+    "queryName": "p2p-dfw2.discovery.steamserver.net",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-21T04:04:00Z",
+    "locationName": "Warp",
+    "queryName": "datarouter.ol.epicgames.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-21T04:04:00Z",
+    "locationName": "Oppo",
+    "queryName": "test-gateway.instagram.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-21T04:04:03Z",
+    "locationName": "Warp",
+    "queryName": "www.recaptcha.net",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-21T04:04:03Z",
+    "locationName": "Warp",
+    "queryName": "trn.lb.opera.technology",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-21T04:04:03Z",
+    "locationName": "Warp",
+    "queryName": "sitecheck.opera.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-21T04:04:03Z",
+    "locationName": "Warp",
+    "queryName": "af.opera.com",
+    "resolverDecision": 9
+  },
+  {
+    "datetime": "2026-02-21T04:04:28Z",
+    "locationName": "Warp",
+    "queryName": "waa-pa.clients6.google.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-21T04:04:38Z",
+    "locationName": "Warp",
+    "queryName": "catalog.gamepass.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-21T04:04:46Z",
+    "locationName": "Warp",
+    "queryName": "http-intake.logs.datadoghq.com",
+    "resolverDecision": 9
+  },
+  {
+    "datetime": "2026-02-21T04:04:53Z",
+    "locationName": "Warp",
+    "queryName": "ssl.gstatic.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-21T04:04:54Z",
+    "locationName": "Warp",
+    "queryName": "p2p-dfw2.discovery.steamserver.net",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-21T04:05:02Z",
+    "locationName": "Warp",
+    "queryName": "web.snapchat.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-21T04:05:02Z",
+    "locationName": "Warp",
+    "queryName": "web-gcp.api.sc-gw.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-21T04:05:26Z",
+    "locationName": "Warp",
+    "queryName": "optimizationguide-pa.googleapis.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-21T04:05:28Z",
+    "locationName": "Warp",
+    "queryName": "guc3-spclient.spotify.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-21T04:05:28Z",
+    "locationName": "Warp",
+    "queryName": "edge-web-guc3.dual-gslb.spotify.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-21T04:05:37Z",
+    "locationName": "Warp",
+    "queryName": "web.whatsapp.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-21T04:05:38Z",
+    "locationName": "Warp",
+    "queryName": "_5222._https.web.whatsapp.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-21T04:05:38Z",
+    "locationName": "Warp",
+    "queryName": "web.whatsapp.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-21T04:05:38Z",
+    "locationName": "Warp",
+    "queryName": "mmx-ds.cdn.whatsapp.net",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-21T04:05:45Z",
+    "locationName": "Warp",
+    "queryName": "cdn.discordapp.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-21T04:05:54Z",
+    "locationName": "Warp",
+    "queryName": "p2p-dfw2.discovery.steamserver.net",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-21T04:06:07Z",
+    "locationName": "Warp",
+    "queryName": "mail.google.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-21T04:06:13Z",
+    "locationName": "Warp",
+    "queryName": "alive.github.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-21T04:06:13Z",
+    "locationName": "Warp",
+    "queryName": "live.github.com",
+    "resolverDecision": 5
+  },
+  {
+    "datetime": "2026-02-21T04:06:16Z",
+    "locationName": "Warp",
+    "queryName": "http-intake.logs.datadoghq.com",
+    "resolverDecision": 9
+  },
+  {
+    "datetime": "2026-02-21T04:06:27Z",
+    "locationName": "Warp",
+    "queryName": "af.opera.com",
+    "resolverDecision": 9
+  }
+]
